@@ -6,3 +6,5 @@ note
 .dist
 output
 .vscode
+CMakeLists.txt
+cmake-build-debug
