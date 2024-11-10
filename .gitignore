@@ -8,3 +8,5 @@ output
 .vscode
 CMakeLists.txt
 cmake-build-debug
+.cache
+.fleet

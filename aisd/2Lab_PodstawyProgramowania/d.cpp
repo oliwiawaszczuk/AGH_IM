@@ -28,6 +28,18 @@ bool is_palidrom(string text) {
     return true;
 }
 
+void with_polish_chars(string text) {
+      unsigned short *litery = new unsigned short[text.size()]; // na male litery bez spacji w formacje 16 bit
+      for (int i=0; i<text.size(); i++) {
+        unsigned char chr = static_cast<unsigned char>(text[i]); // poszczegolny znaczek
+        if (chr == ' ') continue;
+//        unsigned short
+        if ((chr >> 5) == 0b110) {
+
+        }
+  }
+}
+
 int main() {
     string text;
     getline(cin, text);
