@@ -1,0 +1,27 @@
+Parking przechowuje samochody
+ma powiedziane na starcie tworzenia - ile ma miejsc
+miejsca sa graficznie ustawiane
+mozna zobaczyc ustawienia parkingu
+
+
+
+samochód ma rejestracje
+na bazie tej rejestracji wjezdza na
+
+
+
+symulacja oparta na tworzeniu parkingu i parkownaiu tam samochodów - sami wjezdzamy samochodami
+gra - my obslugujemy parking, dodany jest czas, samochody same przyjezdzaja i chca wjechac - backend sie tym zajmuje
+
+mozna rysowac samochody?
+
+
+SCREENS:
+ - tworzenie parkingu
+
+
+WORK:
+- dodanie przezroczystych przycisków na dane pole
+- przyciski musza sie tworzyć razem z meijscem parkingowym, wiec miejsce parkingowe musi być klasą
+- class MiejsceParkingowe - id: string, zajete: bool
+

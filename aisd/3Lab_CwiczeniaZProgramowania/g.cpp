@@ -27,29 +27,58 @@ int main()
     int top=0, bottom=rows-1, left=0, right=cols-1;
     while (top <= bottom && left <= right) {
 
-        for (int i = left; i <= right; i++) { // right
-            tab[top][i] = counter++;
-        }
-        top++;
-
-        for (int i = top; i <= bottom; i++) { // down
-            tab[i][right] = counter++;
-        }
-        right--;
-
-        if (top <= bottom) {
-            for (int i = right; i >= left; i--) { // left
-                tab[bottom][i] = counter++;
-            }
-            bottom--;
-        }
-
-        if (left <= right) {
-            for (int i = bottom; i >= top; i--) { // up
-                tab[i][left] = counter++;
-            }
-            left++;
-        }
+//        for (int i = left; i <= right; i++) { // right
+//            tab[top][i] = counter++;
+//        }
+//        top++;
+//
+//        for (int i = top; i <= bottom; i++) { // down
+//            tab[i][right] = counter++;
+//        }
+//        right--;
+//
+//        if (top <= bottom) {
+//            for (int i = right; i >= left; i--) { // left
+//                tab[bottom][i] = counter++;
+//            }
+//            bottom--;
+//        }
+//
+//        if (left <= right) {
+//            for (int i = bottom; i >= top; i--) { // up
+//                tab[i][left] = counter++;
+//            }
+//            left++;
+//        }
+        // z dolu do gory
+//            for (int i = bottom; i >= top; i--) {
+//                tab[i][right] = counter++;
+//            }
+//            right--;
+//
+//            // W lewo
+//            if (left <= right) {
+//                for (int i = right; i >= left; i--) {
+//                    tab[top][i] = counter++;
+//                }
+//                top++;
+//            }
+//
+//            // W górę
+//            if (top <= bottom) {
+//                for (int i = top; i <= bottom; i++) {
+//                    tab[i][left] = counter++;
+//                }
+//                left++;
+//            }
+//
+//            // W prawo
+//            if (left <= right) {
+//                for (int i = left; i <= right; i++) {
+//                    tab[bottom][i] = counter++;
+//                }
+//                bottom--;
+//            }
     }
 
     // Rysowanie slimaka
