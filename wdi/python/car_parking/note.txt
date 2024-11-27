@@ -25,3 +25,9 @@ WORK:
 - przyciski musza sie tworzyć razem z meijscem parkingowym, wiec miejsce parkingowe musi być klasą
 - class MiejsceParkingowe - id: string, zajete: bool
 
+
+dodanie gry polegającej np. na jechaniu samochodem i zbieraniu punktów (agh/ects)
+
+fabula gry, ze wcielasz sie w studenta agh i muszisz zbierac punkty - cos goni?
+
+- size for
