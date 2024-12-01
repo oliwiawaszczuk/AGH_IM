@@ -1,3 +1,5 @@
+import random
+
 from PyQt5.QtGui import QPainter, QPixmap, QTransform, QIcon
 from PyQt5.QtWidgets import QMainWindow, QPushButton
 

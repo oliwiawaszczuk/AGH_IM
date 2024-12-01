@@ -2,6 +2,7 @@ class ParkingSpace:
     def __init__(self, id):
         self.id = id
         self.car = None
+        self.rotated = False
 
     def is_empty(self):
         # print(f"sprawadzanie miejsca {self.id} a samochod to: {self.car}")

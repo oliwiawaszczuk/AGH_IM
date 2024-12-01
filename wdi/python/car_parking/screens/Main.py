@@ -1,4 +1,6 @@
-from PyQt5.QtGui import QPainter, QPen, QPixmap, QIcon
+import random
+
+from PyQt5.QtGui import QPainter, QPen, QPixmap, QIcon, QTransform
 from PyQt5.QtWidgets import QMainWindow, QPushButton
 import Colors
 import const
@@ -28,15 +30,13 @@ class MainWindow(QMainWindow):
             button.setStyleSheet("background-color: rgba(0, 0, 0, 0); border: none; color: white;")
 
     def create_buttons(self):
-        self.buttons.clear()
-
         one_empty_width = int(self.window_size.width() / self.how_many_empty)
         one_empty_height = int(self.window_size.height() / 3)
 
         for i in range(int(self.how_many_empty)):
             x = (i % (self.how_many_empty // 2)) * 2 * one_empty_width
             y = 0 if i < self.how_many_empty // 2 else self.window_size.height() - one_empty_height
-            button = QPushButton(str(i + 1), self)
+            button = QPushButton("", self)
             button.setGeometry(x, y, 2 * one_empty_width, one_empty_height)
             button.setStyleSheet("background-color: rgba(0, 0, 0, 0); border: none; color: white;")
             button.clicked.connect(lambda _, btn_id=i + 1: self.click(btn_id))
@@ -55,6 +55,12 @@ class MainWindow(QMainWindow):
             image = QPixmap(f"images/{parking_space.car.path_to_image}").scaled(
                 const.ONE_FIELD_WIDTH, const.ONE_FIELD_HEIGHT
             )
+
+            rotated_angle = 0
+            if parking_space.rotated:
+                rotated_angle = 180
+
+            image = image.transformed(QTransform().rotate(rotated_angle))
             icon = QIcon(image)
             button.setIcon(icon)
             button.setIconSize(image.size())

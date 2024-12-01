@@ -1,5 +1,9 @@
+import random
+
 from PyQt5.QtWidgets import QMainWindow, QLabel, QPushButton
 from enum import Enum
+
+import const
 
 
 class WindowState(Enum):
@@ -9,10 +13,10 @@ class WindowState(Enum):
 
 
 class Menu(QMainWindow):
-    def __init__(self, queue_list):
+    def __init__(self, window_position, window_size, queue_list):
         super().__init__()
         self.setWindowTitle('Menu')
-        self.setGeometry(0, 0, 500, 600)
+        self.setGeometry(window_size)
         self.windowState = WindowState.NoneInfo
         self.clickedCar = None
         self.clickedField = None
@@ -60,8 +64,12 @@ class Menu(QMainWindow):
         if car:
             was_empty = self.clickedField.add_car(car)
             if was_empty:
+                self.clickedField.rotated = random.choice([True, False])
                 self.main.reset_button_styles()
-                self.main.create_buttons()
+                self.main.update_all_buttons()
+
+                # self.main.update_button_image(self.main.buttons[self.clickedField.id - 1], self.clickedField, rotate)
+
                 self.clickedField = None
                 self.windowState = WindowState.NoneInfo
                 self.displayWindowInfo()
