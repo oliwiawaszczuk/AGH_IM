@@ -7,6 +7,7 @@ from PyQt5.QtGui import QPainter, QPixmap, QIcon, QColor, QPen
 from PyQt5.QtWidgets import QMainWindow, QPushButton, QLabel, QLineEdit, QWidget, QVBoxLayout, QScrollArea, \
     QGridLayout, QHBoxLayout
 
+import Colors
 import const
 from Classes.Car import Car
 
@@ -25,12 +26,15 @@ class AddNewCarToQueueScreen(QMainWindow):
         self.queue_window = queue
 
     def paintEvent(self, event):
-        # painter = QPainter(self)
+        painter = QPainter(self)
+        painter.fillRect(event.rect(), Colors.bg_color)
+
         button = QPushButton("Stworz nowy samochod do kolejki", self)
         button.setGeometry(0, 0, self.window_size.width(), self.window_size.height())
+        button.setStyleSheet( "color: white; font-size: 16px; border-radius: 10px;")
+
         button.clicked.connect(self.add_new)
         button.show()
-        # painter.fillRect(event.rect(), Colors.bg_color)
 
     def add_new(self):
         if self.new_car_window is None:
@@ -45,40 +49,60 @@ class NewCarWindow(QMainWindow):
         self.setGeometry(add_window_size)
         self.add_window_size = add_window_size
         self.queue_window = queue_window
-
         self.queue_list = queue_list
 
+        main_widget = QWidget(self)
+        layout = QVBoxLayout(main_widget)
+
         label = QLabel("Numer rejestracyjny:", self)
-        label.setGeometry(10, 10, 200, 30)
-        label.show()
-
+        layout.addWidget(label)
         self.tablica_rejestracyjna_text_input = QLineEdit(self)
-        self.tablica_rejestracyjna_text_input.setGeometry(10, 50, add_window_size.width() - 20, 30)
-        self.tablica_rejestracyjna_text_input.show()
+        layout.addWidget(self.tablica_rejestracyjna_text_input)
 
-        button_width = add_window_size.width() // 2 - 20
-        button_height = 40
-        button_y = add_window_size.height() - button_height - 20
+        marka_label = QLabel("Marka:", self)
+        layout.addWidget(marka_label)
+        self.marka_text_input = QLineEdit(self)
+        layout.addWidget(self.marka_text_input)
+
+        model_label = QLabel("Model:", self)
+        layout.addWidget(model_label)
+        self.model_text_input = QLineEdit(self)
+        layout.addWidget(self.model_text_input)
+
+        year_label = QLabel("Rok produkcji:", self)
+        layout.addWidget(year_label)
+        self.year_text_input = QLineEdit(self)
+        layout.addWidget(self.year_text_input)
+
+        engine_type_label = QLabel("Typ silnika:", self)
+        layout.addWidget(engine_type_label)
+        self.engine_type_text_input = QLineEdit(self)
+        layout.addWidget(self.engine_type_text_input)
+
+        mileage_label = QLabel("Przebieg (km):", self)
+        layout.addWidget(mileage_label)
+        self.mileage_text_input = QLineEdit(self)
+        layout.addWidget(self.mileage_text_input)
 
         photo_button = QPushButton("Wybierz zdjęcie", self)
-        photo_button.setGeometry(10, 100, 150, 30)
         photo_button.clicked.connect(self.pick_photo)
-        photo_button.show()
+        layout.addWidget(photo_button)
 
         self.photo_path = QLabel("Nie wybrano zdjęcia", self)
-        self.photo_path.setGeometry(170, 100, 300, 30)
-        self.photo_path.show()
+        layout.addWidget(self.photo_path)
 
         cancel_button = QPushButton("Anuluj", self)
-        cancel_button.setGeometry(10, button_y, button_width, button_height)
         cancel_button.clicked.connect(self.close_window)
+        layout.addWidget(cancel_button)
 
         add_button = QPushButton("Dodaj", self)
-        add_button.setGeometry(button_width + 30, button_y, button_width, button_height)
         add_button.clicked.connect(self.add_car)
+        layout.addWidget(add_button)
 
-        cancel_button.show()
-        add_button.show()
+        scroll_area = QScrollArea(self)
+        scroll_area.setWidget(main_widget)
+        scroll_area.setWidgetResizable(True)
+        self.setCentralWidget(scroll_area)
 
     def pick_photo(self):
         picker = ImagePickerWindow(const.PATH_TO_IMAGES, self.add_window_size, self)
@@ -94,7 +118,16 @@ class NewCarWindow(QMainWindow):
     def add_car(self):
         if self.tablica_rejestracyjna_text_input.text().strip() != "" and self.photo_path.text() != "Nie wybrano zdjęcia":
             path_to_image = self.photo_path.text()
-            self.queue_list.add_car_to_queue(Car(0, self.tablica_rejestracyjna_text_input.text(), path_to_image))
+            plate = self.tablica_rejestracyjna_text_input.text()
+            brand = self.marka_text_input.text()
+            model = self.model_text_input.text()
+            year = self.year_text_input.text()
+            engine_type = self.engine_type_text_input.text()
+            mileage = self.mileage_text_input.text()
+
+            car = Car(0, plate, path_to_image, brand, model, year, engine_type, mileage)
+
+            self.queue_list.add_car_to_queue(car)
             self.parent().new_car_window = None
             self.queue_window.refresh_view()
             self.close()
