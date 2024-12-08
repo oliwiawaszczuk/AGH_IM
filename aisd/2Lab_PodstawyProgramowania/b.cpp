@@ -4,7 +4,7 @@
 using namespace std;
 
 string reverse(string text) {
-    string reversed_text;
+    string reversed_text ="";
 
     for (int i=text.size(); i>=0; --i) {
         reversed_text += text[i];

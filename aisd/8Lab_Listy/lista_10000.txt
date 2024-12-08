@@ -1,0 +1,9998 @@
+dodaj 84
+dodaj 57
+wstaw 41 1
+dodaj 80
+usun 2
+usun 2
+wstaw 13 1
+wstaw 58 0
+usun 3
+usun 1
+dodaj 4
+wstaw 3 3
+usun 2
+wstaw 7 3
+wstaw 70 4
+dodaj 40
+usun 2
+dodaj 4
+dodaj 21
+dodaj 42
+usun 6
+usun 2
+zamien 2 5
+usun 2
+zamien 0 3
+usun 2
+wstaw 77 1
+usun 0
+usun 2
+zamien 2 1
+dodaj 94
+wstaw 12 0
+wstaw 92 3
+wstaw 48 3
+wstaw 6 3
+dodaj 4
+wstaw 2 6
+usun 4
+usun 5
+zamien 0 5
+dodaj 85
+usun 4
+wstaw 69 1
+wstaw 66 7
+wstaw 42 0
+wstaw 31 8
+dodaj 67
+usun 10
+wstaw 21 3
+dodaj 36
+zamien 13 1
+usun 13
+usun 5
+wstaw 33 3
+wstaw 14 8
+wstaw 41 14
+dodaj 53
+wstaw 97 14
+dodaj 75
+dodaj 28
+dodaj 29
+dodaj 82
+wstaw 13 20
+wstaw 89 14
+wstaw 55 18
+dodaj 64
+usun 1
+usun 11
+dodaj 32
+usun 13
+usun 20
+usun 6
+usun 19
+usun 19
+dodaj 52
+zamien 4 12
+usun 11
+wstaw 3 19
+dodaj 81
+wstaw 47 21
+usun 19
+usun 9
+dodaj 95
+wstaw 87 14
+usun 16
+dodaj 45
+dodaj 68
+usun 9
+usun 17
+zamien 18 14
+dodaj 24
+zamien 2 12
+dodaj 83
+zamien 20 5
+wstaw 14 10
+zamien 16 3
+usun 17
+usun 2
+usun 4
+wstaw 8 9
+wstaw 25 6
+usun 4
+zamien 15 6
+wstaw 70 13
+usun 18
+usun 3
+usun 12
+wstaw 56 17
+wstaw 5 8
+zamien 5 13
+wstaw 48 11
+usun 15
+zamien 21 12
+usun 18
+wstaw 50 16
+zamien 3 20
+usun 3
+dodaj 15
+dodaj 10
+usun 17
+usun 4
+wstaw 49 1
+wstaw 54 16
+zamien 9 16
+usun 14
+wstaw 41 1
+wstaw 95 8
+wstaw 8 6
+usun 5
+usun 8
+usun 11
+usun 5
+zamien 15 16
+zamien 6 5
+usun 4
+dodaj 60
+zamien 11 0
+usun 2
+usun 5
+usun 0
+wstaw 26 6
+wstaw 64 17
+wstaw 49 18
+wstaw 13 20
+usun 18
+usun 7
+wstaw 14 14
+dodaj 8
+dodaj 36
+usun 13
+zamien 12 4
+wstaw 9 9
+usun 21
+zamien 8 1
+wstaw 100 16
+wstaw 26 23
+usun 23
+dodaj 68
+dodaj 89
+wstaw 98 17
+usun 25
+wstaw 24 13
+usun 15
+wstaw 91 21
+wstaw 4 13
+zamien 17 1
+usun 5
+wstaw 54 16
+dodaj 15
+usun 9
+wstaw 34 14
+wstaw 1 16
+usun 10
+zamien 10 19
+wstaw 50 18
+usun 7
+zamien 21 10
+zamien 8 13
+wstaw 49 22
+usun 11
+usun 14
+usun 21
+zamien 13 8
+wstaw 29 6
+wstaw 74 5
+usun 6
+usun 10
+usun 5
+usun 3
+wstaw 67 14
+usun 9
+dodaj 85
+zamien 14 18
+dodaj 19
+wstaw 56 26
+usun 13
+wstaw 1 22
+usun 5
+zamien 8 21
+zamien 20 23
+wstaw 17 13
+usun 9
+wstaw 54 15
+dodaj 16
+usun 19
+usun 18
+dodaj 72
+dodaj 72
+usun 19
+wstaw 34 0
+usun 1
+dodaj 67
+usun 4
+wstaw 42 24
+wstaw 56 27
+wstaw 7 16
+wstaw 86 9
+usun 27
+zamien 9 22
+wstaw 9 29
+dodaj 15
+dodaj 50
+usun 15
+usun 4
+zamien 15 26
+usun 4
+usun 0
+zamien 22 2
+dodaj 95
+zamien 14 29
+dodaj 46
+usun 11
+usun 12
+usun 1
+wstaw 13 0
+wstaw 83 3
+wstaw 86 22
+usun 2
+dodaj 90
+zamien 2 23
+usun 18
+usun 14
+wstaw 2 27
+usun 29
+usun 24
+usun 20
+wstaw 56 23
+wstaw 74 4
+usun 14
+dodaj 1
+wstaw 99 25
+wstaw 83 12
+wstaw 92 2
+zamien 25 11
+wstaw 57 32
+usun 29
+dodaj 62
+usun 13
+usun 11
+wstaw 91 23
+wstaw 75 17
+wstaw 20 29
+usun 23
+zamien 15 19
+dodaj 70
+usun 5
+wstaw 93 31
+dodaj 2
+usun 1
+usun 0
+usun 10
+wstaw 1 17
+usun 19
+usun 17
+wstaw 40 20
+wstaw 73 17
+wstaw 31 11
+wstaw 56 32
+dodaj 41
+dodaj 17
+usun 5
+wstaw 81 10
+usun 1
+usun 34
+wstaw 83 29
+usun 0
+usun 23
+usun 13
+dodaj 10
+usun 23
+zamien 27 31
+wstaw 44 26
+usun 5
+wstaw 82 23
+usun 24
+usun 21
+wstaw 59 2
+wstaw 5 4
+dodaj 33
+dodaj 15
+usun 8
+zamien 25 2
+wstaw 24 1
+dodaj 29
+usun 15
+usun 23
+usun 20
+wstaw 88 21
+usun 14
+dodaj 64
+usun 2
+usun 1
+usun 23
+usun 13
+wstaw 11 16
+zamien 23 6
+usun 29
+dodaj 38
+wstaw 96 13
+usun 7
+usun 22
+dodaj 33
+dodaj 36
+usun 12
+usun 7
+dodaj 24
+wstaw 6 32
+dodaj 16
+usun 9
+wstaw 56 28
+usun 16
+usun 16
+zamien 26 5
+usun 16
+dodaj 17
+wstaw 26 29
+usun 18
+wstaw 56 26
+usun 21
+usun 12
+usun 2
+dodaj 94
+wstaw 49 8
+dodaj 41
+dodaj 44
+dodaj 100
+dodaj 32
+zamien 8 2
+wstaw 19 34
+wstaw 75 10
+usun 36
+wstaw 24 24
+wstaw 48 10
+wstaw 43 27
+wstaw 57 19
+zamien 2 30
+usun 24
+dodaj 20
+wstaw 90 40
+usun 3
+usun 28
+dodaj 66
+wstaw 88 12
+dodaj 26
+zamien 9 19
+zamien 39 7
+wstaw 20 2
+dodaj 58
+usun 5
+wstaw 41 4
+zamien 3 15
+wstaw 36 19
+usun 20
+usun 8
+wstaw 73 35
+wstaw 73 24
+usun 19
+wstaw 90 37
+dodaj 62
+wstaw 16 1
+usun 30
+zamien 30 15
+wstaw 80 26
+wstaw 25 20
+wstaw 77 2
+usun 34
+usun 44
+usun 11
+usun 7
+zamien 15 2
+usun 25
+dodaj 43
+usun 20
+dodaj 9
+usun 1
+dodaj 71
+usun 1
+dodaj 70
+wstaw 93 44
+dodaj 70
+usun 22
+usun 1
+usun 38
+usun 21
+wstaw 95 2
+wstaw 7 36
+wstaw 54 9
+dodaj 19
+usun 13
+wstaw 23 10
+dodaj 24
+usun 26
+usun 35
+usun 27
+zamien 8 0
+usun 7
+usun 13
+wstaw 71 4
+usun 19
+zamien 31 19
+usun 36
+dodaj 40
+usun 34
+usun 36
+usun 16
+wstaw 92 24
+wstaw 30 14
+zamien 14 33
+usun 29
+usun 5
+usun 33
+dodaj 73
+usun 29
+dodaj 31
+usun 9
+usun 7
+wstaw 57 6
+wstaw 13 11
+usun 23
+usun 7
+zamien 16 11
+dodaj 19
+wstaw 28 8
+wstaw 98 17
+zamien 15 20
+usun 21
+usun 20
+zamien 11 0
+dodaj 43
+zamien 7 18
+usun 28
+dodaj 19
+usun 40
+wstaw 73 33
+dodaj 56
+zamien 6 21
+wstaw 16 36
+usun 8
+usun 23
+wstaw 81 22
+dodaj 76
+usun 2
+usun 34
+usun 27
+dodaj 14
+dodaj 86
+usun 34
+usun 27
+usun 4
+wstaw 56 24
+dodaj 76
+zamien 13 18
+wstaw 36 4
+usun 2
+dodaj 85
+usun 17
+usun 6
+wstaw 67 27
+usun 29
+zamien 15 1
+usun 8
+dodaj 72
+zamien 38 15
+usun 32
+usun 6
+wstaw 49 18
+zamien 12 30
+dodaj 30
+wstaw 26 16
+usun 17
+usun 5
+usun 3
+wstaw 30 4
+wstaw 71 21
+usun 13
+wstaw 94 15
+dodaj 80
+usun 27
+zamien 25 28
+usun 17
+usun 4
+usun 2
+dodaj 91
+dodaj 84
+zamien 4 27
+usun 9
+usun 20
+usun 31
+wstaw 6 10
+usun 12
+usun 27
+wstaw 84 33
+usun 22
+usun 5
+usun 22
+zamien 10 23
+usun 13
+wstaw 22 29
+wstaw 42 26
+zamien 11 1
+zamien 33 21
+usun 10
+usun 23
+usun 2
+dodaj 8
+usun 14
+zamien 10 27
+dodaj 66
+usun 2
+usun 22
+dodaj 55
+wstaw 69 25
+dodaj 83
+usun 10
+usun 3
+usun 26
+wstaw 41 8
+dodaj 58
+wstaw 41 1
+usun 1
+wstaw 69 16
+wstaw 34 30
+dodaj 51
+usun 29
+dodaj 50
+zamien 32 8
+wstaw 35 23
+usun 12
+wstaw 71 9
+zamien 27 31
+wstaw 9 20
+usun 30
+dodaj 79
+wstaw 59 9
+dodaj 78
+usun 37
+wstaw 94 25
+wstaw 8 24
+usun 2
+wstaw 99 9
+usun 16
+wstaw 84 0
+usun 0
+usun 34
+dodaj 39
+zamien 15 17
+usun 13
+wstaw 46 2
+dodaj 87
+wstaw 13 34
+usun 3
+dodaj 43
+usun 20
+zamien 6 15
+wstaw 65 9
+wstaw 63 33
+usun 33
+dodaj 5
+usun 26
+usun 2
+zamien 34 39
+zamien 35 31
+usun 17
+wstaw 42 33
+wstaw 97 7
+zamien 17 3
+zamien 10 18
+usun 9
+usun 20
+wstaw 28 30
+usun 19
+zamien 0 2
+dodaj 45
+usun 23
+usun 35
+wstaw 84 26
+usun 21
+wstaw 30 23
+usun 18
+zamien 7 19
+dodaj 29
+usun 3
+usun 12
+usun 31
+usun 17
+dodaj 26
+usun 10
+usun 20
+dodaj 7
+zamien 23 26
+usun 30
+usun 26
+wstaw 18 4
+wstaw 52 10
+usun 17
+usun 13
+usun 13
+zamien 14 13
+dodaj 56
+wstaw 32 8
+usun 3
+dodaj 55
+usun 21
+dodaj 74
+wstaw 81 17
+wstaw 97 35
+usun 7
+usun 14
+wstaw 62 15
+dodaj 38
+usun 34
+dodaj 46
+wstaw 49 23
+usun 29
+dodaj 38
+wstaw 4 6
+usun 13
+wstaw 62 6
+usun 2
+usun 21
+usun 23
+dodaj 24
+wstaw 45 12
+dodaj 55
+dodaj 57
+dodaj 24
+wstaw 13 32
+dodaj 34
+wstaw 16 11
+wstaw 73 38
+dodaj 82
+usun 41
+usun 20
+zamien 8 21
+wstaw 51 19
+usun 11
+wstaw 13 30
+usun 18
+wstaw 92 6
+usun 10
+wstaw 59 41
+wstaw 18 40
+usun 17
+usun 33
+usun 17
+dodaj 72
+usun 34
+usun 18
+wstaw 50 15
+wstaw 57 3
+usun 41
+zamien 29 39
+wstaw 80 1
+dodaj 75
+wstaw 11 10
+wstaw 82 34
+dodaj 47
+wstaw 37 37
+usun 39
+wstaw 76 35
+usun 32
+usun 36
+usun 19
+dodaj 25
+wstaw 79 10
+wstaw 71 33
+wstaw 79 35
+wstaw 63 38
+zamien 1 36
+usun 34
+zamien 1 6
+zamien 3 32
+wstaw 13 32
+zamien 49 39
+usun 16
+usun 13
+usun 11
+usun 1
+wstaw 61 39
+dodaj 79
+zamien 46 41
+dodaj 33
+wstaw 3 20
+usun 40
+wstaw 54 47
+wstaw 95 16
+wstaw 24 37
+usun 41
+usun 45
+usun 46
+usun 18
+wstaw 15 38
+wstaw 53 25
+usun 31
+wstaw 5 8
+wstaw 17 5
+dodaj 47
+wstaw 29 43
+wstaw 76 21
+wstaw 50 1
+usun 8
+dodaj 34
+dodaj 80
+wstaw 10 22
+wstaw 98 8
+wstaw 24 24
+wstaw 78 14
+wstaw 17 42
+dodaj 87
+zamien 15 56
+usun 6
+dodaj 86
+dodaj 25
+usun 61
+dodaj 81
+dodaj 69
+wstaw 87 14
+usun 51
+zamien 3 38
+dodaj 39
+usun 64
+wstaw 19 61
+usun 28
+usun 41
+wstaw 20 27
+dodaj 100
+wstaw 66 16
+dodaj 59
+wstaw 34 42
+wstaw 31 6
+wstaw 32 6
+zamien 12 41
+dodaj 78
+usun 65
+usun 23
+wstaw 34 30
+wstaw 40 43
+usun 51
+wstaw 36 65
+usun 59
+wstaw 49 9
+usun 41
+dodaj 40
+usun 50
+zamien 0 36
+zamien 29 46
+usun 0
+wstaw 78 18
+usun 30
+usun 47
+usun 40
+wstaw 36 35
+usun 13
+usun 11
+dodaj 98
+usun 43
+zamien 12 59
+usun 17
+dodaj 44
+wstaw 96 17
+wstaw 19 47
+usun 6
+dodaj 65
+wstaw 44 11
+wstaw 98 47
+usun 46
+usun 7
+usun 35
+usun 10
+wstaw 55 66
+usun 58
+usun 55
+usun 35
+dodaj 1
+zamien 54 11
+zamien 40 22
+wstaw 15 49
+wstaw 25 21
+usun 42
+dodaj 91
+zamien 50 7
+usun 57
+usun 50
+dodaj 64
+usun 41
+dodaj 74
+usun 65
+usun 60
+dodaj 18
+dodaj 4
+usun 45
+wstaw 90 32
+usun 42
+usun 50
+dodaj 37
+dodaj 96
+wstaw 15 40
+zamien 36 30
+zamien 44 60
+usun 33
+wstaw 28 2
+usun 46
+wstaw 67 26
+wstaw 39 17
+wstaw 38 31
+dodaj 95
+usun 55
+dodaj 72
+wstaw 73 48
+usun 35
+usun 43
+zamien 33 29
+wstaw 47 21
+dodaj 28
+wstaw 80 36
+wstaw 18 4
+dodaj 36
+usun 22
+wstaw 97 25
+zamien 43 50
+wstaw 18 25
+zamien 70 58
+usun 24
+usun 21
+wstaw 49 14
+wstaw 24 71
+usun 24
+dodaj 85
+usun 29
+usun 24
+wstaw 48 33
+wstaw 5 73
+dodaj 4
+wstaw 2 1
+wstaw 22 7
+wstaw 37 51
+usun 43
+usun 56
+dodaj 72
+usun 56
+usun 6
+zamien 12 4
+usun 30
+usun 54
+zamien 3 70
+wstaw 81 42
+usun 31
+usun 7
+dodaj 29
+dodaj 19
+dodaj 43
+usun 6
+wstaw 52 5
+zamien 38 73
+usun 28
+usun 42
+usun 60
+usun 44
+wstaw 7 50
+wstaw 61 57
+wstaw 26 19
+usun 38
+zamien 6 54
+usun 60
+usun 60
+usun 7
+usun 7
+dodaj 89
+wstaw 63 57
+wstaw 46 16
+wstaw 32 59
+usun 9
+wstaw 63 63
+zamien 42 33
+zamien 16 57
+dodaj 45
+usun 27
+dodaj 55
+dodaj 90
+usun 73
+wstaw 38 75
+usun 73
+zamien 26 72
+zamien 69 17
+usun 45
+dodaj 52
+usun 41
+wstaw 8 58
+usun 10
+usun 44
+wstaw 44 65
+dodaj 92
+usun 27
+wstaw 84 56
+wstaw 34 64
+usun 45
+zamien 53 13
+usun 41
+usun 32
+zamien 7 61
+wstaw 42 17
+usun 35
+dodaj 9
+usun 58
+usun 33
+dodaj 94
+usun 53
+usun 17
+dodaj 50
+wstaw 70 5
+dodaj 79
+dodaj 29
+usun 66
+wstaw 87 28
+wstaw 3 4
+usun 72
+usun 37
+dodaj 40
+dodaj 36
+zamien 50 42
+usun 2
+dodaj 44
+usun 40
+wstaw 28 63
+wstaw 99 2
+wstaw 2 61
+usun 33
+usun 39
+usun 66
+wstaw 34 16
+zamien 8 24
+wstaw 67 53
+wstaw 98 66
+dodaj 60
+usun 34
+wstaw 46 16
+wstaw 81 14
+wstaw 49 39
+wstaw 12 30
+usun 24
+usun 15
+usun 70
+usun 3
+wstaw 24 57
+usun 73
+usun 31
+usun 59
+wstaw 40 10
+dodaj 72
+usun 2
+zamien 38 48
+dodaj 83
+wstaw 14 19
+wstaw 20 17
+usun 36
+usun 61
+wstaw 54 46
+usun 16
+usun 72
+wstaw 91 52
+usun 38
+usun 25
+dodaj 95
+usun 61
+usun 36
+usun 34
+wstaw 39 42
+usun 8
+wstaw 68 27
+usun 63
+dodaj 62
+usun 16
+usun 14
+usun 64
+dodaj 1
+usun 22
+dodaj 65
+wstaw 43 70
+wstaw 23 25
+wstaw 47 45
+dodaj 83
+usun 15
+wstaw 3 72
+wstaw 34 44
+wstaw 84 20
+zamien 7 19
+usun 28
+usun 8
+wstaw 84 56
+wstaw 46 21
+wstaw 38 76
+usun 4
+wstaw 29 70
+wstaw 76 58
+wstaw 50 48
+dodaj 76
+usun 81
+zamien 51 13
+dodaj 15
+wstaw 56 42
+wstaw 86 65
+dodaj 18
+wstaw 37 67
+wstaw 74 61
+wstaw 61 11
+usun 20
+zamien 21 18
+usun 43
+usun 14
+usun 25
+dodaj 55
+wstaw 10 80
+usun 35
+usun 24
+zamien 29 64
+wstaw 34 56
+dodaj 11
+usun 64
+usun 77
+usun 57
+dodaj 80
+wstaw 91 41
+usun 56
+zamien 84 20
+wstaw 63 29
+dodaj 22
+wstaw 92 43
+usun 81
+dodaj 6
+usun 32
+usun 13
+usun 72
+zamien 67 39
+dodaj 22
+wstaw 39 7
+wstaw 52 74
+dodaj 42
+wstaw 50 23
+wstaw 23 68
+zamien 69 21
+wstaw 98 59
+usun 47
+dodaj 78
+usun 89
+dodaj 32
+zamien 65 27
+dodaj 15
+zamien 71 64
+dodaj 28
+wstaw 28 77
+wstaw 91 33
+dodaj 30
+wstaw 16 94
+wstaw 34 27
+dodaj 78
+wstaw 15 83
+wstaw 65 16
+usun 95
+usun 90
+wstaw 35 24
+wstaw 95 99
+usun 46
+wstaw 95 9
+usun 48
+usun 1
+dodaj 85
+usun 47
+usun 37
+usun 33
+wstaw 3 90
+usun 32
+dodaj 75
+dodaj 15
+dodaj 92
+usun 62
+usun 55
+dodaj 44
+zamien 20 90
+zamien 74 38
+usun 26
+wstaw 54 23
+usun 59
+wstaw 98 59
+usun 49
+wstaw 72 11
+usun 57
+zamien 69 17
+wstaw 20 51
+wstaw 24 59
+usun 49
+wstaw 92 46
+usun 77
+wstaw 22 12
+dodaj 37
+usun 53
+wstaw 18 50
+usun 63
+usun 98
+wstaw 41 43
+usun 38
+wstaw 38 87
+usun 8
+wstaw 74 75
+dodaj 97
+dodaj 31
+dodaj 96
+usun 21
+usun 45
+usun 40
+usun 57
+zamien 21 32
+dodaj 56
+wstaw 16 52
+dodaj 76
+usun 85
+dodaj 79
+dodaj 16
+usun 79
+zamien 2 95
+usun 42
+usun 77
+usun 48
+usun 73
+zamien 83 70
+usun 73
+usun 76
+usun 40
+dodaj 40
+wstaw 58 33
+usun 78
+wstaw 37 93
+usun 10
+usun 43
+dodaj 10
+usun 6
+zamien 86 51
+wstaw 25 36
+usun 86
+usun 12
+usun 22
+usun 85
+usun 85
+wstaw 26 16
+zamien 73 10
+zamien 89 81
+usun 87
+usun 73
+usun 73
+usun 62
+zamien 44 64
+zamien 77 8
+wstaw 30 0
+zamien 24 39
+dodaj 42
+usun 57
+usun 31
+zamien 37 50
+usun 77
+usun 55
+zamien 73 58
+dodaj 27
+zamien 73 42
+wstaw 69 49
+usun 8
+usun 2
+dodaj 7
+wstaw 2 7
+wstaw 85 80
+zamien 84 20
+dodaj 85
+usun 49
+dodaj 74
+usun 79
+usun 81
+usun 35
+usun 9
+wstaw 85 82
+usun 57
+usun 86
+wstaw 76 19
+dodaj 81
+usun 79
+wstaw 14 46
+wstaw 89 31
+usun 60
+usun 68
+usun 65
+usun 26
+usun 51
+dodaj 52
+wstaw 31 5
+usun 81
+wstaw 3 15
+dodaj 44
+dodaj 37
+wstaw 21 69
+dodaj 26
+usun 27
+usun 84
+usun 58
+usun 54
+usun 31
+zamien 56 21
+wstaw 33 34
+wstaw 44 30
+wstaw 64 58
+zamien 55 27
+usun 0
+wstaw 63 80
+zamien 44 10
+wstaw 25 19
+zamien 20 84
+dodaj 36
+wstaw 25 12
+wstaw 20 66
+usun 40
+wstaw 28 67
+wstaw 46 12
+wstaw 15 76
+dodaj 64
+dodaj 23
+usun 17
+usun 47
+wstaw 12 40
+dodaj 84
+usun 3
+usun 12
+usun 92
+dodaj 55
+wstaw 90 0
+usun 22
+usun 33
+zamien 88 56
+usun 39
+wstaw 93 31
+usun 16
+dodaj 96
+usun 38
+usun 32
+usun 72
+zamien 46 24
+usun 85
+dodaj 91
+wstaw 14 82
+wstaw 91 11
+wstaw 17 69
+usun 92
+usun 84
+usun 83
+usun 88
+wstaw 85 34
+usun 40
+usun 48
+wstaw 62 77
+dodaj 55
+usun 68
+usun 71
+wstaw 91 9
+zamien 38 29
+usun 29
+dodaj 66
+wstaw 98 42
+zamien 28 10
+wstaw 61 85
+wstaw 56 2
+usun 82
+usun 39
+zamien 45 6
+usun 55
+usun 17
+wstaw 52 71
+wstaw 38 42
+zamien 61 68
+dodaj 9
+usun 81
+usun 14
+usun 4
+wstaw 71 20
+wstaw 84 2
+usun 88
+usun 58
+zamien 81 34
+usun 86
+wstaw 64 46
+dodaj 68
+wstaw 95 51
+usun 56
+zamien 45 6
+dodaj 83
+usun 25
+usun 10
+wstaw 62 12
+wstaw 16 82
+dodaj 62
+usun 4
+usun 12
+usun 52
+dodaj 5
+usun 8
+usun 2
+usun 75
+usun 5
+usun 48
+usun 78
+usun 26
+wstaw 6 64
+dodaj 88
+usun 7
+zamien 55 40
+wstaw 65 42
+usun 22
+dodaj 5
+usun 29
+usun 17
+usun 49
+wstaw 21 67
+usun 16
+wstaw 41 66
+usun 14
+usun 60
+usun 64
+wstaw 92 19
+wstaw 26 6
+usun 56
+usun 56
+usun 0
+wstaw 52 49
+wstaw 47 68
+dodaj 20
+usun 61
+usun 23
+wstaw 43 40
+dodaj 17
+usun 1
+wstaw 25 57
+dodaj 84
+wstaw 36 64
+dodaj 66
+wstaw 89 3
+usun 61
+wstaw 28 39
+wstaw 63 57
+dodaj 50
+usun 21
+usun 4
+wstaw 65 37
+usun 77
+wstaw 6 55
+usun 35
+zamien 61 25
+usun 23
+usun 9
+usun 59
+wstaw 38 41
+wstaw 2 9
+usun 76
+usun 66
+usun 7
+zamien 46 37
+usun 42
+dodaj 47
+usun 30
+zamien 36 79
+wstaw 62 46
+dodaj 77
+zamien 64 55
+usun 24
+dodaj 41
+dodaj 37
+usun 0
+dodaj 57
+usun 13
+dodaj 67
+usun 53
+wstaw 40 80
+usun 36
+wstaw 56 62
+usun 70
+wstaw 89 6
+wstaw 94 70
+usun 57
+dodaj 37
+dodaj 91
+wstaw 69 24
+dodaj 66
+zamien 43 86
+usun 67
+zamien 48 5
+dodaj 89
+zamien 51 17
+usun 55
+usun 48
+zamien 57 28
+zamien 65 50
+usun 2
+wstaw 52 37
+usun 36
+zamien 35 39
+usun 76
+usun 19
+usun 24
+zamien 15 34
+usun 42
+dodaj 46
+wstaw 28 30
+zamien 11 6
+zamien 79 76
+wstaw 38 63
+dodaj 14
+usun 34
+wstaw 60 9
+dodaj 10
+wstaw 77 1
+usun 25
+zamien 55 5
+wstaw 34 53
+dodaj 84
+usun 33
+zamien 76 62
+usun 31
+usun 34
+dodaj 59
+wstaw 28 80
+wstaw 73 1
+usun 71
+usun 80
+wstaw 54 18
+dodaj 83
+usun 24
+wstaw 43 35
+dodaj 47
+zamien 56 23
+dodaj 85
+usun 6
+wstaw 65 26
+dodaj 71
+usun 14
+usun 39
+wstaw 68 0
+zamien 75 81
+usun 50
+wstaw 37 31
+zamien 68 27
+usun 83
+usun 84
+usun 67
+wstaw 33 40
+usun 75
+wstaw 7 21
+dodaj 21
+usun 30
+dodaj 22
+wstaw 15 78
+zamien 65 43
+usun 28
+dodaj 25
+dodaj 41
+zamien 29 14
+wstaw 60 26
+dodaj 79
+usun 36
+zamien 52 81
+wstaw 15 23
+dodaj 25
+usun 23
+usun 14
+zamien 44 80
+usun 4
+wstaw 6 84
+usun 23
+dodaj 47
+wstaw 30 65
+dodaj 41
+usun 6
+usun 38
+usun 25
+usun 29
+dodaj 7
+dodaj 60
+wstaw 10 81
+usun 56
+usun 66
+dodaj 81
+wstaw 30 81
+usun 32
+wstaw 89 22
+usun 66
+wstaw 44 46
+usun 12
+dodaj 23
+wstaw 44 1
+wstaw 69 66
+usun 72
+wstaw 36 61
+usun 35
+usun 34
+usun 10
+wstaw 26 0
+wstaw 15 70
+wstaw 76 43
+wstaw 32 20
+wstaw 40 29
+usun 64
+usun 3
+dodaj 30
+usun 82
+wstaw 70 63
+wstaw 29 1
+wstaw 79 50
+wstaw 86 47
+usun 69
+wstaw 20 69
+wstaw 51 50
+dodaj 26
+wstaw 44 14
+wstaw 71 22
+usun 98
+usun 31
+usun 11
+dodaj 62
+usun 91
+zamien 8 37
+usun 31
+usun 45
+usun 32
+wstaw 87 93
+dodaj 55
+usun 48
+usun 31
+usun 88
+wstaw 25 79
+dodaj 25
+dodaj 90
+zamien 76 64
+usun 23
+wstaw 5 88
+usun 58
+wstaw 10 15
+zamien 15 35
+usun 86
+wstaw 49 47
+wstaw 3 67
+wstaw 96 39
+usun 17
+usun 57
+usun 49
+usun 49
+dodaj 9
+usun 47
+wstaw 22 15
+usun 88
+usun 9
+wstaw 69 25
+usun 1
+usun 23
+wstaw 30 64
+usun 82
+dodaj 78
+usun 93
+wstaw 58 85
+usun 12
+usun 59
+dodaj 15
+zamien 47 73
+zamien 0 64
+zamien 87 31
+wstaw 91 62
+dodaj 93
+wstaw 88 85
+usun 66
+usun 64
+wstaw 24 33
+zamien 4 60
+wstaw 47 94
+usun 65
+wstaw 89 3
+wstaw 37 14
+wstaw 36 94
+wstaw 37 5
+zamien 68 73
+dodaj 10
+usun 93
+usun 89
+wstaw 84 67
+usun 78
+usun 19
+dodaj 91
+usun 48
+wstaw 21 73
+usun 64
+usun 65
+zamien 44 33
+usun 85
+dodaj 19
+wstaw 90 29
+wstaw 83 76
+usun 83
+wstaw 91 33
+usun 93
+usun 82
+wstaw 31 3
+usun 47
+usun 1
+wstaw 26 46
+dodaj 100
+usun 89
+dodaj 1
+usun 85
+dodaj 46
+wstaw 54 34
+usun 39
+usun 43
+usun 8
+wstaw 9 36
+dodaj 79
+usun 96
+usun 54
+zamien 56 65
+zamien 44 59
+wstaw 76 61
+zamien 33 67
+wstaw 20 97
+usun 40
+zamien 87 86
+dodaj 51
+dodaj 79
+wstaw 92 11
+dodaj 17
+dodaj 92
+dodaj 65
+zamien 68 92
+wstaw 43 90
+usun 75
+dodaj 41
+wstaw 47 20
+zamien 77 102
+wstaw 48 99
+dodaj 100
+wstaw 73 80
+usun 102
+wstaw 34 50
+dodaj 20
+usun 57
+usun 59
+wstaw 33 57
+usun 96
+dodaj 34
+usun 7
+usun 20
+wstaw 16 82
+wstaw 10 3
+wstaw 18 22
+dodaj 43
+wstaw 15 93
+dodaj 69
+usun 64
+zamien 50 6
+dodaj 57
+dodaj 40
+zamien 27 37
+zamien 6 32
+wstaw 10 91
+usun 51
+dodaj 87
+wstaw 13 37
+usun 78
+zamien 61 38
+usun 58
+usun 95
+wstaw 40 102
+dodaj 13
+usun 56
+usun 31
+zamien 71 80
+dodaj 38
+dodaj 96
+wstaw 93 30
+usun 33
+usun 4
+usun 111
+usun 63
+usun 96
+dodaj 53
+zamien 80 21
+wstaw 88 81
+zamien 37 106
+zamien 94 16
+usun 75
+usun 31
+dodaj 18
+wstaw 50 15
+usun 21
+dodaj 45
+dodaj 31
+dodaj 13
+usun 109
+usun 62
+usun 85
+dodaj 88
+usun 32
+dodaj 76
+wstaw 82 72
+dodaj 19
+dodaj 90
+usun 100
+wstaw 20 59
+usun 89
+dodaj 38
+usun 64
+usun 103
+dodaj 94
+dodaj 94
+wstaw 59 72
+wstaw 37 69
+usun 21
+zamien 11 80
+dodaj 17
+dodaj 88
+wstaw 93 82
+usun 93
+zamien 81 6
+dodaj 19
+usun 117
+usun 6
+usun 52
+usun 91
+usun 42
+dodaj 69
+usun 13
+usun 54
+wstaw 97 103
+dodaj 43
+usun 98
+zamien 110 18
+wstaw 2 99
+usun 22
+dodaj 72
+dodaj 31
+usun 15
+wstaw 91 11
+dodaj 94
+usun 11
+wstaw 54 94
+usun 8
+usun 69
+dodaj 4
+usun 91
+zamien 26 73
+usun 71
+dodaj 48
+usun 31
+wstaw 85 67
+usun 1
+usun 1
+wstaw 91 90
+usun 97
+wstaw 70 52
+usun 12
+wstaw 96 109
+wstaw 18 29
+wstaw 66 103
+wstaw 98 71
+usun 73
+wstaw 74 46
+wstaw 1 22
+zamien 29 86
+wstaw 23 11
+usun 65
+usun 16
+dodaj 60
+usun 105
+usun 3
+usun 75
+dodaj 84
+dodaj 6
+wstaw 10 48
+usun 46
+zamien 55 64
+usun 103
+wstaw 19 39
+wstaw 42 73
+usun 24
+wstaw 11 83
+usun 108
+dodaj 52
+dodaj 86
+dodaj 40
+usun 65
+usun 107
+wstaw 36 55
+usun 11
+zamien 24 109
+usun 51
+dodaj 44
+usun 97
+usun 102
+zamien 87 66
+usun 55
+usun 85
+wstaw 67 113
+usun 96
+usun 84
+dodaj 29
+usun 57
+dodaj 4
+wstaw 95 71
+usun 9
+wstaw 87 4
+dodaj 2
+usun 71
+usun 104
+usun 89
+zamien 93 77
+wstaw 50 81
+zamien 11 112
+zamien 31 67
+usun 96
+wstaw 41 68
+zamien 22 62
+zamien 54 55
+usun 47
+wstaw 78 111
+usun 82
+wstaw 15 51
+dodaj 1
+zamien 33 68
+usun 72
+zamien 27 1
+usun 109
+wstaw 83 20
+usun 52
+usun 16
+zamien 58 17
+wstaw 17 60
+wstaw 87 110
+dodaj 87
+wstaw 33 15
+wstaw 52 95
+wstaw 96 115
+usun 3
+wstaw 55 65
+zamien 74 73
+usun 20
+usun 57
+zamien 46 7
+wstaw 48 29
+dodaj 91
+usun 115
+zamien 70 40
+usun 5
+usun 3
+zamien 15 79
+usun 18
+usun 112
+usun 30
+wstaw 79 111
+wstaw 8 41
+wstaw 28 11
+usun 4
+dodaj 96
+wstaw 60 23
+dodaj 100
+dodaj 11
+zamien 34 51
+dodaj 44
+dodaj 67
+zamien 48 102
+usun 23
+wstaw 43 86
+wstaw 69 55
+wstaw 20 6
+usun 114
+usun 51
+usun 20
+usun 70
+dodaj 92
+dodaj 94
+dodaj 40
+zamien 87 91
+zamien 80 16
+wstaw 100 109
+usun 116
+dodaj 86
+wstaw 42 58
+dodaj 21
+zamien 53 40
+wstaw 54 78
+zamien 49 31
+wstaw 64 73
+usun 48
+usun 37
+usun 118
+wstaw 36 97
+usun 35
+wstaw 65 62
+wstaw 70 57
+dodaj 31
+wstaw 16 116
+dodaj 45
+dodaj 34
+zamien 105 59
+zamien 124 95
+usun 97
+usun 95
+usun 56
+usun 20
+wstaw 82 11
+usun 22
+wstaw 72 115
+wstaw 48 86
+usun 75
+wstaw 86 78
+wstaw 74 93
+usun 91
+wstaw 73 103
+wstaw 76 37
+dodaj 3
+wstaw 38 40
+usun 101
+wstaw 63 79
+zamien 27 97
+dodaj 87
+wstaw 26 61
+dodaj 3
+wstaw 14 89
+dodaj 81
+usun 56
+dodaj 11
+zamien 56 130
+wstaw 65 44
+usun 43
+wstaw 8 56
+usun 39
+zamien 20 55
+usun 25
+zamien 90 55
+dodaj 66
+usun 54
+usun 46
+wstaw 5 92
+usun 123
+wstaw 55 67
+zamien 79 51
+usun 96
+wstaw 81 19
+wstaw 4 34
+usun 61
+usun 70
+wstaw 47 46
+zamien 4 82
+dodaj 24
+dodaj 40
+zamien 70 36
+wstaw 61 72
+dodaj 82
+usun 65
+usun 92
+wstaw 60 109
+usun 61
+dodaj 14
+wstaw 73 119
+usun 109
+usun 126
+dodaj 86
+usun 55
+wstaw 80 110
+wstaw 44 65
+usun 31
+usun 35
+wstaw 6 39
+wstaw 39 22
+zamien 82 79
+dodaj 37
+usun 84
+zamien 25 136
+zamien 108 22
+zamien 60 63
+dodaj 62
+zamien 16 44
+wstaw 10 114
+wstaw 50 54
+zamien 63 8
+wstaw 50 34
+wstaw 54 131
+usun 33
+wstaw 7 77
+usun 116
+dodaj 65
+wstaw 86 111
+wstaw 55 27
+usun 44
+dodaj 23
+usun 32
+dodaj 92
+usun 90
+wstaw 42 56
+usun 36
+usun 138
+dodaj 19
+wstaw 16 82
+usun 121
+wstaw 73 86
+wstaw 25 33
+usun 24
+usun 47
+usun 25
+usun 100
+usun 38
+dodaj 71
+wstaw 22 88
+usun 125
+usun 78
+dodaj 14
+zamien 117 43
+usun 120
+wstaw 1 83
+usun 46
+wstaw 20 14
+dodaj 50
+zamien 98 94
+wstaw 74 5
+usun 119
+wstaw 46 104
+zamien 139 102
+zamien 70 114
+dodaj 74
+wstaw 60 52
+zamien 130 50
+wstaw 78 130
+dodaj 63
+zamien 122 80
+usun 119
+usun 137
+usun 76
+wstaw 83 112
+usun 99
+dodaj 61
+dodaj 30
+zamien 140 127
+wstaw 24 22
+usun 90
+usun 48
+usun 65
+usun 40
+usun 52
+wstaw 33 118
+usun 65
+dodaj 69
+dodaj 53
+zamien 66 123
+usun 17
+usun 57
+wstaw 41 59
+wstaw 81 9
+usun 141
+dodaj 67
+usun 118
+wstaw 66 76
+usun 12
+dodaj 11
+wstaw 21 86
+wstaw 23 129
+zamien 72 23
+usun 12
+usun 92
+usun 95
+wstaw 21 28
+zamien 97 40
+usun 27
+wstaw 15 16
+wstaw 15 124
+zamien 144 44
+usun 127
+wstaw 50 123
+usun 34
+usun 86
+usun 48
+zamien 17 37
+wstaw 63 87
+usun 20
+wstaw 27 144
+wstaw 32 32
+zamien 98 57
+usun 112
+dodaj 18
+dodaj 67
+usun 10
+wstaw 17 44
+wstaw 29 118
+wstaw 2 78
+usun 41
+usun 90
+usun 105
+wstaw 56 30
+wstaw 55 112
+wstaw 60 136
+dodaj 60
+zamien 145 51
+dodaj 66
+usun 45
+zamien 25 134
+wstaw 75 130
+dodaj 57
+zamien 38 15
+dodaj 18
+usun 58
+wstaw 61 82
+dodaj 69
+wstaw 91 56
+usun 77
+wstaw 48 70
+usun 19
+usun 84
+wstaw 34 105
+wstaw 81 78
+wstaw 6 43
+zamien 88 155
+usun 101
+usun 64
+wstaw 86 59
+zamien 133 84
+usun 24
+dodaj 40
+wstaw 10 8
+usun 108
+wstaw 65 14
+usun 105
+wstaw 75 108
+usun 62
+usun 42
+usun 138
+dodaj 8
+zamien 61 11
+dodaj 20
+usun 142
+usun 63
+usun 41
+usun 124
+usun 68
+zamien 92 49
+usun 133
+dodaj 16
+usun 41
+wstaw 4 133
+usun 60
+dodaj 79
+wstaw 97 74
+wstaw 70 4
+wstaw 59 103
+wstaw 31 35
+dodaj 26
+wstaw 50 118
+dodaj 49
+usun 93
+dodaj 37
+wstaw 3 84
+usun 2
+wstaw 6 74
+usun 129
+zamien 3 45
+wstaw 51 25
+usun 17
+wstaw 37 14
+usun 36
+wstaw 84 0
+dodaj 33
+wstaw 3 64
+usun 43
+zamien 123 153
+usun 63
+wstaw 5 48
+usun 110
+zamien 69 55
+usun 48
+dodaj 54
+zamien 118 16
+usun 91
+zamien 129 109
+dodaj 73
+usun 123
+dodaj 16
+usun 106
+wstaw 66 80
+dodaj 10
+dodaj 8
+dodaj 42
+usun 112
+wstaw 29 37
+usun 158
+usun 123
+usun 51
+dodaj 58
+zamien 66 132
+dodaj 70
+zamien 140 122
+wstaw 39 11
+usun 135
+usun 112
+dodaj 65
+wstaw 17 120
+usun 25
+wstaw 90 24
+wstaw 89 20
+wstaw 7 36
+usun 130
+usun 87
+usun 20
+usun 48
+usun 63
+usun 26
+wstaw 14 155
+dodaj 12
+usun 137
+wstaw 73 45
+usun 48
+wstaw 37 158
+usun 58
+zamien 62 70
+wstaw 20 146
+dodaj 40
+wstaw 66 49
+usun 124
+wstaw 40 2
+usun 76
+dodaj 29
+usun 43
+dodaj 40
+dodaj 89
+zamien 161 75
+dodaj 39
+dodaj 9
+usun 93
+usun 144
+dodaj 50
+usun 94
+wstaw 10 80
+zamien 72 122
+usun 74
+dodaj 57
+dodaj 38
+wstaw 77 149
+wstaw 10 145
+dodaj 32
+usun 71
+zamien 71 110
+usun 110
+wstaw 26 39
+wstaw 4 49
+dodaj 64
+dodaj 74
+usun 65
+usun 106
+usun 66
+dodaj 93
+usun 81
+wstaw 4 91
+zamien 102 26
+usun 116
+dodaj 21
+wstaw 29 3
+dodaj 99
+wstaw 26 116
+wstaw 62 93
+dodaj 58
+dodaj 60
+usun 121
+wstaw 7 12
+dodaj 28
+usun 26
+zamien 122 58
+wstaw 84 72
+wstaw 49 174
+usun 112
+usun 93
+zamien 130 159
+dodaj 44
+usun 10
+usun 63
+wstaw 53 17
+usun 50
+dodaj 28
+wstaw 81 52
+zamien 108 133
+wstaw 58 71
+wstaw 92 137
+zamien 160 85
+usun 113
+usun 14
+wstaw 33 83
+wstaw 35 53
+dodaj 10
+dodaj 7
+zamien 54 161
+zamien 158 36
+zamien 18 173
+zamien 16 173
+usun 75
+zamien 15 16
+wstaw 42 1
+zamien 63 121
+usun 129
+usun 53
+wstaw 72 147
+usun 104
+wstaw 84 19
+wstaw 17 57
+zamien 134 159
+usun 26
+usun 13
+usun 154
+usun 119
+zamien 105 98
+wstaw 40 68
+usun 41
+wstaw 82 1
+usun 32
+wstaw 100 110
+dodaj 47
+wstaw 100 127
+usun 10
+usun 138
+zamien 48 55
+usun 48
+wstaw 90 161
+wstaw 26 144
+usun 56
+dodaj 60
+usun 76
+dodaj 74
+wstaw 74 45
+usun 101
+wstaw 88 157
+dodaj 70
+wstaw 42 100
+wstaw 95 122
+dodaj 66
+wstaw 50 152
+usun 77
+wstaw 99 21
+usun 114
+usun 35
+usun 61
+usun 176
+zamien 158 108
+usun 100
+usun 149
+usun 169
+usun 28
+usun 167
+zamien 169 2
+wstaw 98 143
+usun 87
+wstaw 17 16
+wstaw 20 3
+usun 17
+dodaj 96
+usun 154
+wstaw 95 142
+usun 87
+wstaw 91 127
+wstaw 73 2
+wstaw 6 145
+zamien 136 163
+usun 20
+usun 135
+wstaw 16 114
+zamien 57 1
+usun 89
+wstaw 14 113
+usun 72
+wstaw 54 28
+zamien 95 39
+dodaj 31
+dodaj 57
+wstaw 1 30
+wstaw 71 6
+wstaw 7 85
+usun 156
+usun 89
+zamien 19 75
+wstaw 66 87
+dodaj 26
+zamien 158 85
+dodaj 90
+dodaj 73
+usun 38
+zamien 114 136
+dodaj 26
+wstaw 34 89
+usun 158
+zamien 176 161
+wstaw 27 35
+usun 13
+zamien 36 43
+dodaj 25
+dodaj 10
+wstaw 48 74
+dodaj 44
+usun 7
+dodaj 19
+usun 12
+wstaw 15 69
+usun 8
+dodaj 24
+dodaj 39
+dodaj 93
+wstaw 16 30
+usun 56
+usun 42
+usun 124
+usun 98
+usun 127
+dodaj 12
+usun 5
+usun 59
+wstaw 50 181
+dodaj 32
+usun 184
+usun 98
+usun 1
+wstaw 33 158
+usun 179
+wstaw 14 180
+usun 80
+dodaj 40
+usun 91
+dodaj 27
+dodaj 36
+dodaj 38
+wstaw 65 96
+usun 6
+usun 172
+wstaw 77 179
+wstaw 63 165
+usun 101
+wstaw 36 156
+wstaw 13 114
+wstaw 67 79
+usun 165
+dodaj 54
+dodaj 70
+dodaj 47
+wstaw 50 26
+usun 22
+wstaw 90 104
+wstaw 93 147
+wstaw 76 69
+wstaw 87 190
+wstaw 74 24
+wstaw 93 0
+usun 136
+zamien 21 170
+dodaj 10
+usun 42
+usun 10
+dodaj 1
+usun 61
+usun 15
+wstaw 90 159
+usun 76
+usun 104
+dodaj 45
+wstaw 28 56
+dodaj 75
+usun 61
+wstaw 76 52
+wstaw 72 70
+wstaw 86 143
+dodaj 15
+zamien 33 55
+usun 167
+dodaj 63
+wstaw 92 84
+wstaw 12 128
+dodaj 21
+wstaw 14 130
+usun 13
+usun 134
+usun 15
+dodaj 53
+usun 163
+usun 181
+wstaw 88 138
+usun 193
+dodaj 88
+dodaj 82
+usun 157
+usun 161
+dodaj 18
+wstaw 16 116
+wstaw 72 145
+dodaj 47
+dodaj 31
+zamien 86 71
+dodaj 10
+wstaw 16 204
+wstaw 23 175
+dodaj 31
+dodaj 63
+usun 203
+usun 65
+usun 68
+wstaw 22 187
+dodaj 99
+usun 147
+wstaw 42 113
+dodaj 21
+usun 115
+usun 188
+dodaj 77
+wstaw 68 30
+usun 44
+wstaw 48 60
+usun 50
+dodaj 14
+dodaj 28
+wstaw 74 42
+wstaw 65 93
+usun 201
+wstaw 52 209
+usun 17
+usun 7
+dodaj 91
+usun 139
+wstaw 21 19
+wstaw 30 125
+zamien 146 33
+wstaw 21 133
+zamien 98 180
+usun 27
+wstaw 73 179
+wstaw 8 52
+dodaj 93
+usun 214
+wstaw 41 25
+dodaj 51
+dodaj 21
+wstaw 69 80
+usun 42
+usun 116
+usun 78
+dodaj 75
+dodaj 55
+dodaj 44
+wstaw 51 52
+dodaj 29
+dodaj 32
+zamien 3 38
+usun 33
+dodaj 32
+wstaw 36 158
+usun 119
+usun 209
+dodaj 12
+wstaw 54 4
+zamien 87 141
+usun 191
+dodaj 67
+usun 168
+usun 88
+usun 132
+usun 170
+dodaj 42
+wstaw 45 199
+wstaw 25 17
+dodaj 56
+usun 62
+usun 148
+wstaw 84 190
+usun 203
+dodaj 100
+wstaw 35 125
+dodaj 4
+wstaw 54 53
+dodaj 54
+wstaw 14 225
+usun 161
+wstaw 36 210
+usun 113
+usun 167
+dodaj 51
+dodaj 14
+usun 146
+wstaw 47 201
+usun 87
+dodaj 43
+wstaw 21 18
+usun 64
+usun 98
+usun 104
+usun 191
+dodaj 4
+zamien 65 153
+wstaw 68 3
+usun 126
+zamien 15 0
+dodaj 37
+dodaj 11
+dodaj 94
+usun 216
+usun 16
+wstaw 63 19
+wstaw 19 220
+wstaw 55 36
+usun 146
+usun 189
+usun 207
+zamien 76 136
+usun 141
+usun 149
+dodaj 90
+zamien 149 64
+usun 125
+wstaw 1 71
+dodaj 34
+dodaj 63
+usun 78
+dodaj 59
+wstaw 84 109
+wstaw 100 168
+wstaw 57 214
+wstaw 97 164
+dodaj 77
+wstaw 7 118
+dodaj 82
+usun 53
+dodaj 4
+dodaj 68
+dodaj 93
+usun 33
+wstaw 59 135
+usun 37
+zamien 168 176
+dodaj 16
+wstaw 24 53
+zamien 165 20
+usun 106
+usun 85
+usun 141
+wstaw 83 15
+zamien 51 50
+usun 93
+wstaw 80 161
+usun 186
+usun 230
+dodaj 19
+wstaw 56 221
+usun 161
+wstaw 58 126
+usun 77
+usun 59
+usun 41
+usun 178
+usun 108
+dodaj 96
+wstaw 18 105
+wstaw 68 91
+dodaj 21
+usun 90
+wstaw 47 137
+wstaw 8 171
+dodaj 87
+wstaw 60 221
+wstaw 21 21
+wstaw 72 127
+usun 204
+usun 175
+usun 44
+usun 94
+wstaw 79 43
+zamien 218 160
+zamien 187 104
+usun 63
+usun 177
+usun 170
+wstaw 62 7
+wstaw 54 218
+wstaw 92 93
+wstaw 20 186
+wstaw 30 210
+dodaj 44
+zamien 83 190
+dodaj 19
+usun 102
+wstaw 3 169
+wstaw 64 162
+wstaw 78 151
+usun 185
+wstaw 89 232
+usun 68
+usun 237
+wstaw 45 38
+dodaj 79
+wstaw 33 111
+wstaw 68 6
+zamien 221 20
+usun 241
+usun 164
+usun 1
+usun 19
+usun 120
+dodaj 2
+wstaw 96 115
+dodaj 70
+wstaw 34 146
+dodaj 81
+usun 216
+wstaw 35 62
+usun 134
+usun 123
+wstaw 58 64
+usun 207
+dodaj 69
+usun 134
+usun 91
+usun 111
+wstaw 85 46
+wstaw 55 186
+wstaw 38 220
+usun 57
+dodaj 72
+usun 34
+usun 35
+dodaj 35
+wstaw 18 85
+wstaw 17 76
+usun 176
+dodaj 15
+usun 215
+usun 208
+dodaj 10
+zamien 21 228
+usun 218
+dodaj 33
+usun 155
+zamien 1 232
+usun 46
+zamien 117 179
+usun 56
+zamien 36 90
+usun 70
+usun 149
+zamien 130 223
+wstaw 27 62
+usun 94
+usun 227
+usun 126
+usun 122
+usun 226
+usun 87
+wstaw 74 47
+wstaw 30 141
+usun 208
+usun 176
+usun 111
+dodaj 71
+usun 201
+dodaj 33
+usun 106
+wstaw 36 116
+wstaw 24 145
+wstaw 61 44
+usun 178
+wstaw 49 117
+wstaw 58 22
+wstaw 21 87
+zamien 216 107
+wstaw 37 89
+usun 133
+wstaw 20 235
+usun 217
+wstaw 46 55
+usun 74
+usun 135
+wstaw 81 126
+dodaj 18
+wstaw 39 144
+usun 53
+dodaj 74
+dodaj 2
+usun 41
+wstaw 67 186
+wstaw 31 29
+usun 193
+usun 180
+dodaj 95
+dodaj 74
+wstaw 73 220
+wstaw 74 183
+wstaw 99 176
+dodaj 68
+usun 175
+wstaw 21 4
+usun 0
+usun 142
+dodaj 34
+dodaj 83
+zamien 157 55
+usun 37
+wstaw 77 191
+usun 198
+usun 176
+zamien 57 163
+usun 213
+dodaj 47
+usun 60
+usun 143
+wstaw 69 50
+usun 37
+usun 86
+usun 231
+dodaj 44
+usun 212
+wstaw 2 143
+usun 202
+wstaw 9 13
+dodaj 39
+dodaj 91
+zamien 122 239
+wstaw 81 168
+dodaj 57
+dodaj 76
+usun 69
+usun 56
+wstaw 35 214
+usun 93
+dodaj 45
+usun 40
+dodaj 4
+dodaj 97
+wstaw 51 217
+zamien 61 97
+usun 9
+usun 49
+usun 40
+usun 16
+usun 43
+wstaw 87 41
+wstaw 64 142
+wstaw 85 20
+usun 173
+usun 216
+usun 161
+wstaw 29 29
+usun 223
+wstaw 23 134
+usun 234
+wstaw 93 190
+usun 60
+wstaw 4 142
+usun 220
+dodaj 84
+wstaw 78 20
+usun 158
+dodaj 82
+wstaw 72 67
+usun 200
+wstaw 42 216
+wstaw 59 69
+usun 153
+usun 47
+usun 100
+dodaj 93
+wstaw 92 127
+usun 177
+dodaj 43
+usun 128
+usun 215
+zamien 30 98
+dodaj 43
+usun 80
+usun 215
+usun 156
+usun 182
+wstaw 37 65
+usun 125
+usun 236
+wstaw 48 141
+wstaw 54 177
+dodaj 7
+wstaw 26 207
+zamien 81 62
+wstaw 21 186
+usun 163
+wstaw 82 25
+zamien 26 72
+usun 51
+wstaw 73 148
+usun 178
+dodaj 24
+usun 124
+wstaw 41 160
+wstaw 76 89
+usun 236
+usun 48
+zamien 0 225
+usun 104
+usun 133
+zamien 84 127
+usun 104
+usun 159
+wstaw 62 24
+zamien 48 25
+usun 93
+usun 14
+wstaw 44 26
+usun 95
+dodaj 38
+usun 127
+zamien 3 224
+dodaj 20
+wstaw 40 137
+usun 127
+usun 73
+zamien 87 8
+usun 224
+usun 151
+usun 114
+dodaj 64
+usun 141
+dodaj 49
+zamien 197 159
+zamien 115 205
+usun 168
+dodaj 44
+dodaj 77
+usun 73
+usun 123
+usun 109
+usun 196
+wstaw 52 126
+usun 153
+wstaw 36 209
+dodaj 34
+wstaw 95 117
+wstaw 25 26
+usun 7
+usun 164
+usun 108
+zamien 65 14
+dodaj 49
+wstaw 36 204
+wstaw 96 29
+dodaj 19
+wstaw 17 64
+usun 138
+wstaw 62 14
+wstaw 52 4
+wstaw 40 20
+usun 181
+wstaw 70 223
+wstaw 91 56
+zamien 33 202
+usun 167
+wstaw 97 147
+wstaw 99 149
+dodaj 98
+usun 73
+usun 165
+zamien 22 88
+usun 60
+usun 82
+usun 8
+usun 132
+usun 78
+dodaj 32
+usun 79
+dodaj 77
+usun 7
+zamien 113 160
+usun 199
+zamien 166 41
+usun 26
+wstaw 77 50
+wstaw 29 8
+usun 75
+usun 118
+wstaw 46 66
+usun 182
+wstaw 79 151
+wstaw 86 171
+wstaw 77 147
+zamien 194 127
+wstaw 35 197
+usun 170
+zamien 133 163
+zamien 51 134
+usun 72
+usun 72
+usun 87
+wstaw 97 66
+dodaj 57
+usun 8
+usun 146
+usun 138
+usun 155
+usun 68
+usun 147
+usun 90
+dodaj 89
+wstaw 34 43
+wstaw 90 186
+dodaj 73
+usun 90
+wstaw 32 110
+wstaw 22 129
+zamien 87 115
+dodaj 44
+wstaw 18 92
+usun 63
+wstaw 76 183
+usun 1
+usun 140
+zamien 38 48
+wstaw 78 13
+usun 157
+dodaj 41
+dodaj 1
+dodaj 10
+usun 17
+dodaj 31
+wstaw 65 180
+usun 98
+dodaj 54
+zamien 149 66
+usun 13
+wstaw 74 138
+usun 171
+dodaj 2
+usun 193
+wstaw 54 46
+dodaj 79
+zamien 151 224
+usun 105
+zamien 174 7
+wstaw 15 203
+usun 4
+usun 236
+dodaj 53
+wstaw 28 102
+wstaw 78 178
+wstaw 73 26
+wstaw 1 33
+dodaj 91
+wstaw 76 20
+wstaw 40 126
+wstaw 21 200
+usun 144
+usun 133
+usun 88
+dodaj 56
+wstaw 84 76
+wstaw 22 97
+usun 140
+usun 224
+dodaj 55
+usun 135
+wstaw 31 201
+wstaw 34 137
+wstaw 96 233
+usun 112
+zamien 164 8
+wstaw 26 20
+usun 1
+dodaj 86
+dodaj 10
+wstaw 56 143
+usun 227
+usun 41
+usun 193
+dodaj 61
+zamien 49 0
+usun 97
+dodaj 72
+wstaw 28 35
+dodaj 18
+usun 2
+zamien 190 28
+wstaw 32 27
+usun 174
+usun 24
+usun 64
+usun 6
+usun 81
+wstaw 7 91
+zamien 222 189
+dodaj 98
+wstaw 7 126
+wstaw 45 68
+wstaw 100 31
+usun 165
+usun 109
+dodaj 6
+usun 74
+usun 211
+wstaw 64 9
+dodaj 68
+dodaj 30
+wstaw 56 238
+wstaw 86 157
+wstaw 87 56
+wstaw 78 195
+wstaw 42 123
+wstaw 8 80
+wstaw 72 133
+usun 29
+usun 237
+usun 192
+zamien 238 122
+wstaw 41 160
+usun 226
+dodaj 62
+wstaw 45 67
+wstaw 63 115
+zamien 224 176
+usun 248
+usun 103
+usun 109
+usun 28
+dodaj 7
+dodaj 5
+wstaw 68 113
+wstaw 83 59
+wstaw 78 154
+dodaj 35
+usun 197
+usun 241
+usun 136
+zamien 91 210
+usun 26
+wstaw 100 63
+wstaw 12 48
+usun 154
+usun 234
+wstaw 68 135
+usun 154
+usun 166
+usun 154
+usun 112
+usun 62
+usun 71
+wstaw 10 155
+usun 183
+usun 186
+dodaj 42
+dodaj 90
+usun 196
+wstaw 86 203
+zamien 240 151
+usun 47
+zamien 1 237
+wstaw 84 34
+usun 109
+wstaw 5 134
+dodaj 77
+dodaj 66
+dodaj 69
+usun 162
+dodaj 31
+usun 218
+usun 227
+dodaj 12
+usun 134
+wstaw 86 26
+zamien 153 215
+wstaw 58 89
+wstaw 82 243
+wstaw 60 61
+wstaw 77 185
+dodaj 8
+wstaw 74 180
+zamien 56 235
+wstaw 50 61
+wstaw 98 174
+wstaw 16 243
+usun 211
+zamien 120 109
+wstaw 37 199
+usun 77
+zamien 25 256
+usun 66
+wstaw 14 195
+wstaw 63 211
+wstaw 8 80
+dodaj 51
+usun 135
+usun 145
+usun 161
+usun 205
+zamien 49 249
+usun 75
+usun 66
+usun 150
+zamien 154 81
+wstaw 57 221
+wstaw 53 0
+usun 132
+usun 215
+usun 223
+dodaj 72
+usun 46
+wstaw 80 24
+usun 244
+dodaj 68
+dodaj 81
+wstaw 56 222
+wstaw 64 31
+usun 90
+zamien 29 71
+wstaw 52 94
+zamien 162 157
+usun 246
+usun 13
+usun 55
+usun 187
+usun 24
+usun 32
+dodaj 84
+wstaw 1 176
+wstaw 9 7
+usun 114
+usun 143
+wstaw 75 121
+dodaj 12
+dodaj 74
+wstaw 91 221
+wstaw 32 22
+usun 253
+dodaj 32
+wstaw 78 146
+wstaw 98 111
+zamien 222 40
+usun 116
+usun 157
+usun 146
+usun 37
+wstaw 3 107
+usun 244
+usun 136
+dodaj 46
+usun 112
+dodaj 39
+usun 201
+usun 212
+dodaj 17
+usun 141
+usun 62
+usun 48
+usun 249
+usun 30
+zamien 36 148
+zamien 241 127
+usun 95
+usun 61
+zamien 97 45
+usun 73
+usun 99
+usun 86
+wstaw 51 160
+zamien 100 135
+usun 167
+dodaj 43
+wstaw 2 18
+wstaw 91 147
+usun 80
+zamien 30 91
+usun 75
+dodaj 78
+usun 173
+wstaw 74 44
+zamien 205 138
+usun 6
+usun 180
+dodaj 60
+wstaw 46 129
+wstaw 8 117
+usun 237
+usun 45
+zamien 127 33
+dodaj 16
+zamien 99 131
+usun 236
+dodaj 66
+usun 72
+wstaw 4 161
+dodaj 13
+usun 226
+usun 149
+usun 185
+dodaj 71
+wstaw 88 217
+dodaj 85
+usun 56
+wstaw 40 40
+zamien 152 78
+usun 18
+usun 201
+dodaj 66
+dodaj 79
+wstaw 11 152
+wstaw 1 16
+usun 148
+usun 83
+wstaw 38 57
+usun 235
+wstaw 77 41
+usun 245
+usun 169
+usun 19
+wstaw 61 45
+usun 56
+usun 0
+usun 196
+usun 187
+dodaj 96
+wstaw 5 73
+usun 118
+wstaw 61 176
+wstaw 49 139
+usun 76
+dodaj 60
+wstaw 26 62
+wstaw 25 12
+usun 126
+usun 30
+wstaw 26 80
+usun 18
+usun 205
+wstaw 82 56
+usun 83
+dodaj 81
+wstaw 41 190
+wstaw 27 98
+wstaw 16 131
+wstaw 27 169
+wstaw 14 109
+usun 241
+usun 6
+dodaj 60
+dodaj 76
+zamien 21 13
+wstaw 65 47
+wstaw 94 177
+dodaj 79
+wstaw 52 116
+usun 243
+usun 143
+wstaw 97 148
+wstaw 63 200
+wstaw 20 130
+usun 119
+dodaj 79
+zamien 158 75
+usun 239
+wstaw 57 155
+dodaj 58
+wstaw 5 103
+usun 149
+usun 16
+wstaw 89 15
+zamien 160 165
+dodaj 87
+wstaw 18 137
+dodaj 4
+wstaw 1 133
+zamien 147 240
+usun 134
+wstaw 90 174
+dodaj 39
+dodaj 78
+usun 119
+usun 81
+zamien 54 89
+dodaj 21
+wstaw 29 19
+usun 232
+usun 129
+usun 165
+dodaj 14
+dodaj 89
+usun 161
+wstaw 90 24
+wstaw 57 115
+wstaw 29 9
+usun 144
+usun 66
+wstaw 75 225
+usun 75
+dodaj 29
+usun 158
+usun 106
+dodaj 54
+zamien 56 156
+dodaj 82
+wstaw 93 83
+dodaj 18
+usun 94
+usun 86
+wstaw 32 201
+usun 198
+zamien 167 256
+usun 21
+usun 109
+wstaw 8 91
+usun 146
+zamien 232 135
+dodaj 48
+dodaj 34
+usun 50
+zamien 97 68
+usun 165
+usun 37
+usun 37
+wstaw 23 137
+wstaw 85 208
+wstaw 75 158
+wstaw 95 16
+usun 101
+usun 162
+wstaw 5 214
+usun 222
+usun 114
+zamien 2 250
+wstaw 72 153
+wstaw 6 178
+usun 62
+usun 230
+dodaj 72
+wstaw 14 120
+zamien 209 113
+wstaw 70 166
+wstaw 94 36
+dodaj 20
+usun 212
+wstaw 42 1
+zamien 209 161
+wstaw 11 186
+usun 25
+usun 86
+dodaj 14
+usun 251
+wstaw 77 0
+usun 26
+usun 104
+wstaw 59 136
+usun 80
+usun 96
+dodaj 10
+usun 239
+dodaj 9
+dodaj 14
+dodaj 64
+dodaj 94
+usun 28
+wstaw 23 106
+dodaj 15
+zamien 235 217
+zamien 183 103
+wstaw 19 250
+zamien 17 197
+usun 198
+zamien 75 185
+usun 163
+dodaj 2
+usun 44
+dodaj 60
+zamien 60 31
+usun 199
+wstaw 95 180
+usun 149
+wstaw 49 127
+usun 185
+wstaw 14 208
+dodaj 72
+zamien 199 12
+zamien 237 236
+dodaj 56
+usun 199
+dodaj 57
+usun 236
+wstaw 90 20
+wstaw 92 66
+zamien 147 216
+zamien 246 104
+zamien 116 260
+usun 152
+wstaw 73 92
+wstaw 75 125
+usun 114
+zamien 232 199
+wstaw 49 243
+dodaj 67
+dodaj 96
+wstaw 90 173
+usun 168
+usun 168
+zamien 50 140
+dodaj 25
+usun 28
+wstaw 88 0
+usun 80
+wstaw 91 148
+usun 130
+usun 163
+usun 108
+wstaw 60 195
+usun 269
+dodaj 97
+usun 119
+zamien 182 62
+usun 95
+zamien 83 254
+usun 91
+usun 214
+dodaj 29
+usun 263
+usun 27
+zamien 100 234
+wstaw 78 32
+usun 128
+wstaw 100 0
+usun 152
+usun 163
+dodaj 36
+usun 18
+zamien 223 38
+usun 74
+wstaw 90 1
+wstaw 45 147
+usun 55
+usun 164
+wstaw 98 108
+usun 178
+usun 137
+usun 64
+usun 251
+usun 143
+usun 4
+wstaw 4 60
+dodaj 90
+wstaw 16 13
+usun 115
+wstaw 46 63
+usun 260
+usun 163
+wstaw 39 110
+wstaw 74 109
+usun 136
+wstaw 53 55
+wstaw 84 41
+wstaw 52 29
+usun 143
+usun 78
+usun 39
+zamien 125 139
+dodaj 55
+dodaj 55
+usun 82
+zamien 171 38
+usun 100
+wstaw 8 27
+wstaw 85 55
+dodaj 86
+usun 146
+usun 28
+wstaw 14 235
+dodaj 61
+usun 48
+zamien 111 137
+wstaw 30 0
+usun 37
+usun 145
+usun 168
+wstaw 18 6
+usun 126
+usun 82
+wstaw 98 164
+usun 228
+usun 145
+dodaj 62
+usun 197
+usun 111
+zamien 251 114
+wstaw 34 167
+usun 130
+dodaj 1
+dodaj 39
+dodaj 56
+usun 168
+dodaj 5
+zamien 61 224
+wstaw 39 205
+usun 88
+usun 252
+zamien 24 120
+wstaw 56 132
+usun 119
+usun 65
+dodaj 38
+dodaj 47
+usun 133
+wstaw 8 119
+wstaw 39 147
+wstaw 69 88
+wstaw 56 176
+zamien 188 82
+usun 21
+wstaw 71 192
+zamien 252 186
+usun 8
+usun 0
+usun 143
+usun 100
+usun 212
+usun 40
+wstaw 94 211
+wstaw 2 258
+zamien 256 103
+usun 137
+dodaj 63
+wstaw 92 251
+dodaj 49
+usun 44
+usun 31
+usun 125
+dodaj 34
+dodaj 60
+wstaw 4 227
+wstaw 17 136
+dodaj 100
+usun 191
+usun 2
+dodaj 64
+wstaw 67 53
+usun 181
+usun 250
+wstaw 79 261
+usun 85
+wstaw 31 89
+usun 74
+usun 209
+usun 134
+dodaj 74
+wstaw 87 56
+usun 158
+wstaw 26 168
+dodaj 68
+usun 142
+usun 33
+wstaw 61 261
+usun 7
+wstaw 30 192
+usun 171
+wstaw 70 245
+usun 213
+usun 155
+usun 152
+wstaw 29 26
+wstaw 8 171
+usun 59
+wstaw 24 45
+usun 99
+zamien 44 155
+usun 177
+dodaj 100
+usun 92
+dodaj 13
+zamien 213 91
+wstaw 28 212
+usun 170
+wstaw 76 237
+dodaj 32
+wstaw 47 230
+usun 174
+usun 249
+zamien 35 59
+usun 162
+usun 57
+dodaj 16
+dodaj 25
+usun 170
+dodaj 26
+wstaw 42 239
+usun 92
+dodaj 7
+zamien 16 169
+usun 172
+wstaw 73 37
+dodaj 58
+dodaj 92
+usun 157
+wstaw 70 40
+usun 59
+wstaw 64 104
+usun 229
+dodaj 14
+zamien 245 241
+usun 154
+wstaw 64 190
+dodaj 83
+wstaw 15 185
+wstaw 89 30
+wstaw 30 210
+dodaj 20
+dodaj 22
+usun 30
+wstaw 28 232
+zamien 218 207
+usun 46
+dodaj 1
+zamien 257 184
+usun 219
+wstaw 25 3
+wstaw 16 205
+wstaw 21 265
+usun 12
+dodaj 64
+usun 225
+wstaw 1 47
+zamien 139 75
+usun 193
+usun 245
+dodaj 47
+usun 1
+dodaj 57
+wstaw 84 182
+usun 61
+wstaw 54 135
+usun 53
+wstaw 51 151
+usun 62
+wstaw 18 189
+usun 264
+usun 234
+dodaj 63
+dodaj 99
+dodaj 59
+usun 33
+usun 224
+wstaw 66 75
+usun 49
+dodaj 8
+wstaw 91 230
+usun 93
+dodaj 51
+wstaw 63 196
+usun 158
+usun 115
+usun 82
+wstaw 3 202
+dodaj 28
+usun 170
+dodaj 22
+wstaw 50 83
+usun 95
+wstaw 55 259
+zamien 236 65
+usun 123
+usun 154
+dodaj 41
+dodaj 42
+dodaj 43
+usun 236
+dodaj 23
+wstaw 92 250
+wstaw 44 34
+dodaj 94
+usun 68
+wstaw 66 176
+wstaw 82 154
+usun 21
+wstaw 14 93
+dodaj 30
+usun 246
+dodaj 92
+dodaj 54
+wstaw 51 259
+usun 54
+dodaj 89
+dodaj 10
+usun 77
+wstaw 39 65
+wstaw 4 123
+wstaw 58 236
+usun 162
+dodaj 99
+wstaw 43 252
+wstaw 64 39
+usun 226
+usun 30
+dodaj 22
+usun 25
+usun 104
+zamien 124 185
+usun 128
+dodaj 1
+wstaw 48 27
+usun 83
+usun 23
+wstaw 27 283
+wstaw 39 203
+usun 93
+zamien 71 34
+wstaw 92 264
+wstaw 11 207
+usun 274
+usun 112
+usun 163
+usun 261
+wstaw 46 184
+wstaw 17 189
+usun 104
+wstaw 91 8
+zamien 157 162
+wstaw 68 245
+usun 113
+wstaw 1 163
+wstaw 87 23
+usun 187
+usun 279
+wstaw 16 130
+usun 53
+zamien 239 154
+usun 141
+wstaw 30 163
+wstaw 95 199
+usun 227
+dodaj 41
+wstaw 21 81
+zamien 37 240
+usun 191
+usun 166
+zamien 218 142
+dodaj 88
+usun 161
+dodaj 91
+wstaw 72 93
+usun 78
+usun 97
+wstaw 46 18
+wstaw 14 276
+wstaw 34 34
+wstaw 40 184
+wstaw 90 225
+wstaw 73 229
+wstaw 41 131
+wstaw 75 260
+usun 28
+dodaj 31
+wstaw 4 53
+zamien 235 283
+wstaw 53 225
+wstaw 41 191
+usun 218
+dodaj 1
+dodaj 88
+usun 74
+zamien 120 140
+wstaw 11 266
+dodaj 6
+wstaw 46 205
+wstaw 87 266
+wstaw 86 235
+dodaj 18
+dodaj 56
+zamien 287 143
+dodaj 83
+wstaw 69 144
+dodaj 19
+usun 11
+usun 82
+usun 118
+usun 248
+dodaj 7
+usun 271
+dodaj 42
+dodaj 91
+dodaj 47
+dodaj 25
+wstaw 42 288
+wstaw 89 55
+usun 284
+usun 59
+usun 192
+usun 208
+wstaw 19 28
+wstaw 28 206
+usun 285
+wstaw 26 176
+usun 39
+dodaj 21
+dodaj 23
+dodaj 88
+dodaj 25
+wstaw 4 41
+usun 13
+usun 114
+zamien 124 186
+dodaj 29
+zamien 128 143
+zamien 146 224
+usun 209
+usun 183
+zamien 43 280
+wstaw 48 98
+usun 215
+wstaw 41 272
+usun 51
+usun 117
+wstaw 96 201
+usun 24
+dodaj 42
+wstaw 55 220
+usun 180
+usun 191
+wstaw 7 227
+wstaw 93 72
+wstaw 25 257
+usun 33
+zamien 119 61
+usun 202
+wstaw 69 113
+zamien 223 9
+wstaw 36 217
+usun 123
+wstaw 24 125
+wstaw 92 202
+zamien 34 218
+usun 253
+wstaw 13 44
+usun 277
+wstaw 46 233
+wstaw 27 252
+wstaw 74 116
+zamien 183 259
+usun 114
+wstaw 5 105
+dodaj 42
+usun 259
+dodaj 51
+dodaj 57
+wstaw 39 273
+zamien 182 6
+wstaw 54 55
+wstaw 52 232
+usun 86
+zamien 135 136
+usun 195
+wstaw 58 208
+usun 133
+dodaj 66
+wstaw 63 304
+wstaw 43 223
+dodaj 20
+usun 240
+usun 290
+wstaw 27 185
+dodaj 30
+wstaw 52 277
+dodaj 70
+usun 19
+usun 302
+wstaw 24 294
+wstaw 27 79
+zamien 95 286
+usun 170
+wstaw 57 91
+usun 25
+dodaj 87
+usun 42
+wstaw 51 289
+dodaj 95
+zamien 17 240
+wstaw 87 263
+zamien 145 121
+zamien 135 228
+dodaj 28
+usun 21
+wstaw 6 279
+wstaw 8 220
+zamien 261 313
+dodaj 95
+dodaj 55
+usun 127
+wstaw 5 261
+dodaj 63
+wstaw 67 261
+wstaw 56 323
+dodaj 74
+usun 10
+zamien 90 67
+usun 315
+dodaj 52
+wstaw 97 67
+zamien 284 230
+usun 316
+wstaw 66 127
+dodaj 45
+usun 58
+wstaw 4 327
+usun 114
+wstaw 74 225
+wstaw 89 223
+usun 216
+dodaj 47
+dodaj 66
+usun 287
+dodaj 57
+wstaw 82 78
+dodaj 4
+dodaj 37
+zamien 115 93
+dodaj 56
+zamien 286 118
+usun 212
+usun 311
+zamien 6 321
+usun 111
+usun 221
+dodaj 66
+dodaj 39
+usun 141
+usun 72
+usun 36
+usun 323
+wstaw 19 244
+usun 150
+usun 317
+usun 313
+wstaw 90 39
+usun 159
+usun 32
+usun 254
+usun 90
+wstaw 17 252
+dodaj 55
+zamien 307 117
+wstaw 79 240
+usun 19
+wstaw 40 275
+wstaw 54 156
+usun 229
+zamien 269 205
+dodaj 15
+usun 215
+zamien 39 120
+wstaw 59 51
+wstaw 79 129
+dodaj 2
+dodaj 58
+wstaw 1 262
+dodaj 19
+usun 214
+zamien 287 107
+wstaw 74 32
+usun 245
+dodaj 37
+wstaw 51 280
+usun 163
+usun 227
+usun 230
+wstaw 14 30
+usun 22
+dodaj 15
+wstaw 47 9
+zamien 12 33
+usun 165
+wstaw 54 176
+usun 267
+zamien 329 147
+wstaw 24 156
+usun 274
+usun 62
+dodaj 99
+usun 273
+wstaw 11 234
+usun 164
+zamien 134 17
+usun 106
+usun 123
+usun 44
+wstaw 42 212
+usun 277
+wstaw 28 210
+usun 271
+wstaw 13 142
+usun 59
+usun 244
+usun 195
+dodaj 68
+usun 108
+wstaw 79 42
+zamien 174 192
+wstaw 89 322
+usun 305
+usun 198
+dodaj 85
+usun 136
+dodaj 95
+dodaj 24
+dodaj 62
+usun 35
+dodaj 7
+usun 145
+wstaw 1 139
+usun 2
+usun 308
+zamien 95 114
+usun 85
+usun 258
+zamien 57 27
+usun 29
+usun 184
+usun 245
+wstaw 66 265
+usun 239
+usun 289
+dodaj 5
+usun 314
+wstaw 9 41
+usun 107
+dodaj 63
+usun 284
+wstaw 47 198
+dodaj 16
+usun 46
+wstaw 13 70
+usun 296
+wstaw 93 130
+usun 39
+wstaw 11 221
+wstaw 70 121
+dodaj 60
+zamien 74 252
+usun 99
+dodaj 34
+wstaw 63 97
+wstaw 33 217
+usun 183
+dodaj 19
+zamien 282 101
+wstaw 77 54
+dodaj 10
+zamien 245 309
+wstaw 45 10
+dodaj 72
+zamien 39 264
+usun 137
+usun 175
+wstaw 7 193
+wstaw 32 6
+wstaw 15 53
+zamien 246 21
+dodaj 66
+usun 180
+dodaj 45
+wstaw 68 158
+wstaw 5 168
+usun 118
+wstaw 87 15
+usun 28
+wstaw 32 88
+usun 334
+dodaj 48
+dodaj 86
+wstaw 99 261
+wstaw 51 219
+dodaj 82
+wstaw 72 85
+usun 206
+usun 326
+usun 98
+usun 119
+usun 195
+usun 180
+wstaw 51 118
+usun 196
+usun 335
+dodaj 49
+usun 150
+usun 21
+wstaw 18 98
+wstaw 6 94
+wstaw 48 40
+wstaw 86 108
+usun 19
+wstaw 28 63
+dodaj 93
+usun 217
+usun 318
+usun 154
+wstaw 49 251
+usun 128
+usun 125
+dodaj 34
+usun 123
+wstaw 70 80
+usun 297
+dodaj 53
+usun 195
+wstaw 2 222
+usun 70
+usun 319
+usun 276
+dodaj 59
+dodaj 54
+usun 213
+wstaw 35 303
+usun 27
+wstaw 90 16
+zamien 275 199
+usun 19
+wstaw 53 98
+usun 247
+usun 324
+wstaw 100 183
+wstaw 31 203
+usun 259
+dodaj 2
+wstaw 21 100
+dodaj 50
+usun 176
+wstaw 94 286
+wstaw 32 87
+dodaj 81
+dodaj 51
+dodaj 66
+usun 180
+dodaj 37
+usun 201
+dodaj 52
+wstaw 99 194
+usun 110
+wstaw 55 305
+wstaw 30 215
+zamien 103 121
+wstaw 40 85
+usun 272
+usun 182
+dodaj 24
+wstaw 43 307
+wstaw 18 13
+usun 14
+usun 239
+dodaj 68
+zamien 185 82
+usun 337
+wstaw 91 82
+wstaw 34 88
+wstaw 94 301
+dodaj 47
+dodaj 91
+wstaw 12 133
+usun 124
+wstaw 73 91
+wstaw 8 51
+wstaw 59 226
+usun 123
+dodaj 55
+wstaw 28 316
+wstaw 63 239
+usun 239
+wstaw 20 135
+zamien 196 111
+wstaw 3 223
+usun 77
+zamien 3 228
+usun 83
+usun 158
+usun 208
+wstaw 80 210
+wstaw 80 63
+usun 189
+dodaj 81
+wstaw 79 315
+wstaw 36 60
+zamien 308 231
+wstaw 84 228
+wstaw 44 151
+wstaw 28 15
+wstaw 37 178
+usun 102
+wstaw 57 70
+wstaw 49 151
+wstaw 92 216
+usun 229
+usun 79
+usun 237
+dodaj 47
+wstaw 88 39
+usun 91
+usun 79
+wstaw 67 71
+usun 221
+dodaj 55
+usun 353
+wstaw 39 349
+usun 211
+dodaj 89
+wstaw 66 56
+usun 192
+zamien 74 209
+dodaj 5
+wstaw 93 285
+usun 169
+wstaw 81 265
+usun 112
+wstaw 48 229
+dodaj 62
+wstaw 69 129
+wstaw 37 61
+usun 175
+usun 68
+usun 11
+zamien 265 151
+dodaj 23
+wstaw 52 120
+wstaw 50 254
+usun 17
+dodaj 73
+usun 279
+wstaw 52 155
+dodaj 3
+usun 21
+dodaj 91
+zamien 273 137
+dodaj 94
+wstaw 79 155
+usun 97
+usun 280
+wstaw 24 14
+wstaw 20 41
+dodaj 69
+usun 270
+wstaw 90 243
+usun 258
+dodaj 8
+wstaw 98 14
+usun 316
+wstaw 15 189
+wstaw 83 342
+wstaw 16 240
+wstaw 15 161
+wstaw 30 321
+usun 272
+usun 28
+usun 369
+wstaw 5 182
+usun 71
+usun 312
+wstaw 29 101
+wstaw 25 250
+usun 362
+wstaw 27 344
+usun 64
+wstaw 1 343
+usun 78
+dodaj 75
+wstaw 55 285
+wstaw 12 195
+usun 91
+zamien 66 285
+usun 213
+dodaj 85
+usun 173
+wstaw 29 233
+usun 325
+usun 67
+wstaw 36 234
+dodaj 65
+usun 237
+wstaw 60 155
+usun 247
+dodaj 25
+wstaw 47 335
+usun 102
+usun 320
+wstaw 61 90
+wstaw 70 87
+wstaw 21 7
+usun 213
+wstaw 98 4
+usun 104
+usun 17
+usun 43
+dodaj 18
+zamien 85 102
+wstaw 55 241
+usun 190
+usun 264
+usun 237
+wstaw 67 221
+usun 9
+usun 273
+wstaw 57 143
+wstaw 14 369
+usun 75
+dodaj 22
+usun 265
+usun 296
+zamien 82 53
+usun 267
+wstaw 30 195
+dodaj 19
+wstaw 41 192
+dodaj 73
+zamien 221 135
+usun 174
+usun 189
+dodaj 55
+usun 24
+zamien 329 98
+wstaw 3 165
+zamien 126 32
+usun 188
+usun 31
+usun 41
+usun 43
+usun 121
+usun 123
+zamien 18 19
+wstaw 83 198
+wstaw 47 129
+usun 73
+dodaj 68
+wstaw 74 85
+usun 31
+usun 353
+usun 197
+wstaw 16 224
+usun 258
+wstaw 62 179
+usun 280
+usun 316
+wstaw 57 255
+usun 19
+wstaw 28 130
+dodaj 37
+wstaw 17 313
+usun 127
+usun 309
+usun 261
+dodaj 78
+usun 256
+wstaw 13 8
+dodaj 58
+wstaw 60 193
+dodaj 20
+dodaj 61
+zamien 220 196
+wstaw 62 39
+wstaw 97 231
+wstaw 36 23
+usun 146
+usun 101
+usun 225
+usun 108
+usun 274
+wstaw 100 280
+usun 312
+usun 32
+wstaw 69 56
+zamien 6 50
+dodaj 16
+usun 98
+zamien 202 245
+dodaj 82
+wstaw 32 323
+wstaw 55 76
+dodaj 9
+wstaw 66 319
+usun 115
+wstaw 94 132
+usun 4
+dodaj 53
+wstaw 83 131
+usun 278
+usun 285
+usun 79
+usun 248
+dodaj 22
+usun 226
+usun 256
+zamien 132 90
+usun 65
+wstaw 52 201
+usun 56
+dodaj 78
+usun 27
+zamien 89 179
+usun 126
+usun 74
+dodaj 83
+usun 14
+usun 199
+wstaw 77 191
+wstaw 85 338
+wstaw 83 103
+dodaj 42
+usun 77
+wstaw 87 255
+usun 215
+usun 335
+wstaw 85 145
+usun 209
+dodaj 10
+zamien 199 71
+wstaw 8 265
+usun 164
+wstaw 58 292
+dodaj 20
+usun 330
+wstaw 50 120
+usun 159
+dodaj 20
+dodaj 73
+wstaw 87 79
+zamien 52 218
+dodaj 77
+wstaw 5 287
+usun 36
+zamien 221 250
+zamien 351 14
+zamien 22 15
+usun 70
+usun 164
+usun 121
+wstaw 84 230
+zamien 255 34
+wstaw 57 163
+dodaj 44
+zamien 254 19
+usun 324
+wstaw 70 282
+wstaw 86 25
+wstaw 65 136
+usun 298
+zamien 360 293
+usun 166
+usun 315
+wstaw 60 224
+usun 261
+usun 58
+usun 32
+usun 62
+usun 224
+wstaw 58 191
+usun 162
+usun 245
+wstaw 62 225
+zamien 150 187
+wstaw 73 151
+usun 11
+usun 72
+dodaj 61
+usun 12
+zamien 98 321
+wstaw 64 110
+dodaj 82
+wstaw 68 326
+wstaw 8 218
+wstaw 88 91
+usun 10
+usun 218
+dodaj 67
+usun 344
+usun 353
+zamien 312 221
+usun 340
+usun 79
+wstaw 97 228
+wstaw 61 105
+zamien 90 174
+dodaj 56
+zamien 290 358
+wstaw 40 73
+usun 264
+dodaj 34
+usun 229
+usun 289
+dodaj 42
+usun 42
+usun 6
+usun 351
+usun 223
+dodaj 5
+dodaj 10
+usun 96
+wstaw 66 278
+wstaw 82 152
+usun 219
+usun 120
+dodaj 33
+zamien 11 275
+usun 100
+usun 179
+zamien 299 69
+wstaw 95 4
+usun 61
+wstaw 66 233
+wstaw 78 135
+usun 43
+wstaw 65 64
+dodaj 12
+usun 4
+wstaw 19 67
+dodaj 13
+wstaw 90 318
+usun 136
+wstaw 20 147
+usun 55
+wstaw 41 146
+wstaw 60 319
+dodaj 42
+wstaw 53 186
+wstaw 78 147
+usun 123
+wstaw 61 311
+usun 243
+dodaj 6
+usun 75
+usun 73
+usun 245
+usun 67
+wstaw 39 335
+usun 195
+wstaw 81 275
+dodaj 34
+usun 10
+wstaw 91 11
+wstaw 36 184
+wstaw 7 271
+usun 317
+usun 56
+usun 16
+wstaw 1 0
+usun 87
+wstaw 14 310
+wstaw 7 194
+usun 79
+zamien 231 110
+wstaw 98 42
+wstaw 64 255
+wstaw 80 150
+wstaw 95 367
+dodaj 74
+wstaw 31 19
+wstaw 83 35
+wstaw 4 294
+usun 97
+dodaj 72
+wstaw 78 78
+wstaw 82 44
+usun 116
+usun 134
+usun 173
+usun 185
+dodaj 90
+wstaw 84 249
+zamien 193 359
+usun 73
+usun 175
+dodaj 74
+dodaj 15
+zamien 348 374
+dodaj 14
+zamien 98 142
+wstaw 68 327
+wstaw 2 186
+usun 172
+dodaj 26
+usun 256
+dodaj 6
+wstaw 61 203
+dodaj 51
+dodaj 76
+usun 10
+usun 285
+dodaj 13
+dodaj 75
+dodaj 36
+dodaj 31
+usun 332
+zamien 291 288
+usun 12
+usun 350
+usun 240
+dodaj 56
+wstaw 20 382
+wstaw 3 281
+wstaw 89 242
+wstaw 85 261
+wstaw 65 370
+usun 374
+usun 258
+dodaj 97
+usun 171
+wstaw 54 180
+zamien 158 341
+zamien 129 171
+wypisz
+usun 112
+wstaw 23 281
+dodaj 32
+wstaw 57 284
+wstaw 35 384
+usun 201
+dodaj 51
+usun 375
+usun 120
+usun 276
+wstaw 17 327
+usun 269
+wstaw 82 202
+zamien 144 162
+usun 66
+dodaj 16
+dodaj 4
+dodaj 54
+usun 227
+wstaw 95 342
+dodaj 60
+zamien 112 254
+wstaw 22 125
+zamien 12 230
+usun 63
+usun 319
+zamien 1 24
+wstaw 89 107
+wstaw 1 214
+usun 317
+usun 353
+dodaj 6
+usun 225
+usun 316
+wstaw 86 46
+usun 110
+wstaw 57 113
+usun 123
+wstaw 78 267
+dodaj 28
+usun 37
+usun 17
+wstaw 59 348
+dodaj 86
+wstaw 25 186
+wstaw 25 117
+wstaw 79 199
+usun 187
+dodaj 5
+wstaw 25 340
+usun 19
+wstaw 16 271
+dodaj 70
+zamien 131 206
+usun 23
+usun 308
+dodaj 40
+usun 313
+usun 119
+usun 243
+zamien 341 237
+wstaw 63 93
+wstaw 85 174
+zamien 51 323
+usun 392
+dodaj 39
+dodaj 47
+dodaj 3
+dodaj 76
+wstaw 56 197
+wstaw 1 5
+dodaj 64
+usun 6
+wstaw 43 50
+wstaw 73 274
+wstaw 48 192
+dodaj 56
+usun 223
+wstaw 48 209
+zamien 194 154
+usun 236
+dodaj 78
+usun 389
+dodaj 58
+dodaj 94
+wstaw 62 333
+usun 292
+wstaw 26 123
+dodaj 41
+wstaw 90 281
+dodaj 89
+usun 176
+zamien 173 386
+usun 101
+wstaw 53 10
+wstaw 1 194
+dodaj 24
+usun 16
+usun 200
+usun 134
+usun 115
+dodaj 60
+wstaw 95 61
+wstaw 83 407
+usun 224
+dodaj 98
+usun 152
+dodaj 92
+usun 32
+wstaw 41 100
+wstaw 70 272
+dodaj 41
+dodaj 78
+dodaj 82
+dodaj 76
+dodaj 85
+zamien 304 46
+usun 79
+usun 406
+dodaj 47
+usun 82
+wstaw 59 132
+zamien 122 383
+wstaw 66 99
+zamien 337 184
+wstaw 42 285
+usun 258
+usun 154
+wstaw 55 21
+usun 393
+usun 251
+dodaj 88
+usun 105
+dodaj 96
+dodaj 46
+usun 367
+usun 22
+dodaj 40
+zamien 263 264
+dodaj 16
+zamien 208 268
+usun 194
+usun 150
+usun 381
+zamien 63 115
+wstaw 86 299
+zamien 386 297
+usun 186
+usun 201
+wstaw 68 349
+usun 80
+usun 188
+wstaw 13 281
+usun 349
+zamien 245 402
+wstaw 23 239
+zamien 131 365
+dodaj 80
+dodaj 46
+dodaj 82
+wstaw 72 50
+usun 367
+dodaj 4
+dodaj 57
+usun 332
+zamien 161 147
+wstaw 59 250
+wstaw 37 163
+usun 242
+wstaw 18 193
+usun 20
+wstaw 18 149
+dodaj 4
+usun 355
+wstaw 59 103
+usun 408
+wstaw 54 219
+wstaw 73 381
+usun 314
+wstaw 55 160
+dodaj 83
+dodaj 35
+dodaj 86
+usun 94
+usun 234
+dodaj 97
+wstaw 68 105
+dodaj 25
+dodaj 10
+usun 185
+zamien 317 278
+usun 407
+wstaw 82 24
+wstaw 2 220
+dodaj 75
+usun 89
+usun 119
+usun 213
+wstaw 95 347
+usun 399
+usun 249
+usun 232
+usun 61
+wstaw 12 16
+dodaj 61
+wstaw 32 403
+zamien 87 5
+wstaw 43 144
+wstaw 39 243
+usun 2
+wstaw 37 190
+zamien 338 126
+usun 83
+usun 185
+dodaj 94
+usun 99
+usun 323
+dodaj 76
+usun 0
+wstaw 14 348
+wstaw 25 311
+wstaw 59 245
+usun 273
+wstaw 40 259
+dodaj 58
+usun 182
+usun 225
+dodaj 37
+usun 200
+usun 114
+usun 355
+dodaj 52
+zamien 183 124
+usun 169
+wstaw 61 42
+usun 396
+wstaw 31 198
+zamien 356 189
+zamien 163 76
+usun 162
+wstaw 27 217
+zamien 97 244
+wstaw 22 354
+wstaw 79 36
+wstaw 81 9
+usun 274
+usun 343
+wstaw 25 381
+usun 416
+usun 389
+dodaj 22
+wstaw 81 277
+wstaw 5 267
+dodaj 66
+zamien 362 251
+wstaw 8 2
+usun 55
+zamien 378 218
+dodaj 30
+usun 371
+dodaj 58
+usun 384
+usun 75
+wstaw 68 405
+usun 157
+usun 353
+dodaj 94
+usun 15
+usun 352
+wstaw 6 302
+usun 224
+usun 23
+wstaw 18 122
+usun 240
+zamien 305 393
+usun 115
+wstaw 63 207
+wstaw 53 418
+usun 369
+usun 314
+zamien 111 287
+usun 253
+usun 151
+usun 82
+wstaw 75 338
+usun 216
+wstaw 89 222
+wstaw 91 35
+dodaj 5
+wstaw 38 364
+usun 259
+zamien 173 67
+dodaj 49
+wstaw 11 34
+wstaw 54 100
+usun 411
+usun 330
+usun 352
+dodaj 28
+wstaw 92 35
+dodaj 19
+wstaw 11 65
+dodaj 83
+usun 36
+dodaj 17
+usun 351
+zamien 326 121
+zamien 418 4
+wstaw 100 49
+wstaw 1 405
+zamien 417 339
+usun 244
+usun 245
+usun 109
+wstaw 64 291
+wstaw 71 166
+wstaw 94 55
+zamien 38 316
+wstaw 74 185
+wstaw 26 301
+usun 184
+usun 416
+usun 141
+usun 424
+dodaj 66
+zamien 331 226
+wstaw 59 252
+dodaj 71
+wstaw 67 335
+wstaw 84 327
+usun 209
+usun 406
+usun 262
+usun 42
+wstaw 2 156
+dodaj 48
+dodaj 41
+usun 27
+wstaw 59 207
+usun 73
+dodaj 94
+wstaw 61 328
+wstaw 59 16
+usun 173
+dodaj 81
+usun 109
+usun 85
+usun 364
+usun 394
+usun 381
+zamien 177 283
+dodaj 48
+usun 218
+zamien 225 172
+usun 129
+usun 149
+usun 167
+usun 267
+usun 124
+usun 60
+usun 107
+usun 339
+dodaj 53
+wstaw 46 246
+dodaj 11
+usun 398
+usun 291
+dodaj 65
+dodaj 31
+usun 378
+wstaw 67 74
+zamien 305 307
+usun 131
+zamien 145 215
+usun 314
+wstaw 83 253
+usun 84
+dodaj 49
+usun 107
+usun 180
+usun 320
+usun 224
+usun 108
+zamien 325 120
+usun 288
+usun 60
+usun 276
+usun 62
+zamien 146 326
+usun 27
+usun 70
+wstaw 43 127
+wstaw 3 142
+zamien 335 394
+wstaw 51 304
+wstaw 70 378
+wstaw 82 181
+usun 405
+wstaw 59 82
+zamien 239 212
+usun 279
+dodaj 28
+usun 177
+usun 193
+wstaw 97 407
+wstaw 43 118
+wstaw 2 164
+usun 358
+usun 82
+dodaj 15
+dodaj 60
+wstaw 22 261
+usun 84
+usun 10
+wstaw 4 186
+usun 117
+wstaw 91 172
+usun 111
+dodaj 20
+wstaw 41 8
+usun 397
+usun 152
+usun 373
+dodaj 36
+usun 342
+wstaw 82 7
+usun 280
+dodaj 16
+wstaw 82 264
+usun 393
+wstaw 94 109
+usun 30
+usun 165
+zamien 53 150
+wstaw 68 59
+usun 2
+usun 325
+dodaj 77
+usun 170
+wstaw 76 132
+usun 109
+zamien 388 35
+usun 37
+usun 127
+wstaw 56 185
+wstaw 83 406
+usun 348
+usun 401
+usun 185
+usun 55
+usun 187
+wstaw 24 260
+usun 131
+zamien 176 29
+usun 344
+usun 250
+usun 241
+wstaw 51 214
+wstaw 58 101
+wstaw 100 157
+usun 111
+wstaw 10 196
+wstaw 10 362
+wstaw 84 329
+usun 205
+zamien 314 93
+wstaw 57 257
+usun 131
+usun 107
+dodaj 15
+usun 373
+zamien 142 155
+dodaj 33
+usun 187
+usun 338
+usun 384
+usun 153
+usun 79
+dodaj 37
+usun 121
+usun 161
+zamien 393 9
+wstaw 11 159
+dodaj 80
+usun 270
+wstaw 70 403
+zamien 254 271
+usun 0
+dodaj 79
+zamien 236 157
+wstaw 100 308
+wstaw 37 98
+wstaw 19 350
+usun 174
+dodaj 87
+wstaw 22 165
+usun 253
+usun 333
+dodaj 34
+wstaw 44 150
+zamien 329 384
+dodaj 63
+dodaj 24
+wstaw 15 151
+usun 210
+usun 146
+usun 316
+usun 96
+wstaw 30 89
+zamien 222 269
+usun 217
+wstaw 51 216
+dodaj 53
+usun 360
+usun 210
+zamien 159 351
+usun 197
+wstaw 51 256
+wstaw 50 107
+zamien 343 337
+wstaw 19 249
+wstaw 56 30
+zamien 97 119
+zamien 361 381
+usun 306
+zamien 49 67
+wstaw 86 272
+dodaj 66
+wstaw 46 285
+wstaw 94 153
+usun 264
+usun 177
+usun 148
+dodaj 16
+wstaw 53 320
+wstaw 42 349
+wstaw 65 42
+dodaj 8
+usun 374
+usun 46
+wstaw 71 389
+usun 332
+wstaw 74 226
+usun 35
+wstaw 73 17
+wstaw 10 199
+dodaj 60
+dodaj 75
+dodaj 6
+wstaw 79 222
+zamien 357 26
+wstaw 41 271
+usun 133
+usun 207
+usun 257
+usun 9
+wstaw 71 71
+zamien 342 353
+usun 335
+usun 25
+usun 270
+dodaj 21
+wstaw 26 410
+wstaw 65 370
+usun 12
+usun 298
+dodaj 67
+wstaw 25 224
+wstaw 56 3
+usun 279
+dodaj 19
+usun 358
+wstaw 64 129
+usun 284
+dodaj 67
+zamien 104 149
+wstaw 36 264
+dodaj 8
+dodaj 69
+wstaw 11 207
+zamien 342 184
+dodaj 84
+usun 339
+wstaw 9 39
+dodaj 60
+dodaj 95
+dodaj 14
+wstaw 15 229
+dodaj 21
+usun 272
+dodaj 33
+wstaw 52 110
+wstaw 40 417
+wstaw 19 410
+usun 337
+dodaj 100
+usun 215
+usun 255
+zamien 222 151
+usun 413
+usun 405
+dodaj 6
+usun 273
+usun 392
+wstaw 5 26
+wstaw 2 268
+wstaw 68 178
+usun 161
+wstaw 86 154
+zamien 81 395
+wstaw 35 79
+usun 222
+usun 352
+zamien 351 171
+usun 370
+usun 4
+wstaw 10 359
+wstaw 47 51
+dodaj 46
+usun 422
+wstaw 41 370
+dodaj 74
+usun 77
+usun 308
+wstaw 37 226
+wstaw 17 33
+usun 256
+wstaw 90 73
+zamien 186 173
+zamien 397 26
+usun 336
+dodaj 28
+wstaw 53 411
+dodaj 31
+wstaw 69 206
+usun 315
+usun 79
+dodaj 92
+dodaj 17
+usun 38
+usun 57
+usun 345
+usun 208
+usun 132
+zamien 187 361
+wstaw 43 35
+dodaj 89
+dodaj 99
+dodaj 95
+wstaw 48 32
+wstaw 98 207
+wstaw 82 289
+wstaw 61 355
+wstaw 32 182
+usun 33
+wstaw 34 136
+usun 278
+usun 250
+usun 138
+dodaj 5
+usun 188
+zamien 108 26
+zamien 58 91
+zamien 224 153
+usun 111
+usun 333
+usun 106
+usun 268
+wstaw 31 0
+usun 209
+wstaw 86 362
+dodaj 85
+usun 189
+usun 73
+wstaw 23 334
+usun 216
+dodaj 14
+wstaw 20 138
+zamien 127 141
+dodaj 71
+zamien 200 293
+wstaw 62 106
+dodaj 78
+wstaw 62 354
+dodaj 46
+usun 178
+usun 238
+wstaw 66 275
+dodaj 18
+wstaw 4 435
+wstaw 6 407
+wstaw 36 274
+usun 409
+usun 138
+zamien 103 221
+usun 347
+usun 293
+wstaw 46 65
+wstaw 51 296
+wstaw 10 366
+usun 196
+usun 164
+wstaw 86 178
+wstaw 88 262
+usun 233
+dodaj 73
+dodaj 90
+dodaj 79
+usun 307
+usun 233
+wstaw 37 293
+dodaj 25
+usun 283
+usun 426
+zamien 40 405
+dodaj 15
+wstaw 54 406
+usun 375
+usun 341
+dodaj 5
+zamien 226 61
+usun 280
+wstaw 64 182
+wstaw 87 176
+wstaw 94 230
+zamien 14 49
+dodaj 39
+dodaj 43
+wstaw 41 333
+usun 375
+dodaj 31
+wstaw 42 87
+wstaw 57 239
+usun 316
+usun 95
+zamien 18 292
+usun 187
+wstaw 97 64
+usun 218
+wstaw 99 348
+usun 89
+zamien 139 18
+usun 267
+wstaw 41 279
+usun 209
+usun 207
+usun 40
+usun 213
+wstaw 86 417
+usun 308
+usun 327
+dodaj 80
+usun 101
+zamien 390 10
+usun 251
+usun 363
+wstaw 99 107
+usun 248
+usun 353
+wstaw 46 213
+usun 311
+dodaj 15
+usun 126
+usun 27
+zamien 147 249
+usun 430
+usun 192
+wstaw 65 39
+dodaj 36
+usun 250
+wstaw 29 379
+usun 120
+usun 402
+usun 210
+wstaw 50 266
+wstaw 97 352
+usun 158
+dodaj 28
+usun 271
+wstaw 31 271
+dodaj 56
+dodaj 67
+zamien 208 18
+wstaw 20 383
+zamien 41 114
+dodaj 40
+dodaj 67
+usun 196
+zamien 197 327
+dodaj 13
+zamien 290 162
+dodaj 55
+usun 43
+usun 405
+usun 1
+wstaw 23 32
+zamien 78 98
+wstaw 70 390
+usun 287
+usun 336
+zamien 202 329
+wstaw 76 244
+zamien 29 282
+dodaj 32
+usun 306
+usun 38
+usun 305
+dodaj 26
+zamien 122 230
+dodaj 93
+usun 290
+dodaj 5
+zamien 397 19
+dodaj 76
+wstaw 87 81
+zamien 32 408
+wstaw 92 15
+zamien 181 137
+usun 327
+dodaj 95
+usun 179
+usun 148
+wstaw 68 196
+usun 364
+zamien 251 241
+zamien 185 112
+dodaj 14
+wstaw 86 309
+dodaj 65
+wstaw 24 184
+usun 114
+wstaw 54 223
+wstaw 25 367
+usun 14
+wstaw 16 71
+usun 394
+wstaw 37 344
+wstaw 52 110
+usun 388
+dodaj 76
+usun 393
+dodaj 61
+wstaw 30 439
+usun 444
+usun 303
+usun 175
+wstaw 63 252
+usun 73
+usun 24
+zamien 180 362
+wstaw 15 291
+usun 12
+usun 92
+wstaw 1 19
+dodaj 90
+wstaw 46 109
+usun 203
+wstaw 51 13
+usun 203
+wstaw 63 50
+zamien 287 154
+dodaj 26
+wstaw 61 418
+zamien 318 67
+usun 122
+wstaw 32 22
+zamien 147 69
+wstaw 3 263
+usun 423
+wstaw 51 307
+wstaw 99 25
+wstaw 51 408
+usun 204
+zamien 248 369
+dodaj 78
+wstaw 64 82
+wstaw 89 304
+usun 228
+usun 427
+zamien 70 230
+zamien 341 314
+wstaw 55 223
+dodaj 69
+usun 30
+wstaw 35 373
+usun 424
+usun 71
+wstaw 41 232
+usun 83
+usun 356
+usun 4
+zamien 344 277
+usun 74
+dodaj 48
+dodaj 57
+dodaj 1
+usun 297
+usun 18
+usun 138
+usun 223
+wstaw 31 30
+dodaj 40
+wstaw 35 446
+dodaj 89
+wstaw 54 429
+wstaw 11 63
+usun 304
+usun 435
+usun 156
+dodaj 49
+usun 389
+dodaj 23
+wstaw 55 68
+usun 315
+wstaw 9 392
+wstaw 31 16
+usun 187
+zamien 218 36
+dodaj 90
+wstaw 68 195
+zamien 271 121
+usun 378
+zamien 315 181
+dodaj 91
+usun 412
+usun 417
+wstaw 77 358
+usun 360
+wstaw 64 244
+usun 228
+usun 129
+wstaw 49 296
+dodaj 62
+usun 312
+usun 158
+usun 187
+usun 361
+usun 141
+usun 291
+dodaj 6
+wstaw 42 396
+usun 204
+dodaj 72
+usun 181
+wstaw 34 227
+wstaw 45 242
+usun 163
+dodaj 11
+usun 244
+usun 0
+usun 221
+wstaw 64 195
+usun 379
+wstaw 75 276
+usun 409
+usun 179
+wstaw 71 352
+zamien 104 386
+usun 143
+wstaw 70 269
+usun 32
+wstaw 10 31
+usun 422
+usun 110
+usun 151
+wstaw 10 358
+wstaw 19 172
+wstaw 95 7
+zamien 208 205
+wstaw 99 272
+zamien 409 106
+usun 75
+dodaj 82
+dodaj 60
+usun 10
+wstaw 87 218
+wstaw 37 208
+wstaw 66 353
+wstaw 5 382
+dodaj 85
+usun 43
+usun 252
+dodaj 50
+dodaj 9
+usun 450
+usun 13
+dodaj 80
+dodaj 35
+dodaj 15
+dodaj 45
+usun 218
+usun 238
+usun 7
+dodaj 87
+zamien 370 1
+usun 253
+usun 132
+wstaw 97 249
+wstaw 68 363
+wstaw 87 279
+dodaj 37
+wstaw 60 80
+dodaj 12
+usun 14
+wstaw 4 295
+usun 161
+zamien 173 160
+wstaw 24 117
+wstaw 63 355
+usun 252
+usun 189
+wstaw 5 80
+usun 103
+usun 40
+usun 6
+wstaw 54 14
+wstaw 56 284
+usun 414
+dodaj 91
+usun 103
+usun 190
+wstaw 29 241
+dodaj 63
+wstaw 43 307
+dodaj 16
+usun 371
+wstaw 95 245
+usun 197
+dodaj 40
+dodaj 15
+wstaw 91 207
+wstaw 60 273
+zamien 275 338
+usun 277
+usun 312
+usun 409
+wstaw 89 179
+usun 26
+wstaw 25 446
+usun 94
+zamien 319 266
+dodaj 18
+zamien 81 253
+usun 317
+wstaw 57 166
+usun 313
+zamien 407 433
+zamien 170 192
+usun 147
+usun 170
+zamien 181 390
+usun 80
+usun 426
+dodaj 15
+wstaw 36 349
+wstaw 86 36
+usun 48
+zamien 53 424
+wstaw 92 373
+usun 204
+wstaw 47 61
+wstaw 4 214
+usun 366
+usun 435
+usun 242
+wstaw 41 89
+wstaw 59 187
+wstaw 35 371
+wstaw 67 386
+wstaw 99 375
+usun 45
+wstaw 83 382
+wstaw 61 97
+wstaw 47 140
+wstaw 27 342
+dodaj 27
+zamien 311 398
+usun 269
+usun 364
+wstaw 74 123
+zamien 48 239
+wstaw 47 322
+usun 213
+usun 53
+wstaw 15 273
+zamien 407 392
+zamien 449 80
+zamien 225 385
+wstaw 97 230
+usun 71
+wstaw 22 319
+dodaj 67
+dodaj 83
+zamien 72 329
+wstaw 5 167
+usun 393
+wstaw 52 354
+zamien 458 440
+dodaj 13
+wstaw 21 149
+usun 251
+usun 236
+usun 221
+dodaj 38
+wstaw 67 331
+usun 412
+usun 247
+wstaw 64 190
+wstaw 10 236
+wstaw 43 318
+usun 199
+dodaj 43
+wstaw 56 241
+dodaj 8
+usun 103
+zamien 296 466
+wstaw 61 384
+wstaw 54 448
+usun 380
+usun 455
+zamien 466 369
+wstaw 71 139
+usun 399
+usun 3
+usun 0
+dodaj 51
+wstaw 79 156
+usun 179
+usun 464
+zamien 437 290
+dodaj 43
+dodaj 5
+usun 91
+usun 297
+usun 218
+dodaj 59
+dodaj 52
+usun 31
+usun 100
+dodaj 88
+usun 4
+wstaw 26 285
+usun 306
+usun 118
+usun 200
+usun 265
+usun 127
+wstaw 53 200
+wstaw 51 322
+wstaw 4 344
+usun 94
+usun 308
+dodaj 1
+dodaj 19
+wstaw 14 261
+wstaw 93 391
+dodaj 64
+dodaj 9
+dodaj 71
+dodaj 98
+wstaw 41 440
+usun 20
+dodaj 91
+usun 436
+wstaw 6 151
+wstaw 70 49
+usun 121
+usun 250
+usun 290
+dodaj 72
+usun 205
+usun 237
+dodaj 9
+usun 419
+usun 25
+usun 111
+dodaj 12
+wstaw 81 351
+usun 48
+zamien 330 263
+wstaw 19 429
+dodaj 33
+wstaw 16 465
+usun 350
+usun 70
+usun 397
+usun 19
+usun 56
+wstaw 78 320
+usun 444
+usun 56
+wstaw 95 103
+dodaj 53
+usun 416
+zamien 409 275
+usun 165
+usun 86
+usun 174
+usun 41
+zamien 389 59
+usun 175
+wstaw 4 146
+usun 161
+dodaj 24
+usun 221
+wstaw 95 362
+usun 222
+wstaw 17 335
+wstaw 2 78
+usun 90
+usun 189
+dodaj 88
+dodaj 11
+zamien 439 118
+usun 119
+usun 232
+wstaw 13 68
+wstaw 31 385
+usun 316
+usun 208
+dodaj 63
+wstaw 67 382
+usun 161
+usun 452
+usun 315
+usun 202
+wstaw 94 203
+wstaw 35 363
+usun 313
+wstaw 19 45
+dodaj 42
+wstaw 37 187
+usun 351
+wstaw 7 419
+wstaw 13 199
+usun 217
+dodaj 3
+wstaw 21 312
+wstaw 89 225
+dodaj 41
+wstaw 28 454
+wstaw 49 374
+dodaj 92
+wstaw 86 45
+usun 426
+usun 112
+usun 144
+dodaj 56
+zamien 155 421
+usun 68
+zamien 241 195
+wstaw 15 286
+zamien 82 148
+wstaw 91 139
+wstaw 75 100
+dodaj 37
+dodaj 88
+usun 10
+wstaw 79 84
+zamien 195 145
+usun 401
+dodaj 45
+dodaj 85
+zamien 365 444
+dodaj 81
+wstaw 76 53
+wstaw 51 348
+zamien 260 443
+dodaj 86
+usun 265
+dodaj 98
+wstaw 28 126
+wstaw 61 57
+wstaw 77 227
+dodaj 30
+wstaw 78 79
+wstaw 89 148
+wstaw 5 396
+zamien 382 141
+usun 83
+dodaj 44
+wstaw 49 45
+wstaw 19 139
+zamien 1 434
+dodaj 38
+dodaj 54
+dodaj 68
+usun 67
+wstaw 29 229
+wstaw 71 302
+usun 273
+usun 309
+dodaj 44
+dodaj 62
+wstaw 7 122
+usun 105
+usun 350
+usun 473
+wstaw 28 319
+usun 90
+usun 55
+usun 135
+usun 14
+wstaw 49 188
+dodaj 15
+dodaj 30
+usun 11
+dodaj 59
+usun 346
+wstaw 14 216
+usun 339
+usun 358
+wstaw 28 131
+usun 299
+dodaj 1
+wstaw 81 214
+dodaj 39
+zamien 157 470
+wstaw 34 155
+usun 96
+usun 180
+wstaw 79 466
+zamien 130 242
+dodaj 18
+usun 53
+usun 50
+wstaw 72 358
+wstaw 28 81
+wstaw 84 113
+zamien 56 38
+wstaw 35 261
+zamien 70 10
+usun 339
+dodaj 57
+zamien 188 292
+usun 311
+usun 64
+usun 217
+wstaw 92 424
+wstaw 1 327
+usun 225
+zamien 247 58
+usun 5
+usun 256
+wstaw 97 270
+zamien 263 89
+usun 302
+usun 199
+zamien 297 330
+wstaw 98 245
+dodaj 82
+zamien 373 28
+dodaj 37
+wstaw 60 305
+usun 234
+dodaj 99
+dodaj 7
+usun 480
+wstaw 18 363
+dodaj 28
+zamien 16 386
+usun 310
+usun 141
+dodaj 59
+zamien 482 246
+usun 4
+usun 386
+usun 162
+usun 184
+wstaw 9 427
+usun 383
+usun 137
+usun 481
+dodaj 75
+zamien 255 382
+dodaj 55
+dodaj 6
+dodaj 96
+zamien 37 112
+wstaw 59 215
+dodaj 56
+usun 105
+dodaj 44
+usun 475
+zamien 469 359
+wstaw 47 292
+wstaw 31 285
+zamien 461 212
+dodaj 100
+usun 192
+zamien 375 400
+dodaj 7
+zamien 383 208
+wstaw 35 203
+dodaj 53
+dodaj 16
+wstaw 57 249
+usun 373
+zamien 406 73
+usun 70
+dodaj 2
+usun 180
+usun 83
+usun 293
+zamien 7 475
+dodaj 85
+zamien 411 424
+usun 61
+usun 312
+usun 151
+wstaw 48 138
+usun 37
+zamien 302 204
+usun 330
+wstaw 79 326
+wstaw 75 363
+wstaw 23 9
+dodaj 19
+zamien 165 147
+wstaw 71 369
+dodaj 57
+wstaw 10 77
+wstaw 93 420
+wstaw 20 219
+usun 19
+dodaj 22
+wstaw 72 157
+usun 273
+dodaj 40
+wstaw 3 324
+zamien 71 289
+usun 429
+wstaw 69 174
+wstaw 13 228
+zamien 48 89
+wstaw 9 198
+zamien 239 196
+wstaw 5 330
+usun 39
+dodaj 16
+usun 420
+wstaw 17 274
+dodaj 11
+usun 333
+zamien 433 163
+dodaj 2
+wstaw 40 258
+usun 31
+wstaw 28 51
+usun 301
+wstaw 83 236
+dodaj 90
+usun 176
+zamien 119 393
+dodaj 81
+zamien 466 462
+dodaj 69
+zamien 17 380
+wstaw 30 426
+wstaw 14 143
+usun 154
+usun 342
+usun 475
+dodaj 61
+wstaw 16 306
+zamien 195 88
+usun 391
+usun 288
+dodaj 93
+dodaj 3
+usun 271
+wstaw 96 257
+wstaw 48 118
+usun 224
+wstaw 20 340
+dodaj 90
+zamien 485 102
+zamien 53 481
+usun 292
+zamien 442 284
+usun 296
+usun 241
+usun 111
+wstaw 2 302
+usun 3
+usun 95
+wstaw 39 17
+usun 236
+dodaj 48
+wstaw 25 493
+usun 117
+zamien 438 499
+wstaw 55 253
+wstaw 59 40
+dodaj 58
+dodaj 48
+dodaj 100
+usun 463
+dodaj 88
+zamien 79 334
+usun 43
+wstaw 1 92
+wstaw 45 357
+usun 159
+wstaw 19 47
+usun 116
+wstaw 26 267
+wstaw 42 408
+usun 255
+dodaj 40
+wstaw 21 400
+usun 419
+usun 118
+usun 490
+usun 383
+wstaw 26 392
+wstaw 76 434
+usun 199
+usun 183
+wstaw 80 204
+zamien 9 511
+wstaw 45 335
+usun 224
+usun 225
+usun 407
+dodaj 14
+usun 203
+dodaj 75
+zamien 371 253
+wstaw 51 437
+dodaj 9
+usun 326
+usun 154
+usun 194
+usun 447
+usun 424
+usun 22
+wstaw 79 507
+usun 506
+usun 416
+usun 18
+wstaw 30 19
+dodaj 59
+dodaj 31
+usun 102
+wstaw 82 403
+dodaj 66
+usun 464
+usun 209
+usun 255
+usun 313
+usun 461
+dodaj 17
+wstaw 99 357
+usun 306
+usun 449
+usun 355
+dodaj 36
+usun 265
+usun 293
+usun 54
+dodaj 53
+zamien 32 26
+usun 150
+wstaw 94 258
+zamien 333 174
+usun 83
+wstaw 32 169
+wstaw 45 433
+usun 187
+wstaw 58 484
+usun 61
+usun 195
+zamien 236 500
+wstaw 94 162
+wstaw 80 71
+wstaw 60 422
+dodaj 55
+zamien 369 21
+usun 429
+wstaw 95 388
+usun 6
+dodaj 26
+usun 40
+usun 414
+wstaw 12 44
+dodaj 98
+zamien 444 341
+wstaw 7 311
+usun 445
+wstaw 2 32
+usun 472
+dodaj 2
+wstaw 96 259
+wstaw 35 310
+usun 460
+wstaw 97 54
+dodaj 25
+dodaj 3
+wstaw 17 313
+usun 125
+wstaw 30 236
+wstaw 85 169
+wstaw 89 259
+wstaw 36 393
+dodaj 83
+dodaj 34
+wstaw 56 345
+zamien 448 130
+wstaw 14 400
+usun 346
+dodaj 12
+usun 338
+usun 504
+usun 509
+wstaw 89 138
+usun 427
+usun 207
+usun 300
+wstaw 76 27
+dodaj 19
+usun 106
+dodaj 35
+dodaj 49
+wstaw 5 303
+usun 189
+wstaw 2 472
+dodaj 89
+usun 428
+dodaj 34
+usun 150
+wstaw 92 236
+zamien 5 42
+zamien 379 229
+usun 446
+wstaw 68 341
+usun 415
+usun 110
+usun 185
+dodaj 25
+wstaw 52 375
+wstaw 64 54
+zamien 335 255
+wstaw 9 424
+wstaw 63 196
+usun 147
+wstaw 88 376
+wstaw 56 378
+zamien 192 18
+dodaj 92
+wstaw 86 478
+usun 251
+usun 31
+usun 119
+wstaw 38 1
+zamien 409 384
+usun 250
+dodaj 47
+dodaj 94
+dodaj 36
+usun 352
+wstaw 17 454
+usun 327
+wstaw 1 151
+usun 278
+dodaj 35
+usun 79
+wstaw 73 145
+usun 176
+wstaw 13 309
+wstaw 20 51
+dodaj 16
+dodaj 46
+wstaw 3 429
+usun 392
+dodaj 96
+usun 240
+wstaw 71 133
+usun 471
+dodaj 80
+usun 395
+dodaj 88
+wstaw 4 500
+usun 53
+dodaj 37
+zamien 306 27
+usun 516
+wstaw 4 198
+usun 335
+wstaw 90 59
+dodaj 5
+usun 192
+zamien 400 386
+usun 250
+dodaj 2
+wstaw 75 393
+usun 364
+wstaw 79 216
+zamien 161 490
+usun 505
+wstaw 83 293
+zamien 316 261
+dodaj 35
+usun 516
+zamien 324 382
+dodaj 74
+wstaw 54 248
+dodaj 36
+wstaw 3 447
+dodaj 42
+zamien 260 19
+usun 288
+usun 267
+usun 34
+dodaj 66
+wstaw 57 377
+wstaw 91 374
+wstaw 35 386
+wstaw 1 342
+usun 4
+wstaw 74 30
+wstaw 74 450
+usun 338
+dodaj 87
+wstaw 85 387
+usun 201
+wstaw 33 237
+usun 430
+usun 419
+usun 124
+dodaj 76
+wstaw 8 398
+usun 305
+wstaw 22 130
+usun 365
+wstaw 58 258
+dodaj 40
+usun 49
+usun 331
+usun 399
+zamien 144 433
+dodaj 48
+usun 230
+dodaj 89
+wstaw 80 380
+usun 250
+usun 310
+usun 504
+wstaw 29 415
+wstaw 42 84
+dodaj 56
+wstaw 72 518
+zamien 278 480
+usun 231
+usun 255
+usun 419
+wstaw 2 153
+zamien 50 432
+dodaj 72
+dodaj 41
+usun 259
+dodaj 98
+wstaw 14 222
+usun 281
+zamien 223 70
+usun 417
+wstaw 98 176
+usun 98
+wstaw 49 401
+usun 63
+dodaj 33
+dodaj 19
+wstaw 81 49
+wstaw 11 301
+usun 370
+wstaw 2 169
+usun 230
+usun 261
+dodaj 5
+wstaw 84 335
+dodaj 92
+usun 173
+usun 401
+dodaj 23
+wstaw 29 531
+zamien 112 386
+wstaw 40 335
+zamien 354 72
+usun 273
+usun 485
+usun 501
+zamien 528 54
+wstaw 22 349
+usun 131
+zamien 144 149
+wstaw 80 363
+wstaw 79 391
+usun 132
+usun 22
+usun 90
+dodaj 99
+dodaj 15
+usun 308
+wstaw 87 454
+dodaj 77
+zamien 142 365
+usun 334
+dodaj 80
+usun 158
+wstaw 84 458
+usun 122
+usun 31
+zamien 439 127
+wstaw 65 476
+usun 80
+usun 357
+zamien 98 292
+usun 331
+dodaj 75
+wstaw 37 312
+dodaj 21
+zamien 311 126
+dodaj 78
+wstaw 99 162
+usun 181
+zamien 237 311
+dodaj 14
+usun 356
+usun 268
+usun 485
+wstaw 28 169
+zamien 179 474
+dodaj 42
+wstaw 59 308
+usun 231
+usun 392
+dodaj 50
+usun 292
+usun 345
+usun 219
+usun 308
+usun 176
+zamien 381 340
+usun 60
+wstaw 74 307
+usun 51
+wstaw 18 408
+dodaj 97
+wstaw 99 64
+usun 382
+dodaj 98
+wstaw 9 69
+usun 78
+zamien 69 124
+usun 305
+wstaw 23 129
+dodaj 17
+zamien 133 318
+usun 97
+usun 198
+dodaj 53
+dodaj 45
+usun 422
+usun 206
+usun 523
+wstaw 48 411
+usun 371
+usun 165
+usun 82
+wstaw 36 176
+dodaj 80
+zamien 521 342
+usun 39
+wstaw 30 168
+usun 327
+wstaw 40 178
+dodaj 44
+zamien 378 119
+usun 75
+usun 384
+usun 73
+dodaj 67
+usun 141
+wstaw 85 125
+dodaj 68
+usun 26
+dodaj 39
+usun 209
+dodaj 43
+wstaw 81 99
+wstaw 100 308
+zamien 536 498
+dodaj 4
+usun 328
+usun 287
+usun 99
+usun 176
+usun 229
+usun 133
+wstaw 78 460
+usun 302
+usun 125
+usun 156
+wstaw 53 205
+dodaj 40
+wstaw 32 326
+usun 330
+dodaj 50
+wstaw 37 245
+wstaw 2 99
+zamien 418 314
+wstaw 89 234
+wstaw 85 486
+zamien 343 203
+usun 107
+wstaw 100 143
+usun 492
+wstaw 43 189
+wstaw 81 242
+dodaj 69
+usun 260
+dodaj 88
+usun 307
+usun 41
+usun 13
+wstaw 7 57
+usun 470
+usun 284
+dodaj 14
+usun 401
+usun 196
+wstaw 72 74
+usun 57
+wstaw 100 442
+zamien 256 512
+wstaw 99 222
+wstaw 66 409
+zamien 104 88
+dodaj 53
+zamien 227 345
+zamien 213 518
+zamien 126 68
+wstaw 25 38
+zamien 450 108
+dodaj 82
+usun 510
+dodaj 1
+dodaj 14
+wstaw 81 182
+wstaw 63 45
+usun 139
+usun 407
+wstaw 78 440
+usun 69
+usun 534
+wstaw 47 226
+wstaw 67 516
+dodaj 56
+usun 491
+wstaw 55 486
+wstaw 46 288
+usun 527
+wstaw 50 138
+wstaw 90 145
+wstaw 75 400
+usun 29
+dodaj 69
+usun 476
+wstaw 37 380
+zamien 428 331
+usun 222
+usun 381
+wstaw 21 404
+usun 356
+dodaj 36
+dodaj 41
+usun 523
+zamien 81 491
+dodaj 95
+wstaw 6 486
+wstaw 53 451
+usun 266
+wstaw 16 55
+dodaj 73
+zamien 395 168
+usun 54
+usun 517
+usun 137
+usun 340
+wstaw 71 294
+dodaj 75
+dodaj 24
+usun 492
+usun 429
+usun 190
+usun 112
+dodaj 28
+usun 231
+usun 384
+usun 55
+zamien 145 356
+dodaj 87
+dodaj 43
+dodaj 4
+wstaw 12 8
+usun 445
+usun 330
+usun 372
+usun 186
+usun 94
+wstaw 86 110
+usun 249
+dodaj 1
+zamien 535 135
+wstaw 5 379
+usun 414
+dodaj 69
+dodaj 17
+zamien 520 191
+wstaw 10 209
+dodaj 82
+usun 520
+usun 145
+usun 142
+wstaw 12 478
+usun 249
+wstaw 54 69
+wstaw 79 473
+zamien 113 73
+zamien 80 92
+dodaj 89
+dodaj 32
+wstaw 96 180
+dodaj 60
+dodaj 25
+usun 473
+usun 386
+wstaw 86 208
+wstaw 4 34
+usun 301
+dodaj 80
+dodaj 86
+usun 17
+usun 507
+wstaw 54 55
+wstaw 72 32
+usun 173
+usun 158
+usun 493
+usun 386
+usun 476
+usun 258
+wstaw 18 127
+dodaj 44
+dodaj 2
+wstaw 19 543
+dodaj 59
+dodaj 78
+dodaj 81
+wstaw 72 15
+wstaw 47 451
+wstaw 33 205
+usun 16
+dodaj 57
+dodaj 98
+dodaj 74
+wstaw 46 230
+wstaw 70 331
+dodaj 47
+wstaw 11 453
+dodaj 77
+wstaw 30 387
+zamien 72 422
+wstaw 3 45
+zamien 111 24
+dodaj 90
+usun 233
+usun 121
+usun 278
+usun 505
+wstaw 72 322
+zamien 365 60
+wstaw 54 333
+wstaw 28 20
+dodaj 12
+wstaw 36 189
+dodaj 35
+dodaj 77
+usun 242
+wstaw 66 477
+usun 298
+usun 47
+dodaj 32
+wstaw 54 292
+wstaw 4 182
+usun 321
+wstaw 45 306
+wstaw 78 221
+wstaw 14 146
+wstaw 33 246
+usun 559
+zamien 276 484
+usun 340
+zamien 320 454
+wstaw 74 300
+wstaw 95 547
+dodaj 16
+dodaj 90
+usun 431
+usun 486
+wstaw 80 203
+wstaw 40 112
+usun 476
+wstaw 36 534
+zamien 303 278
+usun 470
+usun 214
+zamien 106 469
+wstaw 82 56
+usun 524
+zamien 257 189
+usun 278
+usun 79
+wstaw 47 125
+usun 213
+wstaw 66 122
+zamien 159 126
+usun 413
+usun 367
+usun 325
+wstaw 3 80
+zamien 120 558
+dodaj 66
+wstaw 68 472
+usun 167
+wstaw 30 193
+wstaw 45 14
+usun 356
+zamien 390 14
+wstaw 4 63
+usun 297
+usun 526
+wstaw 28 367
+zamien 268 104
+wstaw 76 353
+wstaw 44 385
+wstaw 45 20
+usun 23
+dodaj 10
+wstaw 25 268
+usun 530
+usun 449
+wstaw 64 284
+dodaj 4
+dodaj 26
+usun 558
+usun 231
+usun 230
+dodaj 74
+usun 553
+usun 333
+wstaw 92 19
+wstaw 88 254
+usun 503
+wstaw 25 107
+usun 359
+dodaj 13
+usun 487
+usun 462
+usun 205
+zamien 380 242
+usun 61
+wstaw 19 47
+wstaw 63 326
+usun 486
+dodaj 75
+dodaj 18
+wstaw 41 398
+wstaw 17 468
+usun 379
+usun 361
+dodaj 50
+dodaj 68
+usun 227
+zamien 404 467
+dodaj 23
+wstaw 100 239
+usun 137
+dodaj 17
+usun 27
+dodaj 59
+usun 359
+usun 122
+wstaw 63 372
+usun 572
+dodaj 71
+dodaj 48
+dodaj 89
+dodaj 98
+usun 256
+dodaj 86
+wstaw 82 71
+zamien 350 305
+wstaw 67 139
+usun 271
+zamien 95 154
+dodaj 31
+usun 87
+usun 401
+wstaw 6 202
+dodaj 2
+wstaw 54 372
+usun 314
+usun 361
+wstaw 67 32
+wstaw 77 582
+dodaj 6
+dodaj 24
+usun 231
+usun 309
+usun 303
+usun 70
+dodaj 96
+zamien 74 148
+usun 384
+wstaw 45 148
+usun 391
+usun 470
+usun 466
+usun 303
+usun 132
+usun 403
+zamien 565 498
+dodaj 33
+usun 551
+usun 116
+usun 148
+wstaw 36 72
+zamien 126 15
+wstaw 14 474
+wstaw 77 522
+dodaj 32
+wstaw 21 337
+zamien 6 154
+dodaj 20
+wstaw 95 160
+usun 291
+zamien 488 341
+usun 487
+usun 197
+wstaw 61 370
+dodaj 100
+wstaw 65 110
+usun 291
+dodaj 61
+usun 444
+wstaw 77 565
+usun 514
+wstaw 46 112
+wstaw 3 414
+dodaj 36
+wstaw 41 259
+zamien 426 175
+usun 393
+dodaj 40
+wstaw 76 131
+dodaj 100
+usun 423
+wstaw 7 408
+wstaw 52 333
+wstaw 21 41
+usun 151
+wstaw 94 257
+zamien 535 307
+wstaw 33 149
+wstaw 53 66
+wstaw 55 89
+dodaj 72
+wstaw 94 297
+usun 64
+usun 370
+zamien 444 409
+dodaj 69
+wstaw 50 0
+dodaj 53
+wstaw 66 50
+wstaw 39 384
+usun 92
+wstaw 71 567
+wstaw 78 26
+usun 548
+wstaw 96 483
+wstaw 29 347
+dodaj 61
+usun 208
+wstaw 53 405
+usun 129
+wstaw 76 369
+dodaj 47
+usun 94
+usun 239
+usun 84
+dodaj 5
+dodaj 47
+usun 529
+wstaw 99 553
+usun 184
+wstaw 36 185
+wstaw 79 284
+wstaw 84 269
+dodaj 74
+wstaw 41 499
+dodaj 21
+usun 491
+usun 223
+usun 316
+usun 419
+usun 381
+wstaw 76 288
+wstaw 18 571
+wstaw 100 292
+dodaj 9
+usun 371
+wstaw 75 245
+usun 176
+usun 100
+wstaw 81 172
+usun 600
+wstaw 51 324
+dodaj 65
+wstaw 22 287
+dodaj 81
+wstaw 65 232
+wstaw 78 429
+usun 450
+wstaw 41 373
+usun 5
+wstaw 55 134
+usun 590
+dodaj 65
+usun 39
+dodaj 7
+usun 134
+wstaw 44 317
+usun 328
+usun 235
+usun 341
+dodaj 1
+zamien 350 223
+dodaj 84
+dodaj 6
+dodaj 36
+wstaw 29 89
+usun 72
+usun 189
+wstaw 97 291
+dodaj 60
+wstaw 18 293
+wstaw 70 262
+usun 365
+dodaj 15
+usun 515
+usun 28
+usun 171
+usun 60
+wstaw 28 513
+dodaj 78
+wstaw 93 421
+usun 38
+usun 496
+usun 167
+usun 305
+usun 289
+usun 261
+wstaw 43 243
+usun 308
+wstaw 5 94
+dodaj 16
+usun 193
+usun 4
+usun 366
+zamien 313 405
+usun 330
+usun 138
+zamien 3 218
+wstaw 72 496
+dodaj 15
+usun 521
+usun 584
+usun 517
+dodaj 71
+dodaj 80
+dodaj 58
+dodaj 77
+usun 292
+usun 594
+usun 419
+usun 280
+usun 98
+usun 586
+usun 177
+usun 266
+dodaj 3
+dodaj 66
+usun 430
+usun 254
+dodaj 54
+usun 269
+usun 365
+usun 464
+wstaw 32 404
+usun 98
+usun 106
+zamien 65 119
+wstaw 15 420
+dodaj 27
+wstaw 83 412
+usun 305
+wstaw 46 515
+usun 575
+usun 491
+usun 207
+usun 375
+usun 267
+wstaw 72 246
+usun 245
+usun 221
+wstaw 82 106
+usun 186
+usun 174
+wstaw 98 380
+wstaw 89 75
+usun 214
+zamien 583 223
+usun 459
+dodaj 62
+usun 356
+usun 199
+usun 136
+dodaj 34
+usun 432
+zamien 511 571
+usun 553
+usun 356
+zamien 206 74
+usun 526
+wstaw 16 119
+usun 44
+dodaj 1
+wstaw 94 515
+usun 232
+dodaj 89
+usun 22
+usun 300
+dodaj 14
+dodaj 79
+usun 420
+dodaj 56
+wstaw 14 233
+dodaj 44
+dodaj 6
+wstaw 11 132
+dodaj 65
+usun 200
+dodaj 12
+usun 466
+wstaw 28 314
+usun 566
+wstaw 56 25
+zamien 504 239
+wstaw 40 291
+usun 319
+wstaw 33 276
+zamien 241 260
+wstaw 37 307
+zamien 183 553
+wstaw 79 79
+wstaw 75 551
+wstaw 12 209
+dodaj 92
+wstaw 82 271
+wstaw 16 325
+usun 39
+usun 287
+wstaw 56 30
+dodaj 56
+usun 186
+wstaw 15 367
+usun 457
+usun 47
+usun 69
+wstaw 6 445
+wstaw 84 193
+wstaw 88 388
+wstaw 62 529
+usun 543
+usun 180
+usun 132
+dodaj 57
+zamien 429 475
+usun 212
+usun 345
+usun 31
+usun 248
+usun 345
+dodaj 21
+usun 269
+wstaw 14 115
+zamien 92 212
+zamien 533 237
+usun 445
+usun 473
+usun 122
+wstaw 76 535
+wstaw 12 442
+zamien 512 472
+usun 371
+dodaj 69
+usun 180
+usun 205
+usun 18
+wstaw 5 127
+usun 39
+usun 92
+wstaw 70 540
+usun 561
+usun 461
+wstaw 49 565
+dodaj 25
+wstaw 39 380
+dodaj 84
+dodaj 59
+usun 411
+dodaj 90
+dodaj 55
+wstaw 32 216
+usun 152
+usun 224
+usun 51
+usun 154
+usun 422
+usun 256
+usun 102
+wstaw 17 132
+wstaw 20 475
+wstaw 22 554
+wstaw 96 360
+dodaj 95
+wstaw 45 454
+zamien 293 70
+usun 438
+usun 339
+zamien 303 581
+wstaw 66 559
+usun 321
+wstaw 49 85
+usun 332
+dodaj 95
+usun 4
+wstaw 100 4
+usun 541
+usun 213
+wstaw 32 466
+usun 95
+dodaj 46
+usun 310
+dodaj 63
+usun 482
+usun 582
+usun 411
+wstaw 72 66
+wstaw 65 354
+wstaw 68 8
+dodaj 7
+usun 86
+wstaw 97 207
+usun 222
+zamien 218 108
+usun 31
+usun 450
+wstaw 79 146
+wstaw 55 35
+usun 279
+zamien 405 462
+usun 573
+dodaj 54
+usun 303
+wstaw 74 303
+wstaw 69 353
+wstaw 30 278
+wstaw 24 172
+usun 259
+wstaw 45 207
+wstaw 46 515
+dodaj 44
+wstaw 14 357
+usun 476
+usun 573
+usun 426
+usun 186
+wstaw 27 419
+wstaw 1 146
+usun 473
+usun 272
+wstaw 69 297
+dodaj 65
+wstaw 32 413
+wstaw 37 476
+dodaj 10
+dodaj 79
+usun 128
+dodaj 25
+usun 180
+wstaw 98 243
+wstaw 11 382
+usun 239
+dodaj 26
+wstaw 58 540
+zamien 231 365
+wstaw 25 485
+usun 22
+usun 125
+wstaw 71 524
+usun 378
+wstaw 30 572
+usun 473
+dodaj 31
+usun 65
+usun 232
+dodaj 82
+wstaw 77 144
+dodaj 5
+dodaj 68
+usun 590
+usun 396
+usun 501
+wstaw 93 90
+usun 282
+usun 336
+dodaj 70
+zamien 416 186
+wstaw 35 515
+dodaj 17
+usun 267
+zamien 119 547
+usun 482
+usun 347
+wstaw 76 441
+wstaw 54 60
+usun 427
+usun 481
+usun 68
+zamien 17 394
+usun 92
+usun 41
+wstaw 87 596
+dodaj 32
+usun 263
+dodaj 50
+usun 78
+wstaw 33 107
+wstaw 29 20
+usun 139
+wstaw 68 114
+zamien 73 517
+dodaj 39
+usun 522
+usun 510
+zamien 583 524
+wstaw 16 572
+wstaw 9 64
+dodaj 59
+wstaw 49 262
+wstaw 76 3
+usun 170
+usun 509
+dodaj 31
+dodaj 27
+dodaj 1
+dodaj 3
+usun 600
+usun 128
+usun 142
+dodaj 87
+wstaw 86 280
+usun 145
+wstaw 54 179
+wstaw 34 134
+wstaw 3 179
+usun 179
+dodaj 26
+wstaw 94 414
+dodaj 82
+usun 311
+wstaw 48 208
+zamien 168 353
+wstaw 34 582
+usun 219
+usun 519
+wstaw 27 179
+wstaw 84 481
+dodaj 56
+usun 341
+usun 288
+usun 488
+wstaw 49 583
+zamien 174 84
+wstaw 16 564
+usun 552
+usun 378
+usun 321
+usun 472
+wstaw 76 192
+wstaw 26 442
+wstaw 58 10
+wstaw 39 133
+wstaw 13 423
+wstaw 99 390
+usun 335
+wstaw 2 247
+usun 365
+usun 41
+wstaw 48 557
+wstaw 37 414
+usun 586
+wstaw 9 563
+usun 58
+wstaw 73 414
+usun 488
+dodaj 25
+wstaw 53 531
+usun 435
+zamien 251 38
+usun 276
+usun 87
+wstaw 43 238
+wstaw 8 347
+usun 337
+wstaw 13 461
+usun 327
+zamien 471 540
+usun 247
+usun 449
+wstaw 63 318
+usun 204
+dodaj 81
+dodaj 83
+wstaw 32 293
+dodaj 31
+wstaw 16 349
+usun 441
+wstaw 24 114
+dodaj 56
+usun 149
+usun 292
+dodaj 76
+usun 483
+dodaj 51
+dodaj 75
+usun 10
+wstaw 27 588
+usun 94
+usun 127
+usun 212
+wstaw 80 561
+wstaw 8 259
+usun 120
+usun 269
+usun 514
+usun 58
+usun 604
+wstaw 91 554
+usun 60
+usun 528
+dodaj 95
+usun 461
+dodaj 20
+usun 499
+wstaw 25 472
+wstaw 74 119
+dodaj 26
+wstaw 98 409
+usun 434
+wstaw 71 370
+wstaw 74 610
+usun 408
+dodaj 28
+wstaw 13 58
+usun 35
+dodaj 44
+dodaj 96
+zamien 211 47
+zamien 328 570
+wstaw 11 580
+wstaw 26 428
+wstaw 94 547
+wstaw 40 393
+wstaw 35 421
+zamien 450 281
+dodaj 80
+usun 47
+zamien 328 119
+zamien 616 87
+usun 463
+dodaj 87
+zamien 151 383
+zamien 557 466
+zamien 69 175
+usun 310
+wstaw 11 488
+usun 56
+usun 470
+wstaw 97 142
+usun 48
+usun 413
+usun 186
+usun 170
+usun 18
+usun 502
+usun 38
+dodaj 72
+zamien 37 401
+wstaw 48 235
+wstaw 22 289
+usun 126
+wstaw 100 35
+dodaj 84
+usun 342
+usun 27
+usun 66
+wstaw 62 368
+usun 246
+usun 535
+usun 261
+usun 28
+usun 303
+wstaw 44 251
+usun 138
+usun 250
+usun 68
+wstaw 81 578
+wstaw 30 404
+zamien 17 214
+usun 536
+dodaj 51
+usun 314
+usun 160
+wstaw 7 359
+zamien 350 410
+wstaw 88 73
+wstaw 76 48
+wstaw 87 68
+usun 554
+usun 382
+wstaw 6 2
+zamien 243 516
+zamien 568 357
+usun 236
+wstaw 85 44
+usun 578
+usun 128
+wstaw 76 470
+usun 346
+wstaw 84 157
+dodaj 2
+usun 156
+dodaj 57
+wstaw 68 584
+usun 426
+wstaw 3 545
+wstaw 20 39
+usun 170
+usun 182
+wstaw 69 272
+usun 293
+usun 310
+usun 261
+usun 290
+wstaw 43 22
+dodaj 84
+usun 447
+zamien 225 219
+usun 503
+dodaj 86
+usun 147
+wstaw 94 204
+usun 482
+wstaw 49 38
+usun 301
+usun 207
+zamien 207 521
+dodaj 91
+wstaw 54 452
+wstaw 80 250
+dodaj 44
+dodaj 7
+dodaj 91
+dodaj 22
+usun 174
+usun 213
+wstaw 95 457
+dodaj 74
+dodaj 53
+zamien 604 457
+wstaw 35 199
+zamien 606 352
+dodaj 67
+usun 433
+usun 118
+wstaw 40 221
+usun 517
+usun 131
+wstaw 91 279
+usun 427
+dodaj 40
+dodaj 19
+wstaw 82 197
+wstaw 64 263
+wstaw 44 166
+usun 272
+usun 265
+usun 325
+wstaw 73 262
+dodaj 33
+wstaw 55 370
+wstaw 58 308
+wstaw 8 196
+usun 179
+usun 9
+usun 62
+wstaw 64 110
+wstaw 47 343
+dodaj 84
+usun 53
+wstaw 14 418
+wstaw 50 558
+usun 54
+zamien 278 150
+usun 340
+wstaw 6 10
+usun 317
+usun 568
+usun 80
+usun 172
+dodaj 92
+dodaj 55
+usun 325
+wstaw 46 59
+wstaw 63 350
+zamien 187 173
+wstaw 30 358
+usun 253
+zamien 460 1
+zamien 199 357
+usun 241
+dodaj 29
+usun 439
+zamien 373 141
+dodaj 12
+usun 611
+dodaj 45
+zamien 26 201
+usun 531
+usun 544
+usun 293
+usun 171
+wstaw 48 87
+wstaw 94 257
+dodaj 22
+wstaw 21 429
+dodaj 62
+wstaw 12 385
+usun 50
+wstaw 30 529
+zamien 8 557
+wstaw 79 606
+usun 65
+usun 184
+wstaw 73 72
+usun 115
+usun 4
+dodaj 25
+wstaw 48 267
+zamien 295 380
+wstaw 31 422
+dodaj 92
+usun 339
+dodaj 22
+usun 71
+wstaw 10 219
+zamien 87 400
+zamien 80 556
+usun 273
+usun 322
+usun 387
+wstaw 77 438
+wstaw 5 139
+dodaj 11
+wstaw 20 102
+usun 200
+usun 243
+usun 442
+usun 405
+dodaj 25
+dodaj 9
+usun 470
+usun 189
+usun 135
+wstaw 78 314
+wstaw 65 534
+dodaj 8
+usun 460
+usun 429
+usun 377
+dodaj 14
+usun 244
+usun 182
+dodaj 73
+zamien 267 1
+wstaw 6 350
+usun 177
+usun 496
+usun 40
+dodaj 96
+dodaj 20
+usun 559
+dodaj 14
+usun 515
+wstaw 30 109
+usun 191
+wstaw 3 432
+zamien 273 413
+usun 352
+usun 172
+wstaw 43 404
+usun 72
+usun 354
+zamien 330 520
+usun 475
+wstaw 92 531
+usun 82
+dodaj 8
+dodaj 47
+dodaj 80
+zamien 21 245
+wstaw 53 364
+dodaj 56
+usun 269
+usun 327
+dodaj 14
+usun 416
+usun 603
+usun 395
+wstaw 62 501
+dodaj 47
+wstaw 30 229
+wstaw 53 427
+usun 296
+usun 18
+dodaj 93
+usun 345
+usun 532
+usun 215
+usun 517
+zamien 526 372
+usun 447
+dodaj 1
+dodaj 92
+usun 328
+usun 162
+usun 396
+zamien 52 376
+usun 331
+dodaj 42
+usun 387
+wstaw 31 98
+usun 605
+dodaj 22
+wstaw 91 268
+usun 308
+dodaj 54
+wstaw 68 400
+usun 383
+dodaj 7
+usun 503
+wstaw 14 440
+usun 590
+zamien 164 141
+zamien 117 111
+wstaw 31 423
+usun 183
+dodaj 49
+dodaj 92
+usun 329
+usun 286
+usun 435
+zamien 47 373
+wstaw 23 498
+wstaw 24 432
+usun 481
+usun 600
+usun 108
+wstaw 24 561
+dodaj 91
+wstaw 50 117
+wstaw 42 492
+wstaw 2 108
+dodaj 90
+usun 179
+usun 137
+wstaw 45 138
+dodaj 65
+usun 333
+usun 535
+dodaj 96
+usun 486
+wstaw 100 219
+zamien 281 501
+wstaw 94 360
+usun 55
+wstaw 34 149
+usun 72
+usun 217
+usun 450
+wstaw 66 459
+usun 440
+wstaw 91 401
+dodaj 74
+wstaw 46 281
+usun 194
+usun 543
+zamien 479 451
+zamien 170 575
+dodaj 33
+usun 252
+usun 398
+wstaw 60 355
+dodaj 68
+wstaw 53 168
+wstaw 7 569
+wstaw 69 518
+zamien 237 535
+dodaj 2
+usun 586
+usun 524
+zamien 425 511
+wstaw 20 441
+usun 370
+usun 324
+usun 393
+usun 414
+usun 410
+dodaj 96
+dodaj 3
+zamien 405 95
+usun 43
+usun 227
+wstaw 90 263
+wstaw 28 367
+dodaj 45
+wstaw 79 381
+wstaw 68 52
+dodaj 80
+wstaw 87 336
+dodaj 53
+zamien 60 373
+usun 239
+usun 30
+usun 327
+dodaj 2
+usun 343
+dodaj 64
+usun 241
+usun 30
+dodaj 22
+dodaj 82
+wstaw 98 175
+wstaw 28 596
+wstaw 77 555
+wstaw 7 105
+zamien 352 505
+usun 514
+wstaw 17 324
+wstaw 54 400
+wstaw 38 568
+usun 101
+zamien 325 478
+wstaw 16 423
+usun 539
+wstaw 64 400
+dodaj 35
+usun 78
+dodaj 93
+wstaw 38 341
+wstaw 62 413
+zamien 384 545
+wstaw 33 222
+dodaj 84
+usun 589
+usun 419
+usun 65
+zamien 127 23
+usun 46
+usun 316
+usun 253
+dodaj 99
+wstaw 31 289
+dodaj 86
+dodaj 22
+usun 401
+usun 377
+usun 561
+wstaw 4 367
+dodaj 63
+dodaj 57
+wstaw 79 226
+zamien 33 14
+usun 481
+zamien 295 200
+wstaw 20 371
+wstaw 51 498
+usun 98
+usun 273
+dodaj 51
+usun 376
+wstaw 35 139
+usun 401
+usun 211
+wstaw 68 254
+wstaw 71 587
+dodaj 47
+dodaj 19
+wstaw 75 609
+usun 191
+usun 295
+wstaw 11 134
+usun 191
+usun 456
+wstaw 72 501
+usun 609
+usun 13
+dodaj 36
+usun 121
+dodaj 80
+usun 412
+dodaj 28
+wstaw 50 614
+wstaw 93 368
+wstaw 22 270
+wstaw 13 89
+dodaj 93
+wstaw 4 138
+dodaj 31
+usun 175
+usun 566
+usun 100
+usun 530
+usun 512
+zamien 9 229
+usun 434
+usun 451
+zamien 380 390
+wstaw 56 85
+dodaj 91
+usun 270
+dodaj 34
+zamien 188 433
+wstaw 81 265
+zamien 614 232
+usun 473
+dodaj 53
+usun 259
+usun 590
+zamien 364 333
+wstaw 66 325
+zamien 372 409
+dodaj 76
+usun 45
+dodaj 50
+wstaw 48 276
+dodaj 97
+dodaj 6
+wstaw 96 165
+usun 429
+usun 517
+dodaj 77
+usun 123
+dodaj 37
+usun 68
+zamien 162 579
+zamien 316 559
+wstaw 97 393
+usun 295
+zamien 9 140
+wstaw 32 433
+dodaj 91
+usun 299
+dodaj 66
+usun 246
+wstaw 1 370
+usun 434
+wstaw 79 177
+dodaj 99
+usun 310
+dodaj 83
+zamien 102 398
+zamien 22 545
+usun 105
+wstaw 87 448
+wstaw 23 119
+wstaw 87 8
+usun 36
+dodaj 67
+usun 325
+wstaw 48 81
+dodaj 46
+usun 220
+wstaw 36 347
+usun 598
+usun 51
+usun 122
+usun 44
+wstaw 4 557
+dodaj 95
+usun 607
+zamien 373 292
+zamien 544 451
+dodaj 44
+wstaw 33 390
+zamien 268 439
+usun 493
+usun 227
+zamien 463 558
+usun 570
+usun 514
+wstaw 20 206
+usun 300
+wstaw 97 491
+usun 626
+dodaj 33
+dodaj 10
+usun 615
+usun 538
+usun 150
+wstaw 100 577
+usun 409
+usun 434
+wstaw 12 493
+zamien 323 404
+usun 325
+usun 165
+wstaw 15 400
+usun 451
+usun 295
+zamien 31 415
+usun 477
+zamien 393 502
+zamien 400 140
+usun 224
+usun 153
+usun 432
+usun 503
+usun 421
+usun 325
+wstaw 63 535
+zamien 505 460
+wstaw 85 67
+zamien 218 4
+wstaw 2 454
+usun 152
+usun 335
+usun 441
+usun 525
+dodaj 64
+wstaw 97 246
+dodaj 9
+usun 415
+wstaw 42 58
+usun 474
+zamien 9 16
+zamien 624 242
+usun 426
+usun 61
+dodaj 82
+wstaw 100 289
+usun 517
+dodaj 63
+zamien 387 142
+dodaj 21
+usun 238
+usun 447
+dodaj 47
+zamien 25 133
+usun 369
+usun 253
+wstaw 89 133
+zamien 428 265
+usun 359
+wstaw 62 559
+usun 158
+usun 203
+usun 155
+wstaw 2 269
+wstaw 27 87
+dodaj 54
+dodaj 84
+zamien 211 221
+wstaw 38 448
+wstaw 59 213
+usun 35
+usun 260
+dodaj 55
+dodaj 11
+usun 618
+usun 14
+usun 160
+wstaw 31 326
+usun 350
+dodaj 52
+wstaw 23 36
+wstaw 21 493
+usun 161
+usun 471
+usun 554
+wstaw 99 13
+wstaw 24 610
+wstaw 81 412
+wstaw 90 373
+usun 128
+usun 419
+wstaw 22 406
+usun 26
+wstaw 9 89
+wstaw 33 604
+wstaw 29 370
+dodaj 56
+usun 20
+usun 459
+dodaj 17
+usun 539
+wstaw 85 396
+wstaw 52 551
+wstaw 34 430
+usun 477
+wstaw 31 104
+wstaw 73 380
+wstaw 59 276
+usun 62
+usun 322
+usun 119
+usun 140
+wstaw 28 120
+zamien 477 230
+usun 348
+zamien 316 23
+usun 262
+usun 318
+usun 457
+usun 205
+wstaw 87 129
+wstaw 75 578
+usun 375
+zamien 136 194
+wstaw 74 445
+wstaw 31 287
+zamien 599 542
+usun 436
+usun 439
+zamien 601 44
+wstaw 26 351
+zamien 231 148
+dodaj 34
+wstaw 87 349
+dodaj 29
+usun 149
+dodaj 63
+usun 122
+usun 471
+wstaw 87 313
+usun 212
+wstaw 7 196
+wstaw 8 101
+usun 291
+wstaw 36 428
+wstaw 12 138
+zamien 462 107
+wstaw 37 67
+usun 632
+wstaw 56 500
+usun 545
+usun 436
+usun 479
+usun 554
+usun 482
+dodaj 70
+usun 592
+wstaw 28 605
+wstaw 55 330
+usun 100
+usun 515
+usun 457
+usun 95
+usun 364
+zamien 174 117
+wstaw 92 0
+zamien 332 36
+usun 27
+usun 173
+wstaw 64 74
+dodaj 11
+dodaj 50
+wstaw 68 468
+usun 36
+wstaw 15 83
+dodaj 73
+wstaw 27 625
+dodaj 28
+usun 188
+wstaw 26 295
+usun 214
+wstaw 72 244
+wstaw 43 250
+usun 338
+usun 241
+wstaw 41 243
+usun 336
+dodaj 82
+wstaw 62 617
+usun 63
+usun 106
+usun 250
+usun 205
+usun 390
+dodaj 64
+wstaw 94 114
+wstaw 37 77
+usun 432
+usun 460
+usun 182
+zamien 117 105
+usun 196
+usun 196
+usun 498
+wstaw 90 149
+wstaw 96 366
+dodaj 55
+wstaw 4 307
+dodaj 31
+dodaj 89
+dodaj 78
+usun 335
+usun 43
+wstaw 71 400
+usun 219
+zamien 464 492
+usun 151
+zamien 200 97
+wstaw 5 598
+usun 262
+wstaw 5 401
+dodaj 24
+zamien 455 361
+usun 407
+usun 78
+dodaj 31
+usun 233
+zamien 551 190
+usun 42
+usun 86
+usun 164
+usun 90
+usun 57
+wstaw 52 223
+usun 63
+usun 185
+zamien 167 403
+usun 163
+dodaj 28
+wstaw 4 293
+zamien 377 26
+wstaw 91 110
+dodaj 28
+wstaw 70 169
+usun 262
+usun 214
+wstaw 43 589
+usun 363
+zamien 78 383
+usun 395
+wstaw 77 157
+usun 375
+zamien 468 439
+usun 227
+usun 250
+wstaw 74 298
+wstaw 68 579
+dodaj 44
+wstaw 81 175
+wstaw 70 593
+usun 451
+dodaj 12
+wstaw 63 509
+dodaj 90
+wstaw 66 134
+usun 468
+zamien 450 328
+usun 604
+usun 490
+usun 135
+usun 582
+dodaj 18
+usun 85
+wstaw 45 550
+zamien 477 548
+usun 106
+dodaj 46
+usun 479
+wstaw 9 160
+wstaw 1 367
+wstaw 34 12
+usun 12
+wstaw 25 246
+zamien 192 52
+zamien 240 147
+usun 462
+wstaw 28 431
+dodaj 81
+zamien 576 224
+usun 534
+wstaw 9 211
+usun 22
+dodaj 38
+wstaw 14 327
+wstaw 41 370
+wstaw 71 249
+dodaj 57
+usun 602
+usun 49
+dodaj 53
+zamien 412 423
+usun 67
+zamien 115 71
+wstaw 71 409
+dodaj 39
+zamien 279 228
+dodaj 36
+usun 619
+wstaw 80 372
+usun 400
+wstaw 7 497
+wstaw 83 477
+usun 567
+usun 316
+usun 411
+usun 117
+wstaw 1 297
+wstaw 72 316
+dodaj 6
+zamien 585 25
+usun 385
+wstaw 71 97
+dodaj 57
+dodaj 39
+dodaj 13
+wstaw 96 521
+zamien 157 347
+usun 619
+usun 550
+dodaj 84
+dodaj 80
+dodaj 87
+dodaj 20
+wstaw 49 449
+usun 202
+usun 153
+wstaw 27 330
+dodaj 71
+usun 347
+dodaj 15
+zamien 113 489
+dodaj 27
+zamien 276 375
+dodaj 65
+usun 15
+wstaw 88 579
+usun 65
+usun 246
+dodaj 95
+usun 575
+dodaj 93
+usun 332
+wstaw 36 510
+wstaw 47 146
+usun 5
+dodaj 89
+usun 406
+dodaj 82
+dodaj 35
+usun 374
+usun 314
+wstaw 55 600
+wstaw 65 398
+dodaj 77
+wstaw 73 187
+usun 306
+dodaj 29
+usun 327
+zamien 529 263
+dodaj 5
+dodaj 57
+dodaj 81
+zamien 481 271
+usun 146
+usun 83
+usun 609
+usun 613
+dodaj 55
+usun 43
+dodaj 34
+usun 473
+dodaj 35
+usun 105
+usun 603
+dodaj 70
+usun 258
+usun 184
+dodaj 19
+usun 156
+usun 358
+wstaw 43 332
+dodaj 38
+usun 88
+usun 442
+dodaj 51
+usun 300
+zamien 134 97
+wstaw 100 451
+wstaw 47 587
+usun 382
+dodaj 40
+wstaw 64 355
+usun 470
+wstaw 1 541
+dodaj 48
+usun 597
+dodaj 91
+wstaw 49 103
+usun 325
+dodaj 72
+usun 584
+zamien 519 610
+wstaw 74 274
+usun 523
+usun 201
+zamien 466 392
+usun 315
+dodaj 5
+wstaw 11 569
+usun 60
+wstaw 95 466
+usun 58
+wstaw 80 386
+wstaw 98 336
+wstaw 92 200
+wstaw 46 622
+wstaw 35 216
+zamien 112 569
+dodaj 7
+dodaj 58
+usun 597
+usun 331
+usun 466
+usun 227
+usun 44
+zamien 9 379
+wstaw 25 34
+wstaw 21 174
+wstaw 42 290
+usun 563
+wstaw 90 641
+usun 330
+dodaj 18
+dodaj 11
+usun 236
+dodaj 11
+wstaw 53 46
+wstaw 17 126
+zamien 250 364
+usun 505
+usun 452
+wstaw 83 581
+usun 303
+usun 408
+dodaj 38
+usun 446
+dodaj 96
+usun 337
+zamien 309 368
+wstaw 57 579
+wstaw 96 15
+wstaw 11 415
+dodaj 81
+wstaw 10 180
+zamien 74 181
+usun 48
+usun 227
+wstaw 40 36
+usun 633
+usun 4
+dodaj 30
+zamien 585 189
+wstaw 50 234
+wstaw 29 435
+dodaj 88
+wstaw 65 499
+usun 295
+usun 616
+wstaw 8 451
+usun 618
+dodaj 75
+usun 654
+dodaj 58
+usun 195
+wstaw 57 154
+usun 461
+wstaw 80 250
+dodaj 28
+zamien 603 161
+zamien 327 403
+usun 181
+usun 503
+zamien 113 277
+dodaj 2
+wstaw 53 149
+usun 513
+usun 214
+usun 576
+zamien 603 124
+wstaw 30 489
+wstaw 3 253
+wstaw 14 174
+usun 367
+usun 432
+zamien 524 605
+wstaw 9 182
+wstaw 38 548
+wstaw 51 277
+dodaj 84
+dodaj 26
+wstaw 3 250
+usun 38
+dodaj 92
+dodaj 65
+wstaw 42 79
+usun 123
+wstaw 56 492
+wstaw 33 576
+usun 56
+wstaw 7 86
+usun 197
+wstaw 53 54
+usun 550
+wstaw 61 413
+usun 222
+usun 516
+zamien 152 328
+wstaw 26 287
+usun 606
+wstaw 28 545
+usun 167
+wstaw 15 282
+wstaw 61 657
+usun 655
+usun 582
+usun 335
+usun 455
+wstaw 52 93
+zamien 286 48
+usun 221
+usun 344
+usun 345
+dodaj 54
+wstaw 73 284
+wstaw 14 240
+wstaw 37 215
+wstaw 82 473
+zamien 373 401
+wstaw 28 539
+dodaj 36
+zamien 644 72
+dodaj 47
+usun 233
+usun 636
+zamien 274 304
+wstaw 83 71
+usun 210
+dodaj 78
+usun 263
+wstaw 35 379
+dodaj 23
+wstaw 89 345
+dodaj 90
+dodaj 24
+zamien 6 96
+wstaw 30 187
+usun 271
+zamien 491 181
+wstaw 41 220
+usun 9
+wstaw 45 183
+usun 362
+zamien 147 171
+wstaw 11 372
+zamien 464 56
+wstaw 71 562
+usun 544
+dodaj 70
+wstaw 28 656
+usun 459
+dodaj 41
+usun 638
+usun 120
+usun 217
+usun 482
+zamien 202 537
+usun 617
+wstaw 67 230
+usun 579
+usun 195
+wstaw 70 514
+usun 593
+usun 309
+wstaw 4 652
+usun 89
+zamien 48 595
+dodaj 9
+wstaw 100 426
+dodaj 79
+usun 544
+wstaw 39 95
+dodaj 98
+usun 268
+dodaj 53
+usun 229
+usun 257
+usun 132
+usun 256
+zamien 61 417
+usun 183
+wstaw 76 484
+zamien 570 185
+usun 247
+wstaw 55 116
+dodaj 71
+wstaw 62 520
+wstaw 88 143
+zamien 100 146
+wstaw 24 582
+usun 600
+usun 314
+usun 130
+usun 196
+wstaw 99 661
+zamien 591 42
+usun 14
+wstaw 26 312
+dodaj 27
+usun 315
+wstaw 21 514
+dodaj 45
+usun 600
+dodaj 48
+wstaw 74 405
+zamien 610 9
+dodaj 14
+wstaw 60 91
+dodaj 61
+dodaj 57
+usun 411
+wstaw 18 171
+usun 179
+zamien 312 284
+zamien 415 396
+usun 246
+dodaj 14
+wstaw 78 64
+zamien 285 430
+usun 509
+usun 358
+usun 56
+usun 35
+dodaj 18
+wstaw 1 618
+dodaj 46
+dodaj 78
+usun 490
+usun 136
+wstaw 21 360
+dodaj 65
+wstaw 61 340
+zamien 225 482
+usun 13
+wstaw 82 289
+usun 479
+usun 95
+dodaj 40
+wstaw 95 196
+usun 168
+dodaj 59
+wstaw 4 429
+usun 67
+usun 155
+zamien 393 276
+wstaw 37 530
+usun 471
+wstaw 69 81
+dodaj 12
+usun 391
+usun 263
+usun 90
+dodaj 67
+wstaw 29 585
+zamien 278 405
+wstaw 83 236
+dodaj 13
+zamien 529 290
+zamien 249 438
+wstaw 55 358
+usun 331
+usun 352
+usun 10
+usun 662
+wstaw 81 74
+zamien 641 34
+wstaw 11 500
+wstaw 46 568
+wstaw 84 657
+usun 189
+wstaw 79 396
+dodaj 45
+wstaw 72 37
+usun 78
+dodaj 92
+wstaw 86 588
+wstaw 96 272
+wstaw 87 558
+usun 94
+usun 491
+wstaw 27 480
+wstaw 67 563
+usun 47
+usun 323
+usun 48
+wstaw 16 336
+usun 507
+dodaj 64
+wstaw 88 650
+wstaw 19 56
+usun 679
+usun 83
+usun 383
+dodaj 59
+wstaw 25 51
+wstaw 90 658
+wstaw 15 301
+wstaw 76 633
+usun 472
+zamien 358 468
+wstaw 19 246
+usun 149
+usun 220
+wstaw 6 494
+usun 54
+wstaw 63 488
+usun 285
+dodaj 22
+usun 408
+usun 443
+wstaw 71 122
+usun 122
+usun 91
+wstaw 24 323
+zamien 117 651
+dodaj 85
+wstaw 67 267
+usun 312
+wstaw 38 241
+usun 662
+zamien 604 323
+dodaj 45
+zamien 219 404
+zamien 179 679
+dodaj 8
+wstaw 47 35
+usun 179
+zamien 409 210
+wstaw 96 235
+usun 285
+usun 50
+wstaw 62 82
+usun 185
+usun 572
+dodaj 40
+dodaj 80
+usun 327
+wstaw 9 273
+dodaj 95
+dodaj 6
+usun 442
+wstaw 29 33
+wstaw 76 298
+dodaj 85
+wstaw 55 514
+wstaw 33 663
+wstaw 2 32
+dodaj 63
+wstaw 93 309
+dodaj 51
+usun 155
+wstaw 23 540
+usun 563
+zamien 124 46
+wstaw 28 677
+wstaw 14 597
+usun 255
+usun 396
+usun 272
+zamien 170 310
+usun 617
+wstaw 77 332
+wstaw 12 497
+zamien 587 326
+wstaw 94 660
+dodaj 73
+dodaj 36
+wstaw 41 547
+wstaw 66 185
+dodaj 33
+dodaj 6
+wstaw 8 249
+usun 627
+usun 275
+usun 3
+dodaj 95
+usun 339
+usun 284
+wstaw 59 319
+wstaw 99 642
+dodaj 89
+usun 212
+wstaw 92 591
+usun 179
+dodaj 30
+dodaj 45
+dodaj 83
+wstaw 84 192
+dodaj 92
+wstaw 96 64
+usun 230
+usun 544
+wstaw 94 51
+wstaw 39 77
+zamien 238 126
+wstaw 45 262
+usun 353
+wstaw 2 117
+wstaw 21 657
+dodaj 67
+wstaw 47 661
+wstaw 97 402
+usun 55
+wstaw 82 130
+wstaw 16 371
+wstaw 19 373
+wstaw 61 471
+dodaj 89
+usun 203
+wstaw 62 65
+usun 689
+usun 559
+usun 220
+zamien 538 700
+usun 532
+zamien 96 298
+usun 706
+dodaj 4
+usun 320
+zamien 704 102
+wstaw 80 118
+usun 435
+usun 259
+wstaw 10 611
+usun 652
+usun 491
+usun 263
+wstaw 8 662
+dodaj 40
+usun 555
+usun 343
+dodaj 68
+zamien 421 638
+usun 547
+usun 283
+wstaw 54 113
+dodaj 44
+usun 26
+wstaw 32 296
+dodaj 98
+usun 512
+dodaj 59
+dodaj 89
+wstaw 71 690
+wstaw 18 232
+usun 606
+wstaw 61 260
+usun 94
+usun 699
+usun 81
+wstaw 78 563
+usun 54
+dodaj 69
+usun 336
+usun 538
+usun 244
+usun 310
+zamien 318 159
+usun 377
+usun 325
+wstaw 87 695
+wstaw 11 349
+usun 8
+wstaw 97 564
+dodaj 44
+usun 582
+wstaw 57 125
+wstaw 87 649
+wstaw 90 236
+usun 487
+zamien 696 511
+usun 130
+usun 550
+dodaj 75
+dodaj 98
+wstaw 57 116
+usun 635
+usun 87
+dodaj 95
+usun 669
+usun 689
+dodaj 48
+usun 553
+zamien 300 535
+usun 633
+zamien 689 281
+usun 684
+usun 385
+dodaj 45
+dodaj 52
+usun 570
+usun 607
+wstaw 78 190
+zamien 198 505
+wstaw 5 589
+dodaj 58
+usun 693
+usun 226
+usun 364
+usun 650
+zamien 46 139
+usun 649
+dodaj 98
+dodaj 9
+usun 699
+usun 455
+wstaw 23 329
+zamien 86 355
+dodaj 57
+wstaw 99 234
+usun 658
+usun 351
+usun 242
+dodaj 89
+dodaj 43
+dodaj 69
+zamien 233 612
+wstaw 93 126
+wstaw 25 42
+zamien 278 543
+wstaw 41 604
+usun 260
+wstaw 87 424
+dodaj 59
+usun 557
+usun 302
+zamien 236 378
+wstaw 30 615
+wstaw 50 564
+usun 381
+wstaw 82 425
+wstaw 78 563
+wstaw 79 69
+dodaj 46
+usun 125
+wstaw 92 169
+dodaj 12
+zamien 107 355
+wstaw 95 374
+wstaw 28 72
+usun 600
+wstaw 31 446
+usun 313
+usun 553
+dodaj 97
+wstaw 20 29
+wstaw 53 585
+zamien 93 513
+wstaw 78 175
+wstaw 82 345
+wstaw 92 356
+dodaj 7
+usun 560
+usun 452
+wstaw 87 117
+wstaw 42 225
+wstaw 1 625
+usun 136
+usun 421
+wstaw 64 457
+usun 40
+wstaw 6 83
+zamien 682 393
+usun 497
+dodaj 86
+zamien 594 529
+wstaw 41 505
+wstaw 92 569
+zamien 294 122
+dodaj 50
+dodaj 77
+dodaj 7
+dodaj 81
+dodaj 32
+usun 80
+usun 635
+wstaw 53 635
+wstaw 49 80
+usun 445
+usun 26
+usun 598
+wstaw 31 716
+wstaw 7 665
+dodaj 70
+usun 94
+usun 711
+zamien 709 74
+wstaw 28 40
+usun 194
+usun 470
+zamien 281 73
+wstaw 72 641
+dodaj 14
+usun 607
+wstaw 56 415
+usun 564
+wstaw 43 682
+dodaj 2
+dodaj 93
+usun 121
+dodaj 34
+wstaw 41 105
+usun 698
+wstaw 42 545
+usun 722
+usun 137
+wstaw 83 404
+usun 108
+zamien 181 138
+usun 307
+zamien 25 264
+usun 118
+wstaw 5 663
+usun 499
+zamien 373 462
+usun 552
+usun 144
+usun 582
+usun 204
+wstaw 95 688
+usun 75
+zamien 595 526
+wstaw 75 432
+usun 600
+wstaw 54 620
+wstaw 97 378
+zamien 325 58
+dodaj 11
+usun 489
+dodaj 40
+wstaw 30 302
+dodaj 21
+dodaj 92
+dodaj 34
+dodaj 17
+wstaw 67 534
+zamien 117 708
+zamien 154 284
+usun 580
+dodaj 39
+usun 233
+zamien 262 710
+usun 351
+dodaj 19
+usun 537
+wstaw 18 614
+usun 66
+usun 437
+wstaw 6 58
+dodaj 1
+zamien 405 367
+wstaw 31 75
+usun 289
+wstaw 83 81
+usun 328
+usun 54
+usun 180
+dodaj 47
+usun 190
+zamien 462 422
+usun 554
+wstaw 15 626
+wstaw 80 360
+dodaj 10
+wstaw 83 23
+wstaw 84 5
+wstaw 86 122
+wstaw 36 293
+wstaw 22 270
+usun 561
+usun 301
+zamien 151 634
+usun 191
+dodaj 56
+zamien 163 448
+usun 102
+usun 539
+dodaj 93
+usun 574
+usun 520
+zamien 503 687
+wstaw 64 629
+wstaw 19 115
+usun 564
+dodaj 40
+usun 583
+dodaj 3
+zamien 537 263
+dodaj 38
+dodaj 32
+wstaw 16 287
+usun 112
+usun 184
+usun 10
+zamien 189 331
+dodaj 71
+zamien 248 323
+dodaj 38
+wstaw 23 570
+usun 368
+usun 232
+usun 141
+usun 217
+zamien 319 272
+zamien 315 346
+usun 715
+zamien 70 18
+usun 401
+wstaw 13 314
+zamien 307 233
+wstaw 20 5
+wstaw 64 282
+wstaw 59 624
+wstaw 80 499
+dodaj 71
+zamien 275 238
+wstaw 92 230
+usun 166
+zamien 197 432
+zamien 244 651
+usun 498
+usun 518
+wstaw 32 675
+usun 242
+wstaw 48 291
+usun 274
+usun 99
+wstaw 67 682
+wstaw 69 38
+wstaw 86 699
+wstaw 84 159
+usun 392
+zamien 655 583
+usun 605
+usun 676
+wstaw 56 501
+dodaj 4
+wstaw 13 559
+usun 80
+usun 300
+usun 530
+usun 444
+dodaj 100
+usun 391
+dodaj 73
+usun 617
+wstaw 71 500
+wstaw 93 617
+dodaj 33
+dodaj 8
+usun 417
+zamien 694 135
+dodaj 95
+dodaj 44
+wstaw 89 391
+wstaw 10 31
+usun 672
+usun 178
+usun 512
+usun 650
+wstaw 1 589
+wstaw 16 619
+dodaj 59
+wstaw 15 420
+wstaw 83 455
+wstaw 44 161
+usun 477
+wstaw 7 134
+zamien 667 23
+wstaw 22 333
+usun 657
+usun 119
+zamien 366 711
+dodaj 55
+wstaw 19 416
+zamien 436 109
+usun 377
+zamien 674 482
+wstaw 43 566
+usun 13
+usun 557
+wstaw 4 83
+wstaw 37 389
+wstaw 93 540
+wstaw 6 727
+usun 655
+dodaj 13
+usun 59
+zamien 316 522
+wstaw 3 416
+dodaj 20
+wstaw 84 108
+wstaw 85 490
+zamien 653 210
+usun 739
+usun 270
+wstaw 7 130
+dodaj 73
+dodaj 75
+wstaw 13 546
+zamien 566 477
+usun 311
+wstaw 38 272
+usun 75
+dodaj 67
+usun 483
+usun 719
+usun 369
+wstaw 99 738
+usun 395
+dodaj 80
+usun 558
+usun 376
+usun 413
+usun 666
+zamien 658 15
+usun 45
+dodaj 89
+usun 252
+wstaw 84 481
+usun 574
+wstaw 12 307
+usun 589
+dodaj 12
+dodaj 22
+wstaw 99 541
+wstaw 44 50
+usun 482
+zamien 425 401
+wstaw 72 586
+wstaw 59 650
+usun 268
+usun 377
+wstaw 55 257
+wstaw 9 269
+usun 503
+usun 332
+wstaw 96 728
+usun 145
+zamien 462 667
+wstaw 22 280
+usun 7
+wstaw 35 95
+wstaw 99 516
+usun 252
+dodaj 65
+dodaj 87
+wstaw 67 103
+usun 708
+dodaj 78
+usun 616
+zamien 120 76
+usun 28
+wstaw 78 705
+wstaw 73 224
+usun 267
+dodaj 5
+wstaw 85 575
+zamien 362 449
+usun 595
+wstaw 37 388
+wstaw 68 327
+usun 601
+zamien 653 421
+dodaj 54
+usun 135
+wstaw 62 473
+dodaj 25
+dodaj 74
+wstaw 57 216
+zamien 175 509
+dodaj 70
+wstaw 88 494
+usun 716
+wstaw 93 133
+usun 88
+dodaj 83
+usun 125
+dodaj 91
+usun 354
+usun 278
+dodaj 12
+dodaj 58
+dodaj 25
+zamien 350 474
+wstaw 97 718
+usun 300
+usun 564
+wstaw 20 121
+dodaj 54
+dodaj 92
+dodaj 31
+usun 145
+wstaw 30 571
+wstaw 30 53
+usun 517
+dodaj 51
+dodaj 3
+wstaw 90 478
+wstaw 98 685
+wstaw 91 278
+zamien 438 624
+dodaj 42
+wstaw 16 326
+wstaw 95 677
+wstaw 2 222
+zamien 272 463
+usun 519
+usun 420
+zamien 188 370
+usun 607
+dodaj 73
+dodaj 83
+wstaw 58 191
+wstaw 52 519
+usun 578
+usun 738
+wstaw 67 431
+usun 351
+usun 716
+dodaj 5
+wstaw 36 229
+wstaw 88 148
+wstaw 67 283
+usun 623
+wstaw 60 212
+usun 396
+dodaj 24
+usun 319
+usun 65
+wstaw 18 206
+usun 108
+dodaj 30
+usun 78
+wstaw 98 182
+usun 758
+usun 752
+usun 97
+wstaw 86 381
+dodaj 14
+usun 177
+zamien 160 287
+dodaj 46
+wstaw 11 563
+usun 379
+dodaj 56
+wstaw 69 401
+usun 239
+usun 8
+dodaj 64
+usun 108
+usun 280
+wstaw 92 96
+zamien 374 724
+wstaw 29 184
+wstaw 23 249
+wstaw 3 465
+usun 485
+wstaw 31 632
+wstaw 7 750
+zamien 667 211
+zamien 290 59
+wstaw 38 680
+wstaw 17 709
+wstaw 60 343
+zamien 146 359
+zamien 623 111
+dodaj 70
+wstaw 76 155
+wstaw 31 218
+wstaw 68 251
+wstaw 49 80
+zamien 334 392
+dodaj 8
+dodaj 64
+wstaw 52 463
+zamien 167 596
+wstaw 58 130
+wstaw 69 284
+zamien 459 337
+wstaw 87 143
+usun 470
+dodaj 61
+wstaw 47 701
+usun 178
+zamien 364 559
+zamien 128 668
+usun 427
+usun 209
+dodaj 3
+dodaj 88
+dodaj 26
+wstaw 77 679
+zamien 640 416
+usun 654
+wstaw 6 767
+dodaj 45
+usun 141
+usun 522
+usun 262
+usun 3
+dodaj 71
+zamien 18 47
+usun 385
+usun 211
+zamien 453 699
+zamien 466 338
+usun 399
+wstaw 34 411
+wstaw 98 207
+usun 568
+wstaw 93 205
+dodaj 45
+usun 325
+usun 762
+usun 429
+dodaj 76
+dodaj 60
+wstaw 59 619
+dodaj 72
+zamien 542 281
+wstaw 33 725
+wstaw 76 52
+wstaw 63 729
+wstaw 93 219
+usun 676
+wstaw 36 232
+wstaw 4 641
+zamien 154 486
+wstaw 54 375
+usun 186
+wstaw 46 407
+dodaj 49
+dodaj 21
+wstaw 57 149
+wstaw 17 351
+wstaw 95 141
+usun 386
+wstaw 28 162
+dodaj 68
+usun 555
+wstaw 11 440
+wstaw 91 173
+usun 174
+dodaj 25
+dodaj 94
+usun 36
+zamien 419 274
+usun 17
+dodaj 61
+dodaj 14
+usun 613
+wstaw 72 595
+usun 386
+usun 419
+usun 537
+wstaw 71 506
+usun 643
+usun 393
+dodaj 83
+usun 334
+usun 71
+wstaw 23 587
+dodaj 75
+dodaj 78
+zamien 214 441
+usun 247
+zamien 474 659
+dodaj 15
+wstaw 88 237
+wstaw 3 93
+dodaj 50
+dodaj 4
+usun 591
+usun 696
+dodaj 36
+zamien 505 245
+wstaw 32 377
+usun 137
+usun 376
+usun 705
+usun 782
+usun 169
+usun 318
+dodaj 15
+dodaj 10
+wstaw 11 163
+dodaj 52
+dodaj 3
+usun 471
+dodaj 91
+wstaw 84 617
+usun 472
+zamien 135 491
+wstaw 35 799
+usun 304
+usun 263
+wstaw 65 771
+dodaj 99
+dodaj 56
+usun 260
+dodaj 15
+wstaw 26 93
+dodaj 24
+wstaw 80 651
+wstaw 49 348
+wstaw 32 176
+usun 437
+wstaw 61 550
+dodaj 45
+dodaj 5
+usun 764
+usun 136
+wstaw 79 301
+usun 482
+wstaw 54 467
+usun 193
+dodaj 74
+usun 760
+wstaw 49 701
+dodaj 49
+wstaw 85 47
+wstaw 26 246
+usun 555
+zamien 10 110
+dodaj 50
+wstaw 55 134
+wstaw 14 490
+wstaw 82 63
+zamien 599 162
+usun 579
+dodaj 100
+usun 5
+wstaw 89 618
+usun 727
+wstaw 71 34
+usun 796
+usun 397
+usun 329
+zamien 454 435
+usun 670
+usun 399
+usun 665
+usun 566
+usun 438
+wstaw 53 433
+usun 88
+wstaw 20 275
+dodaj 53
+usun 307
+usun 148
+usun 559
+usun 139
+usun 477
+dodaj 16
+dodaj 71
+usun 454
+wstaw 28 280
+usun 235
+usun 784
+usun 540
+dodaj 74
+usun 86
+usun 74
+usun 21
+zamien 556 233
+wstaw 21 140
+wstaw 92 568
+usun 609
+wstaw 65 171
+usun 168
+wstaw 15 134
+wstaw 81 322
+usun 799
+wstaw 95 710
+wstaw 94 74
+dodaj 93
+wstaw 36 134
+zamien 154 619
+usun 33
+wstaw 10 273
+wstaw 44 66
+usun 500
+usun 688
+usun 196
+wstaw 85 539
+usun 12
+usun 192
+usun 779
+wstaw 99 77
+usun 129
+wstaw 74 617
+dodaj 1
+wstaw 87 172
+dodaj 70
+zamien 188 602
+usun 684
+zamien 558 345
+dodaj 53
+zamien 365 501
+usun 675
+dodaj 43
+wstaw 49 162
+wstaw 7 734
+dodaj 61
+usun 97
+usun 455
+usun 626
+dodaj 52
+zamien 693 430
+dodaj 60
+zamien 423 41
+usun 446
+wstaw 50 160
+dodaj 79
+wstaw 51 655
+usun 356
+usun 656
+dodaj 87
+wstaw 81 349
+dodaj 93
+dodaj 49
+usun 784
+wstaw 83 360
+wstaw 100 327
+wstaw 68 610
+zamien 519 645
+wstaw 61 495
+usun 722
+dodaj 23
+wstaw 54 258
+usun 753
+wstaw 3 628
+zamien 238 688
+wstaw 44 450
+usun 746
+dodaj 80
+wstaw 40 347
+dodaj 94
+wstaw 57 370
+wstaw 37 574
+usun 710
+usun 644
+usun 646
+dodaj 94
+zamien 297 114
+usun 218
+usun 5
+zamien 173 597
+usun 413
+wstaw 23 303
+zamien 772 269
+wstaw 60 100
+usun 673
+usun 727
+usun 691
+dodaj 39
+usun 410
+wstaw 74 730
+usun 694
+wstaw 30 60
+wstaw 61 4
+wstaw 25 101
+wstaw 46 492
+usun 302
+usun 413
+dodaj 64
+wstaw 93 690
+usun 428
+wstaw 18 201
+usun 579
+usun 747
+wstaw 45 425
+usun 492
+usun 274
+usun 318
+usun 385
+dodaj 72
+usun 212
+usun 588
+usun 323
+usun 446
+usun 766
+usun 196
+wstaw 12 298
+usun 460
+usun 503
+dodaj 84
+usun 549
+dodaj 81
+dodaj 94
+wstaw 20 671
+wstaw 82 367
+usun 730
+dodaj 35
+wstaw 54 378
+dodaj 41
+usun 649
+dodaj 41
+wstaw 55 451
+usun 767
+wstaw 6 396
+usun 21
+wstaw 8 587
+usun 169
+usun 802
+dodaj 26
+usun 670
+usun 343
+dodaj 97
+usun 291
+wstaw 23 60
+wstaw 69 270
+usun 39
+zamien 665 371
+zamien 755 362
+zamien 711 726
+usun 160
+wstaw 17 81
+wstaw 8 282
+wstaw 65 497
+dodaj 15
+usun 628
+wstaw 89 97
+wstaw 98 490
+wstaw 80 539
+usun 52
+wstaw 22 5
+wstaw 2 12
+usun 446
+zamien 153 432
+usun 145
+usun 224
+wstaw 34 584
+usun 196
+usun 271
+dodaj 7
+usun 389
+usun 447
+usun 100
+usun 566
+wstaw 81 585
+usun 312
+dodaj 14
+wstaw 67 60
+usun 237
+wstaw 20 724
+dodaj 63
+wstaw 89 63
+wstaw 20 271
+dodaj 25
+wstaw 78 705
+usun 235
+usun 470
+wstaw 84 144
+dodaj 9
+usun 467
+usun 748
+wstaw 68 8
+wstaw 90 754
+usun 434
+usun 371
+dodaj 6
+zamien 739 211
+usun 133
+usun 406
+usun 609
+wstaw 83 73
+zamien 63 493
+wstaw 92 182
+usun 697
+usun 617
+zamien 665 116
+wstaw 85 268
+zamien 38 640
+wstaw 33 30
+usun 49
+wstaw 42 343
+usun 760
+dodaj 69
+usun 355
+usun 231
+wstaw 17 727
+wstaw 24 657
+wstaw 100 645
+usun 800
+dodaj 45
+wstaw 91 390
+dodaj 65
+wstaw 94 781
+usun 499
+wstaw 91 802
+wstaw 4 684
+usun 174
+usun 428
+zamien 168 490
+dodaj 6
+usun 672
+usun 552
+wstaw 82 243
+usun 458
+wstaw 34 247
+dodaj 49
+usun 107
+usun 608
+usun 438
+wstaw 40 511
+dodaj 40
+usun 753
+usun 150
+wstaw 89 663
+dodaj 24
+wstaw 26 99
+wstaw 17 531
+usun 199
+usun 362
+usun 744
+usun 230
+usun 621
+usun 674
+dodaj 42
+dodaj 36
+dodaj 63
+wstaw 7 733
+usun 97
+wstaw 53 605
+wstaw 69 214
+usun 434
+wstaw 27 41
+usun 510
+usun 358
+usun 384
+usun 702
+dodaj 34
+usun 698
+wstaw 40 778
+dodaj 41
+zamien 25 767
+wstaw 16 245
+usun 302
+usun 95
+dodaj 38
+wstaw 68 493
+wstaw 67 249
+wstaw 30 424
+usun 366
+usun 114
+usun 759
+wstaw 96 412
+wstaw 51 79
+usun 347
+usun 667
+wstaw 9 463
+dodaj 59
+wstaw 47 141
+usun 677
+wstaw 87 810
+usun 460
+wstaw 81 328
+usun 407
+dodaj 33
+dodaj 99
+usun 157
+wstaw 83 818
+usun 138
+usun 400
+wstaw 17 743
+usun 40
+zamien 241 654
+wstaw 59 746
+dodaj 21
+usun 249
+wstaw 89 791
+usun 631
+zamien 587 200
+usun 742
+wstaw 75 740
+usun 814
+usun 12
+dodaj 60
+wstaw 18 758
+dodaj 67
+usun 475
+usun 730
+zamien 177 694
+dodaj 36
+usun 782
+wstaw 19 452
+wstaw 82 27
+usun 305
+dodaj 18
+usun 394
+wstaw 5 225
+usun 553
+zamien 648 316
+usun 89
+dodaj 100
+wstaw 64 515
+dodaj 48
+wstaw 63 429
+wstaw 42 436
+zamien 186 74
+wstaw 55 702
+wstaw 19 277
+dodaj 98
+usun 797
+usun 368
+dodaj 88
+wypisz

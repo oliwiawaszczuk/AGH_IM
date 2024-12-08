@@ -1,0 +1,982 @@
+dodaj 67
+dodaj 38
+zamien 0 1
+dodaj 91
+dodaj 99
+wstaw 52 0
+zamien 1 4
+wstaw 47 4
+zamien 2 1
+zamien 3 4
+wstaw 12 3
+wstaw 99 5
+dodaj 61
+wstaw 36 0
+dodaj 62
+dodaj 79
+dodaj 95
+dodaj 24
+wstaw 36 13
+wstaw 55 10
+wstaw 13 15
+wstaw 87 17
+dodaj 87
+wstaw 24 19
+dodaj 59
+wstaw 7 2
+wstaw 97 13
+wstaw 31 8
+dodaj 16
+dodaj 75
+wstaw 67 21
+wstaw 51 12
+dodaj 95
+dodaj 85
+zamien 13 19
+dodaj 80
+dodaj 81
+wstaw 74 0
+zamien 19 1
+dodaj 68
+zamien 29 24
+wstaw 55 15
+zamien 29 16
+wstaw 8 7
+wstaw 45 16
+dodaj 72
+wstaw 89 27
+dodaj 12
+wstaw 88 32
+wstaw 76 23
+zamien 10 4
+dodaj 57
+dodaj 88
+zamien 27 9
+dodaj 61
+dodaj 19
+wstaw 63 5
+dodaj 42
+zamien 4 22
+usun 2
+zamien 37 43
+zamien 29 6
+zamien 33 40
+zamien 37 4
+zamien 45 14
+dodaj 69
+dodaj 38
+zamien 40 42
+dodaj 94
+zamien 1 0
+wstaw 39 17
+zamien 32 39
+zamien 24 1
+wstaw 96 3
+dodaj 76
+dodaj 0
+dodaj 30
+wstaw 33 26
+dodaj 38
+wstaw 61 51
+dodaj 41
+zamien 12 34
+dodaj 57
+dodaj 59
+dodaj 58
+wstaw 78 60
+dodaj 32
+dodaj 99
+dodaj 54
+zamien 25 14
+dodaj 75
+wyczysc
+dodaj 31
+wstaw 63 0
+dodaj 15
+dodaj 26
+usun 3
+zamien 0 1
+dodaj 5
+wstaw 15 1
+dodaj 12
+dodaj 27
+dodaj 64
+zamien 6 3
+zamien 4 5
+dodaj 26
+dodaj 50
+wstaw 76 10
+wstaw 91 8
+wstaw 29 10
+dodaj 47
+dodaj 43
+dodaj 5
+zamien 2 12
+dodaj 26
+usun 11
+dodaj 26
+dodaj 95
+dodaj 14
+wstaw 80 15
+wstaw 2 6
+wypisz
+dodaj 75
+dodaj 38
+zamien 8 4
+dodaj 92
+dodaj 10
+dodaj 91
+dodaj 60
+dodaj 72
+wstaw 19 22
+zamien 28 15
+zamien 17 19
+dodaj 74
+dodaj 51
+zamien 27 5
+dodaj 39
+dodaj 10
+dodaj 10
+dodaj 80
+zamien 23 11
+wstaw 64 23
+wstaw 21 19
+dodaj 19
+wstaw 65 32
+wstaw 72 1
+dodaj 64
+dodaj 50
+dodaj 70
+dodaj 54
+dodaj 21
+dodaj 63
+wypisz_odwrotnie
+wstaw 14 42
+wstaw 31 3
+dodaj 18
+dodaj 14
+usun 18
+wstaw 92 31
+zamien 17 30
+usun 24
+wstaw 68 43
+dodaj 75
+dodaj 93
+wstaw 70 15
+zamien 4 28
+wstaw 17 8
+wstaw 20 51
+dodaj 43
+dodaj 44
+dodaj 12
+zamien 39 38
+dodaj 39
+dodaj 45
+dodaj 34
+zamien 51 13
+usun 6
+zamien 54 33
+wstaw 8 16
+wstaw 68 38
+dodaj 35
+dodaj 36
+dodaj 10
+zamien 62 8
+zamien 63 39
+wstaw 56 5
+dodaj 9
+wstaw 94 15
+dodaj 21
+zamien 25 49
+dodaj 90
+dodaj 3
+dodaj 94
+dodaj 15
+dodaj 20
+dodaj 5
+dodaj 90
+dodaj 45
+dodaj 0
+dodaj 97
+dodaj 27
+usun 51
+usun 53
+dodaj 35
+dodaj 59
+dodaj 81
+wstaw 24 48
+dodaj 48
+zamien 34 13
+dodaj 51
+dodaj 59
+zamien 25 73
+wyczysc
+dodaj 45
+wypisz_odwrotnie
+wstaw 21 0
+dodaj 92
+wstaw 93 2
+dodaj 17
+dodaj 20
+wyczysc
+dodaj 75
+dodaj 90
+dodaj 6
+zamien 2 1
+dodaj 38
+wstaw 75 0
+wstaw 93 0
+dodaj 8
+wstaw 16 5
+dodaj 78
+zamien 2 4
+zamien 5 4
+zamien 2 3
+dodaj 53
+zamien 8 6
+zamien 7 5
+wstaw 58 8
+dodaj 48
+dodaj 90
+dodaj 60
+zamien 5 2
+dodaj 70
+dodaj 28
+dodaj 83
+dodaj 71
+usun 0
+wyczysc
+dodaj 83
+dodaj 40
+dodaj 64
+wstaw 65 2
+zamien 0 1
+zamien 0 1
+wyczysc
+dodaj 99
+wstaw 50 0
+zamien 1 0
+zamien 0 1
+dodaj 22
+dodaj 46
+dodaj 34
+dodaj 72
+zamien 0 2
+zamien 4 1
+dodaj 30
+wstaw 12 4
+dodaj 77
+dodaj 21
+dodaj 42
+dodaj 46
+wstaw 64 5
+wstaw 69 13
+zamien 3 4
+wstaw 92 5
+wstaw 39 6
+zamien 13 11
+dodaj 89
+dodaj 16
+zamien 3 6
+dodaj 79
+wstaw 16 2
+zamien 4 14
+zamien 3 11
+usun 1
+dodaj 72
+komenda nie teges
+wstaw 78 4
+dodaj 73
+wstaw 8 20
+dodaj 70
+dodaj 29
+wstaw 22 22
+dodaj 46
+dodaj 96
+dodaj 5
+wypisz
+wstaw 11 16
+dodaj 3
+wstaw 42 2
+dodaj 82
+dodaj 72
+dodaj 12
+wstaw 79 23
+wstaw 52 9
+dodaj 33
+dodaj 22
+wstaw 45 12
+dodaj 96
+wstaw 91 19
+wypisz
+zamien 5 31
+dodaj 75
+dodaj 45
+zamien 1 9
+dodaj 77
+wyczysc
+dodaj 27
+usun 0
+dodaj 0
+dodaj 59
+wstaw 67 2
+dodaj 27
+dodaj 25
+dodaj 29
+dodaj 23
+wypisz
+zamien 5 6
+wstaw 44 3
+zamien 2 1
+wstaw 2 7
+zamien 6 0
+wstaw 32 9
+dodaj 48
+dodaj 70
+wstaw 83 6
+wstaw 38 2
+dodaj 23
+usun 1
+zamien 13 12
+zamien 9 11
+zamien 0 4
+wstaw 10 14
+dodaj 32
+wstaw 41 13
+wstaw 59 13
+wstaw 67 17
+dodaj 18
+usun 2
+dodaj 44
+dodaj 87
+wstaw 8 2
+wstaw 96 8
+usun 1
+usun 2
+usun 8
+wstaw 88 14
+dodaj 85
+dodaj 36
+wstaw 1 1
+dodaj 7
+zamien 22 18
+wstaw 66 7
+dodaj 59
+dodaj 81
+dodaj 75
+wstaw 93 1
+dodaj 32
+dodaj 15
+wstaw 31 29
+zamien 5 12
+wstaw 64 22
+zamien 32 23
+dodaj 34
+zamien 31 8
+zamien 23 2
+dodaj 44
+dodaj 82
+wyczysc
+dodaj 9
+usun 0
+dodaj 98
+dodaj 82
+zamien 0 1
+dodaj 97
+usun 0
+zamien 0 1
+wstaw 55 1
+dodaj 83
+zamien 3 2
+dodaj 73
+dodaj 27
+dodaj 8
+dodaj 91
+dodaj 23
+usun 5
+wstaw 82 8
+dodaj 75
+wypisz_odwrotnie
+wypisz
+wypisz_odwrotnie
+dodaj 45
+wstaw 91 3
+usun 3
+zamien 3 0
+dodaj 52
+wypisz_odwrotnie
+wypisz_odwrotnie
+zamien 2 7
+usun 5
+dodaj 17
+usun 2
+zamien 10 2
+zamien 8 5
+wstaw 34 2
+dodaj 49
+zamien 2 4
+dodaj 15
+zamien 7 11
+zamien 4 5
+wyczysc
+dodaj 41
+dodaj 24
+zamien 0 1
+wstaw 86 1
+wstaw 25 3
+dodaj 18
+usun 4
+zamien 3 2
+wstaw 55 0
+usun 3
+wstaw 15 4
+wstaw 40 4
+dodaj 26
+zamien 0 1
+dodaj 41
+dodaj 93
+wstaw 61 0
+wypisz_odwrotnie
+wyczysc
+dodaj 70
+wstaw 48 1
+zamien 1 0
+dodaj 31
+dodaj 75
+dodaj 49
+wstaw 50 5
+zamien 2 4
+wstaw 57 2
+dodaj 45
+wstaw 16 4
+dodaj 57
+dodaj 88
+dodaj 85
+usun 11
+dodaj 51
+wstaw 73 12
+dodaj 0
+dodaj 71
+wstaw 61 10
+dodaj 53
+wstaw 47 6
+dodaj 63
+dodaj 2
+usun 16
+dodaj 43
+dodaj 30
+dodaj 47
+usun 15
+dodaj 78
+usun 21
+zamien 9 12
+wstaw 88 2
+zamien 21 16
+dodaj 66
+dodaj 19
+dodaj 82
+zamien 15 16
+wstaw 62 10
+dodaj 10
+dodaj 25
+dodaj 69
+wypisz
+zamien 17 18
+zamien 8 17
+dodaj 93
+zamien 13 29
+usun 11
+zamien 15 11
+dodaj 42
+dodaj 36
+wstaw 17 13
+dodaj 82
+wstaw 27 9
+zamien 16 2
+wstaw 99 1
+wstaw 94 18
+dodaj 25
+usun 35
+zamien 25 16
+wstaw 26 10
+zamien 12 23
+dodaj 90
+dodaj 19
+wstaw 22 34
+dodaj 87
+usun 19
+dodaj 88
+wypisz
+dodaj 83
+dodaj 51
+zamien 38 20
+dodaj 22
+dodaj 66
+dodaj 64
+dodaj 19
+dodaj 1
+wstaw 85 14
+zamien 30 21
+usun 48
+zamien 21 37
+dodaj 9
+wstaw 68 23
+zamien 32 22
+zamien 28 2
+wstaw 60 10
+zamien 13 7
+zamien 15 19
+wstaw 94 49
+wypisz_odwrotnie
+dodaj 97
+dodaj 54
+wstaw 97 13
+zamien 12 26
+dodaj 11
+wypisz
+dodaj 60
+dodaj 11
+zamien 37 33
+dodaj 45
+wstaw 77 16
+dodaj 52
+dodaj 83
+zamien 58 37
+wstaw 43 61
+dodaj 80
+dodaj 51
+wstaw 91 29
+dodaj 54
+zamien 6 50
+wstaw 8 14
+wstaw 78 33
+wstaw 36 27
+wypisz
+dodaj 24
+zamien 68 40
+wstaw 35 18
+wstaw 81 48
+dodaj 81
+zamien 40 18
+wstaw 20 10
+zamien 45 11
+wstaw 99 30
+dodaj 0
+wstaw 19 40
+wstaw 60 41
+usun 61
+dodaj 19
+dodaj 13
+zamien 37 16
+dodaj 60
+dodaj 37
+wyczysc
+dodaj 91
+dodaj 37
+dodaj 84
+zamien 1 0
+dodaj 57
+wstaw 23 3
+dodaj 27
+dodaj 96
+dodaj 76
+dodaj 5
+wstaw 55 8
+dodaj 13
+usun 7
+dodaj 19
+wstaw 98 8
+wstaw 6 1
+dodaj 28
+dodaj 42
+zamien 8 11
+zamien 6 12
+wstaw 72 6
+zamien 0 11
+wypisz
+dodaj 31
+dodaj 47
+wstaw 34 5
+zamien 15 9
+zamien 15 10
+dodaj 31
+dodaj 18
+zamien 9 19
+wstaw 15 5
+dodaj 52
+dodaj 45
+usun 19
+dodaj 76
+usun 22
+zamien 0 7
+dodaj 25
+dodaj 54
+dodaj 3
+dodaj 47
+wstaw 36 24
+dodaj 6
+wypisz
+wstaw 17 0
+dodaj 80
+zamien 10 27
+wstaw 90 24
+dodaj 9
+wstaw 72 29
+wyczysc
+dodaj 30
+dodaj 6
+zamien 1 0
+dodaj 80
+dodaj 79
+dodaj 16
+zamien 1 2
+dodaj 89
+dodaj 69
+usun 6
+dodaj 45
+zamien 3 0
+wstaw 6 0
+zamien 4 7
+dodaj 90
+dodaj 75
+zamien 4 1
+dodaj 67
+zamien 3 1
+wstaw 68 6
+usun 1
+wstaw 22 7
+wstaw 77 8
+wstaw 59 11
+wstaw 89 13
+dodaj 9
+wstaw 10 15
+wstaw 29 15
+dodaj 14
+zamien 10 15
+dodaj 72
+zamien 12 1
+dodaj 11
+wypisz_odwrotnie
+dodaj 97
+dodaj 70
+wstaw 52 21
+usun 16
+usun 9
+dodaj 32
+dodaj 25
+wstaw 62 9
+dodaj 29
+wstaw 19 26
+dodaj 33
+zamien 18 6
+dodaj 83
+zamien 11 2
+wstaw 18 25
+zamien 23 0
+usun 22
+dodaj 61
+zamien 13 15
+dodaj 63
+dodaj 45
+dodaj 64
+dodaj 26
+dodaj 64
+dodaj 89
+wstaw 43 36
+dodaj 91
+zamien 32 27
+usun 16
+dodaj 0
+dodaj 77
+wypisz
+dodaj 93
+zamien 36 35
+dodaj 25
+dodaj 1
+wypisz_odwrotnie
+dodaj 0
+dodaj 62
+dodaj 68
+dodaj 88
+dodaj 92
+dodaj 3
+zamien 33 19
+dodaj 33
+wstaw 22 36
+wstaw 19 25
+dodaj 46
+usun 5
+dodaj 94
+dodaj 51
+dodaj 41
+dodaj 10
+dodaj 9
+dodaj 19
+wstaw 62 33
+zamien 34 52
+dodaj 7
+wstaw 48 39
+dodaj 93
+wstaw 52 54
+dodaj 80
+wstaw 51 33
+dodaj 96
+wstaw 59 9
+dodaj 3
+wstaw 16 10
+zamien 38 15
+dodaj 17
+wstaw 82 14
+dodaj 41
+dodaj 28
+dodaj 31
+wstaw 37 41
+wypisz
+zamien 41 0
+zamien 8 34
+zamien 36 12
+zamien 69 55
+dodaj 8
+dodaj 91
+dodaj 48
+usun 34
+dodaj 75
+dodaj 45
+wstaw 45 52
+zamien 48 2
+dodaj 25
+dodaj 31
+zamien 52 78
+zamien 47 53
+dodaj 24
+zamien 60 12
+zamien 41 15
+dodaj 58
+wstaw 78 38
+zamien 20 46
+dodaj 19
+dodaj 53
+dodaj 79
+usun 39
+dodaj 50
+zamien 16 59
+zamien 45 80
+wstaw 50 20
+zamien 31 36
+usun 1
+zamien 10 49
+dodaj 31
+dodaj 9
+wyczysc
+dodaj 62
+dodaj 62
+wstaw 4 2
+wstaw 43 2
+dodaj 96
+dodaj 24
+zamien 1 2
+dodaj 5
+dodaj 64
+dodaj 86
+dodaj 82
+wstaw 48 1
+dodaj 68
+wstaw 96 11
+wstaw 76 9
+dodaj 50
+dodaj 80
+wstaw 94 3
+dodaj 16
+dodaj 11
+wyczysc
+wyczysc
+dodaj 34
+dodaj 82
+zamien 1 0
+dodaj 38
+zamien 1 2
+dodaj 7
+usun 1
+zamien 0 2
+zamien 2 0
+dodaj 25
+wstaw 0 1
+zamien 1 3
+dodaj 90
+zamien 4 3
+wstaw 34 2
+dodaj 87
+wstaw 90 8
+wstaw 45 4
+usun 3
+dodaj 39
+wyczysc
+dodaj 41
+dodaj 51
+dodaj 77
+wstaw 54 3
+wstaw 36 0
+dodaj 20
+zamien 0 2
+usun 3
+dodaj 31
+dodaj 82
+dodaj 56
+wstaw 79 0
+dodaj 26
+dodaj 92
+wstaw 60 11
+wstaw 60 10
+dodaj 33
+dodaj 74
+dodaj 73
+wstaw 22 6
+dodaj 64
+dodaj 43
+usun 5
+dodaj 26
+wypisz
+dodaj 96
+dodaj 34
+dodaj 99
+dodaj 0
+zamien 5 11
+wstaw 46 6
+zamien 21 4
+dodaj 93
+wyczysc
+dodaj 35
+dodaj 10
+dodaj 69
+dodaj 13
+zamien 1 0
+wyczysc
+dodaj 57
+dodaj 75
+wstaw 4 1
+dodaj 80
+dodaj 65
+zamien 3 0
+zamien 3 1
+dodaj 12
+wstaw 95 4
+dodaj 88
+usun 0
+dodaj 81
+dodaj 58
+wypisz_odwrotnie
+wstaw 2 5
+zamien 3 9
+dodaj 10
+dodaj 46
+dodaj 12
+usun 3
+dodaj 38
+dodaj 24
+zamien 3 2
+dodaj 42
+zamien 3 4
+wstaw 59 4
+dodaj 64
+wstaw 62 14
+dodaj 21
+wypisz
+dodaj 7
+wstaw 11 14
+dodaj 77
+wstaw 88 12
+dodaj 48
+dodaj 52
+wstaw 35 1
+wypisz
+dodaj 84
+zamien 11 3
+wstaw 32 13
+dodaj 8
+wstaw 92 7
+usun 4
+dodaj 63
+dodaj 42
+wstaw 67 7
+dodaj 6
+dodaj 0
+zamien 12 29
+dodaj 47
+usun 3
+dodaj 20
+wstaw 87 12
+zamien 26 5
+wstaw 24 19
+dodaj 7
+wstaw 88 3
+dodaj 6
+dodaj 12
+dodaj 52
+wypisz_odwrotnie
+dodaj 17
+wstaw 80 1
+wstaw 44 12
+zamien 42 15
+dodaj 47
+dodaj 17
+dodaj 15
+dodaj 41
+dodaj 77
+dodaj 23
+zamien 13 15
+dodaj 91
+zamien 0 19
+dodaj 55
+dodaj 58
+zamien 35 31
+zamien 35 46
+dodaj 80
+wypisz
+dodaj 90
+dodaj 70
+dodaj 51
+dodaj 57
+dodaj 6
+wstaw 85 46
+dodaj 1
+wstaw 44 8
+zamien 13 50
+dodaj 11
+zamien 3 62
+wstaw 41 11
+dodaj 68
+wyczysc
+dodaj 82
+dodaj 72
+wstaw 74 1
+wyczysc
+dodaj 80
+dodaj 97
+dodaj 45
+wstaw 61 2
+dodaj 89
+wstaw 1 4
+usun 1
+wstaw 45 0
+usun 3
+wstaw 73 3
+dodaj 13
+wstaw 38 5
+zamien 3 4
+wstaw 42 8
+wstaw 22 8
+wstaw 16 2
+dodaj 91
+zamien 1 5
+dodaj 45
+wstaw 70 1
+dodaj 97
+dodaj 42
+zamien 5 2
+wstaw 77 8
+usun 2
+zamien 12 14
+zamien 6 4
+dodaj 73
+wypisz
+wypisz_odwrotnie
