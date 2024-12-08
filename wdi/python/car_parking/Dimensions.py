@@ -45,4 +45,10 @@ def calc_screens_position():
     add_new_car_to_queue_window_y = int(window_sizes["menu"].height())+100
     position_screens["add_new_car_to_queue_window"] = QRect(add_new_car_to_queue_window_x, add_new_car_to_queue_window_y, add_new_car_to_queue_window_width, add_new_car_to_queue_window_height)
 
+    game_header_screen_width = int(window_sizes["main"].width()-100)
+    game_header_screen_height = int(100)
+    game_header_screen_position_x = int(screen_size.width()/2 - game_header_screen_width/2)
+    game_header_screen_position_y = int(100)
+    position_screens["gameHeader"] = QRect(game_header_screen_position_x, game_header_screen_position_y, game_header_screen_width, game_header_screen_height)
+
     return position_screens, window_sizes

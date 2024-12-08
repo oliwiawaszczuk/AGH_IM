@@ -9,6 +9,7 @@ from Classes.Queue import ClassQueue
 from Dimensions import calc_screens_position
 from Classes.Parking import Parking
 from screens.AddNewCarToQueueScreen import AddNewCarToQueueScreen
+from screens.GameHeader import GameHeader
 from screens.Queue import Queue
 from screens.Close import Close
 from screens.Main import MainWindow
@@ -24,18 +25,18 @@ if __name__ == "__main__":
     queue_list.add_car_to_queue(Car(2, "KK 123AG", "car2.png", "BMW", "X5", 2019, "Diesel", 45000))
     queue_list.add_car_to_queue(Car(3, "LB 0044A", "car3.png", "Audi", "A4", 2018, "Petrol", 60000))
     queue_list.add_car_to_queue(Car(4, "PR 444", "car4.png", "Mercedes", "C-Class", 2021, "Electric", 15000))
-    queue_list.add_car_to_queue(Car(5, "WW 12FE3", "car5.png", "Honda", "Civic", 2017, "Petrol", 80000))
-    queue_list.add_car_to_queue(Car(6, "LBI 23F1", "car6.png", "Ford", "Focus", 2020, "Hybrid", 25000))
-    queue_list.add_car_to_queue(Car(7, "LBI 23F1", "car7.png", "Nissan", "Leaf", 2021, "Electric", 10000))
-    queue_list.add_car_to_queue(Car(8, "KR 01E34", "car8.png", "Volkswagen", "Golf", 2016, "Diesel", 90000))
-    queue_list.add_car_to_queue(Car(9, "KK 123AG", "car2.png", "BMW", "X5", 2019, "Diesel", 45000))
-    queue_list.add_car_to_queue(Car(10, "LB 0044A", "car3.png", "Audi", "A4", 2018, "Petrol", 60000))
-    queue_list.add_car_to_queue(Car(11, "PR 444", "car4.png", "Mercedes", "C-Class", 2021, "Electric", 15000))
-    queue_list.add_car_to_queue(Car(12, "WW 12FE3", "car5.png", "Honda", "Civic", 2017, "Petrol", 80000))
-    queue_list.add_car_to_queue(Car(13, "LBI 23F1", "car6.png", "Ford", "Focus", 2020, "Hybrid", 25000))
-    queue_list.add_car_to_queue(Car(14, "LBI 23F1", "car7.png", "Nissan", "Leaf", 2021, "Electric", 10000))
-    queue_list.add_car_to_queue(Car(15, "LBI 23F1", "car1.png", "Toyota", "Corolla", 2020, "Hybrid", 30000))
-    queue_list.add_car_to_queue(Car(16, "LBI 23F1", "car8.png", "Volkswagen", "Golf", 2016, "Diesel", 90000))
+    # queue_list.add_car_to_queue(Car(5, "WW 12FE3", "car5.png", "Honda", "Civic", 2017, "Petrol", 80000))
+    # queue_list.add_car_to_queue(Car(6, "LBI 23F1", "car6.png", "Ford", "Focus", 2020, "Hybrid", 25000))
+    # queue_list.add_car_to_queue(Car(7, "LBI 23F1", "car7.png", "Nissan", "Leaf", 2021, "Electric", 10000))
+    # queue_list.add_car_to_queue(Car(8, "KR 01E34", "car8.png", "Volkswagen", "Golf", 2016, "Diesel", 90000))
+    # queue_list.add_car_to_queue(Car(9, "KK 123AG", "car2.png", "BMW", "X5", 2019, "Diesel", 45000))
+    # queue_list.add_car_to_queue(Car(10, "LB 0044A", "car3.png", "Audi", "A4", 2018, "Petrol", 60000))
+    # queue_list.add_car_to_queue(Car(11, "PR 444", "car4.png", "Mercedes", "C-Class", 2021, "Electric", 15000))
+    # queue_list.add_car_to_queue(Car(12, "WW 12FE3", "car5.png", "Honda", "Civic", 2017, "Petrol", 80000))
+    # queue_list.add_car_to_queue(Car(13, "LBI 23F1", "car6.png", "Ford", "Focus", 2020, "Hybrid", 25000))
+    # queue_list.add_car_to_queue(Car(14, "LBI 23F1", "car7.png", "Nissan", "Leaf", 2021, "Electric", 10000))
+    # queue_list.add_car_to_queue(Car(15, "LBI 23F1", "car1.png", "Toyota", "Corolla", 2020, "Hybrid", 30000))
+    # queue_list.add_car_to_queue(Car(16, "LBI 23F1", "car8.png", "Volkswagen", "Golf", 2016, "Diesel", 90000))
 
     for i in range(1, const.HOW_MANY_EMPY_FIELD+1):
         new_parking_space = ParkingSpace(i)
@@ -62,6 +63,9 @@ if __name__ == "__main__":
     add_new_car_to_queue = AddNewCarToQueueScreen(window_sizes['add_new_car_to_queue'], position_screens['add_new_car_to_queue'], position_screens["add_new_car_to_queue_window"], queue_list)
     add_new_car_to_queue.show()
     add_new_car_to_queue.set_queue_screen(queue_window)
+
+    game_header_window = GameHeader(position_screens["gameHeader"])
+    game_header_window.show()
 
     close = Close(window_sizes['close'], position_screens['close'], app)
     close.show()

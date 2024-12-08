@@ -1,3 +1,5 @@
+import time
+
 from PIL import Image
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout
 from PyQt5.QtGui import QPainter, QPen, QColor
