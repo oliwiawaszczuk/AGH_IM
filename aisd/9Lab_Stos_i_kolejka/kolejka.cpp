@@ -47,6 +47,7 @@ struct Queue {
             Person *current_person = first_person;
             while (current_person->next != nullptr)
                 current_person = current_person->next;
+            cout << "- " << new_person_to_queue << endl;
             current_person->next = new_person_to_queue;
         }
     }
@@ -111,6 +112,7 @@ int main(int argc, char* argv[]) {
         if (command == "zakolejkuj") {
             string name, surname, age, weight;
             ss >> name >> surname >> age >> weight;
+            cout << "Adding " << name << endl;
             queue.add(name, surname, age, weight);
         } else if (command == "wypisz") queue.print();
         else if (command == "pobierz") queue.get_one_person_from_queue();
@@ -118,4 +120,4 @@ int main(int argc, char* argv[]) {
     }
 
     return 0;
-}
+} 

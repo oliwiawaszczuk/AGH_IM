@@ -1,0 +1,1 @@
+C:\MinGW\bin\g++.exe %1 -o cpp && cpp.exe
