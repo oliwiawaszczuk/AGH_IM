@@ -1,0 +1,7 @@
+- polskie znaki
+- rekurencja
+- listy jedno- i dwu- kierunkowe
+- stos
+- kolejka
+
+wykorzystanie rekurencji w listach jednokierunkoych

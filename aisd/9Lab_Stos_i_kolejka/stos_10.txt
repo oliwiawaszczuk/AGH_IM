@@ -1,0 +1,13 @@
+odloz Ala ma kota
+odloz Wojtek ma psa
+podejrzyj
+rozmiar
+czy_pusty
+wypisz
+zdejmij
+wypisz
+zdejmij
+czy_pusty
+podejrzyj
+zdejmij
+wypisz

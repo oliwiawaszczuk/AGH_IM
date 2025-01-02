@@ -1,0 +1,10 @@
+zakolejkuj Jan Kowalski 30 75.5
+zakolejkuj Anna Nowak 25 62.3
+wypisz
+rozmiar
+pobierz
+wypisz
+rozmiar
+pobierz
+wypisz
+pobierz
