@@ -145,8 +145,10 @@ void sprawdz(node root, string word) {
             currentNode = nextNode;
         }
     }
-
-    cout << "Słowo “" << word << "” występuje w słowniku";
+    if (currentNode->isEndOfWord)
+        cout << "Słowo “" << word << "” występuje w słowniku";
+    else
+        cout << "Brak słowa “" << word << "” w słowniku";
 }
 
 int main(int argc, char* argv[]) {
@@ -159,20 +161,18 @@ int main(int argc, char* argv[]) {
 
     while(getline(file, line)) {
         node* currentNode = &root;
+        string lin;
         for (int i=0; i<line.length(); i++) {
             node* nextNode = currentNode->getNodeInVectorByChar(line[i]);
+            lin += line[i];
             if (nextNode == nullptr) {
                 node* newNode = currentNode->addCharToVector(line[i], (i==line.length()-1));
                 currentNode = newNode;
             } else {
                 currentNode = nextNode;
-                currentNode->isEndOfWord = i==line.length()-1;
             }
         }
     }
-
-//    wypisz_wszerz(&root, "");
-    sprawdz(root, "alba");
 
     return 0;
 }
