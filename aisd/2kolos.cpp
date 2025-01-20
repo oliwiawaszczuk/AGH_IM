@@ -1,17 +1,37 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <sstream>
 #include <string>
+#include <ctime>
+#include <iomanip>
 
 using namespace std;
 
 int main(int argc, char* argv[]) {return 0;}
 
+// FORMATOWANIE PO PRZECINKU
+cout << fixed << setprecision(3);
+cout << setw(3) << endl; // spacje
+
+
+// TABLICE 2-WYMIAROWE
+int **board = new int*[n];
+for (int i=0; i<n; i++)
+    board[i] = new int[n];
+
+
 // RANDOMOWE LICZBY Z PRZEDZIALY <from, to>
-srand(time(0));
+srand(time(0)); // wrzucic na sam poczatek w main()
 int get_random_number(int from, int to) {
     return rand() % (to - from + 1) + from;
 }
+
+// STRINGSTREAM
+string tekst = "123 456 test";
+stringstream ss(tekst);
+ss >> liczba1 >> liczba2 >> slowo;
+
 
 // OBRAZY
 struct PGM {
