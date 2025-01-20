@@ -47,12 +47,17 @@ struct Queue {
             Person *current_person = first_person;
             while (current_person->next != nullptr)
                 current_person = current_person->next;
-            cout << "- " << new_person_to_queue << endl;
+            cout << "- " << new_person_to_queue->surname << endl;
             current_person->next = new_person_to_queue;
         }
     }
 
     void print() {
+        if (first_person == nullptr) {
+            cout << "Kolejka jest pusta." << endl;
+            return;
+        }
+
         cout << "Kolejka: " << endl;
         cout << get_string_with_good_space("NR", nr_space+2, true) << "|";
         cout << get_string_with_good_space("IMIE", name_and_surname_space+2, true) << " |";
@@ -61,23 +66,23 @@ struct Queue {
         cout << get_string_with_good_space("WAGA", weight_space+2, true) << endl;
 
         int counter = 1;
-        for (Person *current_person = first_person; current_person->next != nullptr; current_person = current_person->next) {
+        for (Person *current_person = first_person; current_person != nullptr; current_person = current_person->next) {
             cout << get_string_with_good_space(to_string(counter), nr_space) << " | ";
             cout << get_string_with_good_space(current_person->name, name_and_surname_space) << " | ";
             cout << get_string_with_good_space(current_person->surname, name_and_surname_space) << " | ";
             cout << get_string_with_good_space(current_person->age, age_space) << " | ";
             cout << get_string_with_good_space(current_person->weight, weight_space) << endl;
+            counter++;
         }
     }
 
     void get_one_person_from_queue() {
         if (first_person == nullptr) {
-            cout << "Kolejka pusta, nie można pobrać elementu." << endl;
+            cout << "Kolejka jest pusta, nie można pobrać elementu." << endl;
             return;
         }
         Person *person_to_delete = first_person;
-        if (person_to_delete->next)
-            first_person = person_to_delete->next;
+        first_person = person_to_delete->next;
 
         delete person_to_delete;
     }
@@ -85,7 +90,7 @@ struct Queue {
     void size() {
         int count = 0;
 
-        for(Person *current_person = first_person; current_person->next != nullptr; current_person = current_person->next)
+        for(Person *current_person = first_person; current_person != nullptr; current_person = current_person->next)
             count++;
 
         if (count > 0)
@@ -101,7 +106,7 @@ struct Queue {
 int main(int argc, char* argv[]) {
     Queue queue;
 
-    ifstream file("kolejka_10.txt");
+    ifstream file("kolejka_10.txt"); //argv[1]
     string line;
 
     while(getline(file, line)) {
@@ -112,7 +117,7 @@ int main(int argc, char* argv[]) {
         if (command == "zakolejkuj") {
             string name, surname, age, weight;
             ss >> name >> surname >> age >> weight;
-            cout << "Adding " << name << endl;
+//            cout << "Adding " << name << endl;
             queue.add(name, surname, age, weight);
         } else if (command == "wypisz") queue.print();
         else if (command == "pobierz") queue.get_one_person_from_queue();
