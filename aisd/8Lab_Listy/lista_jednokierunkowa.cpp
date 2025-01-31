@@ -106,6 +106,26 @@ struct list {
             if (position2 == 0) first = nr_2;
         }
     }
+
+    void sort_ascending() {
+        for (number *i = first; i != nullptr; i = i->next) {
+            for (number *j = i->next; j != nullptr; j = j->next) {
+                if (i->nr > j->nr) {
+                    swap(i->nr, j->nr);
+                }
+            }
+        }
+    }
+
+    void sort_descending() {
+        for (number *i = first; i != nullptr; i = i->next) {
+            for (number *j = i->next; j != nullptr; j = j->next) {
+                if (i->nr < j->nr) {
+                    swap(i->nr, j->nr);
+                }
+            }
+        }
+    }
 };
 
 int main(int argc, char* argv[]) {
